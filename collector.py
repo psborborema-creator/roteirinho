@@ -33,7 +33,7 @@ def collect():
     except (ValueError,TypeError): continue
     for e in objs:
      start=e.get("startDate")
-     if not start or not re.match(r"^\\d{4}-\\d{2}-\\d{2}",str(start)):continue
+     if not start or not re.match(r"^\d{4}-\d{2}-\d{2}",str(start)):continue
      loc=e.get("location") or {}; loc=loc[0] if isinstance(loc,list) and loc else loc
      offers=e.get("offers") or {}; offers=offers[0] if isinstance(offers,list) and offers else offers
      price=offers.get("price") if isinstance(offers,dict) else None
@@ -50,6 +50,6 @@ def main():
  byid={e["id"]:e for e in old.get("eventos",[]) if e.get("data","")>=now}
  for e in new:byid[e["id"]]=e
  result={"atualizado_em":datetime.datetime.now(datetime.timezone.utc).isoformat(),"eventos":sorted(byid.values(),key=lambda e:e["data"]),"erros_coleta":errors,"novos_encontrados":len(new)}
- path.write_text(json.dumps(result,ensure_ascii=False,indent=2)+"\\n")
+ path.write_text(json.dumps(result,ensure_ascii=False,indent=2)+"\n")
  print(json.dumps({"total":len(byid),"coletados":len(new),"erros":errors},ensure_ascii=False))
 if __name__=="__main__":main()
