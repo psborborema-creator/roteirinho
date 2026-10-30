@@ -37,6 +37,265 @@
       "tipo": "curadoria secundaria",
       "uso": "descoberta de atividades; validar com organizador antes da publicacao",
       "prioridade": "alta"
+    },
+    {
+      "nome": "Eventinhos Cariocas",
+      "url": "https://linktr.ee/eventinhoscariocas",
+      "ativo": true,
+      "tipo": "curadoria",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Clubinho de Ofertas",
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro",
+      "ativo": true,
+      "tipo": "plataforma",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Sympla — Infantil",
+      "url": "https://www.sympla.com.br/eventos/rio-de-janeiro-rj/infantil",
+      "ativo": true,
+      "tipo": "plataforma",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Pequenos no Rio",
+      "url": "https://pequenosnorio.com.br/",
+      "ativo": true,
+      "tipo": "curadoria",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Agenda Carioca",
+      "url": "https://www.agendacarioca.com.br/",
+      "ativo": true,
+      "tipo": "curadoria",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Riotur",
+      "url": "https://riotur.rio/",
+      "ativo": true,
+      "tipo": "institucional",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Roteirinho Carioca",
+      "url": "https://roteirinhocarioca.com.br/",
+      "ativo": true,
+      "tipo": "curadoria",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Rio na Noite — Infantil",
+      "url": "https://rionanoite.com.br/infantil",
+      "ativo": true,
+      "tipo": "curadoria",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Maternando RJ",
+      "url": "https://www.instagram.com/maternandorj/",
+      "ativo": true,
+      "tipo": "rede social",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Sesc Cultura",
+      "url": "https://cultura.sescrio.org.br/",
+      "ativo": true,
+      "tipo": "institucional",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "CAIXA Cultural",
+      "url": "https://www.caixacultural.gov.br/",
+      "ativo": true,
+      "tipo": "institucional",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Museu do Amanhã",
+      "url": "https://museudoamanha.org.br/",
+      "ativo": true,
+      "tipo": "equipamento cultural",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Museu da Vida Fiocruz",
+      "url": "https://museudavida.fiocruz.br/",
+      "ativo": true,
+      "tipo": "equipamento cultural",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Casa da Ciência UFRJ",
+      "url": "https://www.casadaciencia.ufrj.br/",
+      "ativo": true,
+      "tipo": "equipamento cultural",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Planetário do Rio",
+      "url": "https://www.planetario.rio/",
+      "ativo": true,
+      "tipo": "equipamento cultural",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Firjan SESI",
+      "url": "https://www.firjan.com.br/sesi/",
+      "ativo": true,
+      "tipo": "institucional",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Funarte",
+      "url": "https://www.funarte.gov.br/",
+      "ativo": true,
+      "tipo": "institucional",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "FUNARJ",
+      "url": "https://www.funarj.rj.gov.br/",
+      "ativo": true,
+      "tipo": "institucional",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Ibram — Museus",
+      "url": "https://www.museus.gov.br/",
+      "ativo": true,
+      "tipo": "institucional",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Bibliotecas Parque",
+      "url": "https://www.bibliotecasparque.rj.gov.br/",
+      "ativo": true,
+      "tipo": "institucional",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Teatro Municipal Ziembinski",
+      "url": "https://www.instagram.com/teatromunicipalziembinski.rio/",
+      "ativo": true,
+      "tipo": "rede social",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Sesc Tijuca — programação",
+      "url": "https://www.sescrio.org.br/programacao/",
+      "ativo": true,
+      "tipo": "unidade",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Sesc Ramos",
+      "url": "https://www.sescrio.org.br/programacao/",
+      "ativo": true,
+      "tipo": "unidade",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Sesc Niterói",
+      "url": "https://www.sescrio.org.br/programacao/",
+      "ativo": true,
+      "tipo": "unidade",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Sesc São Gonçalo — programação",
+      "url": "https://www.sescrio.org.br/programacao/",
+      "ativo": true,
+      "tipo": "unidade",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Sesc Nova Iguaçu",
+      "url": "https://www.sescrio.org.br/programacao/",
+      "ativo": true,
+      "tipo": "unidade",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Sesc Duque de Caxias",
+      "url": "https://www.sescrio.org.br/programacao/",
+      "ativo": true,
+      "tipo": "unidade",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "A Seguir Niterói",
+      "url": "https://aseguirniteroi.com.br/",
+      "ativo": true,
+      "tipo": "curadoria",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "EcoVilla Ri Happy",
+      "url": "https://ecovillarihappy.com.br/",
+      "ativo": true,
+      "tipo": "equipamento cultural",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Teatro Rosinha de Valença",
+      "url": "https://cultura.sescrio.org.br/",
+      "ativo": true,
+      "tipo": "equipamento cultural",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Centro Cultural Banco do Brasil — ingressos",
+      "url": "https://ingressosccbb.com.br/cidades/rio-de-janeiro-rj",
+      "ativo": true,
+      "tipo": "plataforma",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Centro Cultural Justiça Federal",
+      "url": "https://www10.trf2.jus.br/ccjf/",
+      "ativo": true,
+      "tipo": "equipamento cultural",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Museu de Arte do Rio",
+      "url": "https://museudeartedorio.org.br/",
+      "ativo": true,
+      "tipo": "equipamento cultural",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Museu de Astronomia e Ciências Afins",
+      "url": "https://www.gov.br/mast/pt-br",
+      "ativo": true,
+      "tipo": "equipamento cultural",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Centro Cultural Correios Rio",
+      "url": "https://www.correios.com.br/educacao-e-cultura/centros-e-espacos-culturais",
+      "ativo": true,
+      "tipo": "equipamento cultural",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "Teatro Riachuelo Rio",
+      "url": "https://www.teatroriachuelorio.com.br/",
+      "ativo": true,
+      "tipo": "equipamento cultural",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
+    },
+    {
+      "nome": "SESC RJ — programação geral",
+      "url": "https://www.sescrio.org.br/programacao/",
+      "ativo": true,
+      "tipo": "institucional",
+      "estado": "fonte candidata — verificar acesso, vigência e método de coleta"
     }
   ]
 }
