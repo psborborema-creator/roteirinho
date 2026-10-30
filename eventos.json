@@ -16,11 +16,12 @@
       "idade_min": null,
       "idade_max": null,
       "classificacao": null,
-      "descricao": "Temporada anunciada de 31/10 a 22/11; horário não confirmado.",
+      "descricao": "Espetáculo infantil em temporada anunciada de 31/10 a 22/11. Horário desta sessão não confirmado na fonte consultada.",
       "fonte_tipo": "Agenda cultural",
       "url": "https://rionanoite.com.br/infantil",
       "verificado_em": "2026-10-29",
-      "status_confirmacao": "confirmacao_necessaria"
+      "status_confirmacao": "confirmacao_necessaria",
+      "ambiente": "Fechado"
     },
     {
       "id": "ampliacao-2026-10-31-ciencia-divertida",
@@ -51,15 +52,17 @@
       "data": "2026-10-31",
       "hora": "11:00",
       "preco_min": 0,
-      "preco_texto": "Gratuito; vagas limitadas",
+      "preco_texto": "Gratuito; vagas limitadas e inscrição",
       "idade_min": 2,
       "idade_max": 4,
       "classificacao": null,
-      "descricao": "Oficina sensorial para crianças de 2 a 4 anos.",
+      "descricao": "Oficina sensorial para crianças de 2 a 4 anos; chegada antecipada recomendada.",
       "fonte_tipo": "Agenda cultural",
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-outubro-de-2026-no-rio-de-janeiro/",
       "verificado_em": "2026-10-29",
-      "status_confirmacao": "confirmacao_necessaria"
+      "status_confirmacao": "confirmacao_necessaria",
+      "ambiente": "Fechado",
+      "preco_inteira": 0
     },
     {
       "id": "gente-arteira-3110-14",
@@ -71,15 +74,17 @@
       "data": "2026-10-31",
       "hora": "14:00",
       "preco_min": 0,
-      "preco_texto": "Gratuito; vagas limitadas",
+      "preco_texto": "Gratuito; vagas limitadas e inscrição",
       "idade_min": 4,
       "idade_max": 8,
       "classificacao": null,
-      "descricao": "Contação de histórias e criação de cartelas de adesivos.",
+      "descricao": "Contação de histórias e criação de cartelas de adesivos para 4 a 8 anos.",
       "fonte_tipo": "Agenda cultural",
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-outubro-de-2026-no-rio-de-janeiro/",
       "verificado_em": "2026-10-29",
-      "status_confirmacao": "confirmacao_necessaria"
+      "status_confirmacao": "confirmacao_necessaria",
+      "ambiente": "Fechado",
+      "preco_inteira": 0
     },
     {
       "id": "sesc-sobrevento-3110",
@@ -91,7 +96,7 @@
       "data": "2026-10-31",
       "hora": "16:00",
       "preco_min": 10,
-      "preco_texto": "R$ 20 inteira; R$ 10 meia",
+      "preco_texto": "R$ 20 inteira; R$ 10 meia; outras categorias Sesc",
       "idade_min": null,
       "idade_max": null,
       "classificacao": "Livre",
@@ -99,7 +104,9 @@
       "fonte_tipo": "Oficial",
       "url": "https://cultura.sescrio.org.br/programacao/cade-o-sobrevento",
       "verificado_em": "2026-10-29",
-      "status_confirmacao": "confirmacao_necessaria"
+      "status_confirmacao": "confirmacao_necessaria",
+      "ambiente": "Fechado",
+      "preco_inteira": 20
     },
     {
       "id": "ampliacao-2026-11-01-big-brother-cirkus-apresenta-disney-magic-show",
@@ -244,7 +251,7 @@
       "data": "2026-11-01",
       "hora": "16:00",
       "preco_min": 30,
-      "preco_texto": "R$ 30 informado; confirmar",
+      "preco_texto": "R$ 30 informado em agenda; confirmar no ingresso",
       "idade_min": null,
       "idade_max": null,
       "classificacao": null,
@@ -252,7 +259,8 @@
       "fonte_tipo": "Agenda cultural",
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
       "verificado_em": "2026-10-29",
-      "status_confirmacao": "confirmacao_necessaria"
+      "status_confirmacao": "confirmacao_necessaria",
+      "ambiente": "Fechado"
     },
     {
       "id": "ampliacao-2026-11-01-sai-da-tela-micaela",
@@ -367,7 +375,8 @@
       "fonte_tipo": "Agenda cultural",
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
       "verificado_em": "2026-10-29",
-      "status_confirmacao": "confirmacao_necessaria"
+      "status_confirmacao": "confirmacao_necessaria",
+      "ambiente": "Fechado"
     },
     {
       "id": "menina-nao-falava-0811",
@@ -387,7 +396,8 @@
       "fonte_tipo": "Agenda cultural",
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
       "verificado_em": "2026-10-29",
-      "status_confirmacao": "confirmacao_necessaria"
+      "status_confirmacao": "confirmacao_necessaria",
+      "ambiente": "Fechado"
     },
     {
       "id": "ampliacao-2026-11-08-os-sonhos-de-tom-e-theo",
@@ -464,7 +474,8 @@
       "fonte_tipo": "Agenda cultural",
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
       "verificado_em": "2026-10-29",
-      "status_confirmacao": "confirmacao_necessaria"
+      "status_confirmacao": "confirmacao_necessaria",
+      "ambiente": "Fechado"
     },
     {
       "id": "menina-nao-falava-1511",
@@ -484,7 +495,8 @@
       "fonte_tipo": "Agenda cultural",
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
       "verificado_em": "2026-10-29",
-      "status_confirmacao": "confirmacao_necessaria"
+      "status_confirmacao": "confirmacao_necessaria",
+      "ambiente": "Fechado"
     },
     {
       "id": "ampliacao-2026-11-21-brincando-com-bento-e-toto",
@@ -523,7 +535,8 @@
       "fonte_tipo": "Agenda cultural",
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
       "verificado_em": "2026-10-29",
-      "status_confirmacao": "confirmacao_necessaria"
+      "status_confirmacao": "confirmacao_necessaria",
+      "ambiente": "Fechado"
     },
     {
       "id": "ampliacao-2026-11-22-casa-da-monica",
@@ -562,7 +575,8 @@
       "fonte_tipo": "Agenda cultural",
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
       "verificado_em": "2026-10-29",
-      "status_confirmacao": "confirmacao_necessaria"
+      "status_confirmacao": "confirmacao_necessaria",
+      "ambiente": "Fechado"
     },
     {
       "id": "ampliacao-2026-11-29-bob-zoom-e-a-magia-do-natal",
