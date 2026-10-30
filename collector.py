@@ -184,7 +184,7 @@ def run():
     sources = json.loads(SOURCES.read_text(encoding="utf-8"))["fontes"]
     old = json.loads(OUTPUT.read_text(encoding="utf-8"))
     existing = [e for e in old.get("eventos", []) if e.get("data", "") >= today]
-    seen = {(e.get("nome", "").casefold(), e.get("data"), e.get("local", "").casefold()) for e in existing}
+    seen = {(e.get("nome", "").casefold(), e.get("data"), e.get("hora"), e.get("local", "").casefold()) for e in existing}
     added = 0
     errors = []
     scanned = 0
@@ -200,7 +200,7 @@ def run():
             before = added
             candidates = sesc_sessions(page, source, today)
             for event in candidates:
-                key = (event["nome"].casefold(), event["data"], event["local"].casefold())
+                key = (event["nome"].casefold(), event["data"], event.get("hora"), event["local"].casefold())
                 if key not in seen:
                     existing.append(event)
                     seen.add(key)
@@ -214,7 +214,7 @@ def run():
                     event = parse_event(obj, source, today)
                     if not event:
                         continue
-                    key = (event["nome"].casefold(), event["data"], event["local"].casefold())
+                    key = (event["nome"].casefold(), event["data"], event.get("hora"), event["local"].casefold())
                     if key not in seen:
                         existing.append(event)
                         seen.add(key)
@@ -233,7 +233,7 @@ def run():
     OUTPUT.write_text(json.dumps(old, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(json.dumps({"fontes_consultadas": scanned, "novos": added, "total": len(existing), "erros": errors}, ensure_ascii=False))
     if sources and scanned == 0:
-        print("AVISO: nenhuma fonte consultada com sucesso; base anterior preservada.")
+        raise SystemExit("Falha total: nenhuma fonte consultada; base anterior preservada.")
 
 if __name__ == "__main__":
     run()
