@@ -14,6 +14,67 @@ SOURCES = ROOT / "fontes.json"
 OUTPUT = ROOT / "eventos.json"
 UA = "Roteirinho/1.1 (+public cultural event discovery)"
 
+class VisibleText(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.parts = []
+        self.in_title = False
+        self.title = ""
+    def handle_starttag(self, tag, attrs):
+        if tag == "h1":
+            self.in_title = True
+        if tag in ("p", "div", "li", "h1", "h2", "br"):
+            self.parts.append("\\n")
+    def handle_endtag(self, tag):
+        if tag == "h1":
+            self.in_title = False
+    def handle_data(self, data):
+        s = data.strip()
+        if s:
+            self.parts.append(s)
+            if self.in_title:
+                self.title += s + " "
+
+def sesc_sessions(page, source, today):
+    """Read explicitly dated sessions from a Sesc RJ official event page."""
+    if "www.sescrio.org.br/programacao/" not in source["url"]:
+        return []
+    p = VisibleText()
+    p.feed(page)
+    title = re.sub(r"^Sesc [^:]+:\\s*", "", p.title.strip())
+    if not title:
+        return []
+    raw = " ".join(p.parts)
+    location_match = re.search(r"Sesc (?:São Gonçalo|Duque de Caxias|Nova Iguaçu|Niterói|Tijuca|Madureira)", raw, re.I)
+    location = location_match.group(0) if location_match else ""
+    reg = region(location)
+    if not reg:
+        return []
+    year = int(today[:4])
+    results = []
+    for match in re.finditer(r"(?<!\\d)(\\d{2})/(\\d{2})\\s*[-–]\\s*(\\d{1,2})h(?:\\d{2})?", raw):
+        day, month, hour = map(int, match.groups())
+        try:
+            date = dt.date(year, month, day).isoformat()
+        except ValueError:
+            continue
+        if date < today or hour > 23:
+            continue
+        name = title
+        identity = f"{name.casefold()}|{date}|{hour:02d}:00|{location.casefold()}"
+        results.append({
+            "id": "auto-" + hashlib.sha256(identity.encode()).hexdigest()[:20],
+            "nome": name, "data": date, "hora": f"{hour:02d}:00",
+            "local": location, "bairro": location, "regiao": reg,
+            "categoria": "Exposição" if "exposição" in raw.lower() else "Evento",
+            "descricao": "", "preco_min": 0 if re.search(r"\\bgratuito\\b", raw, re.I) else None,
+            "preco_texto": "Gratuito" if re.search(r"\\bgratuito\\b", raw, re.I) else "Preço a confirmar",
+            "idade_min": None, "idade_max": None, "url": source["url"],
+            "fonte_tipo": "Sesc RJ — página oficial",
+            "verificado_em": dt.datetime.now(dt.timezone.utc).isoformat()
+        })
+    return results
+
 class JsonLd(HTMLParser):
     def __init__(self):
         super().__init__()
@@ -137,6 +198,13 @@ def run():
             parser.feed(page)
             scanned += 1
             before = added
+            candidates = sesc_sessions(page, source, today)
+            for event in candidates:
+                key = (event["nome"].casefold(), event["data"], event["local"].casefold())
+                if key not in seen:
+                    existing.append(event)
+                    seen.add(key)
+                    added += 1
             for block in parser.blocks:
                 try:
                     data = json.loads(block)
@@ -151,7 +219,7 @@ def run():
                         existing.append(event)
                         seen.add(key)
                         added += 1
-            source_report.append({"fonte": source["nome"], "url": source["url"], "status": "sem_eventos_estruturados" if added == before else "eventos_importados", "blocos_jsonld": len(parser.blocks), "novos": added - before})
+            source_report.append({"fonte": source["nome"], "url": source["url"], "status": "sem_eventos_estruturados" if added == before else "eventos_importados", "blocos_jsonld": len(parser.blocks), "sessoes_html": len(candidates), "novos": added - before})
         except Exception as exc:
             errors.append({"fonte": source["url"], "erro": str(exc)[:160]})
             source_report.append({"fonte": source["nome"], "url": source["url"], "status": "erro", "novos": 0})
