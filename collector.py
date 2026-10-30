@@ -24,7 +24,7 @@ class VisibleText(HTMLParser):
         if tag == "h1":
             self.in_title = True
         if tag in ("p", "div", "li", "h1", "h2", "br"):
-            self.parts.append("\\n")
+            self.parts.append("\n")
     def handle_endtag(self, tag):
         if tag == "h1":
             self.in_title = False
@@ -41,7 +41,7 @@ def sesc_sessions(page, source, today):
         return []
     p = VisibleText()
     p.feed(page)
-    title = re.sub(r"^Sesc [^:]+:\\s*", "", p.title.strip())
+    title = re.sub(r"^Sesc [^:]+:\s*", "", p.title.strip())
     if not title:
         return []
     raw = " ".join(p.parts)
@@ -52,7 +52,7 @@ def sesc_sessions(page, source, today):
         return []
     year = int(today[:4])
     results = []
-    for match in re.finditer(r"(?<!\\d)(\\d{2})/(\\d{2})\\s*[-–]\\s*(\\d{1,2})h(?:\\d{2})?", raw):
+    for match in re.finditer(r"(?<!\d)(\d{2})/(\d{2})\s*[-–]\s*(\d{1,2})h(?:\d{2})?", raw):
         day, month, hour = map(int, match.groups())
         try:
             date = dt.date(year, month, day).isoformat()
@@ -67,8 +67,8 @@ def sesc_sessions(page, source, today):
             "nome": name, "data": date, "hora": f"{hour:02d}:00",
             "local": location, "bairro": location, "regiao": reg,
             "categoria": "Exposição" if "exposição" in raw.lower() else "Evento",
-            "descricao": "", "preco_min": 0 if re.search(r"\\bgratuito\\b", raw, re.I) else None,
-            "preco_texto": "Gratuito" if re.search(r"\\bgratuito\\b", raw, re.I) else "Preço a confirmar",
+            "descricao": "", "preco_min": 0 if re.search(r"\bgratuito\b", raw, re.I) else None,
+            "preco_texto": "Gratuito" if re.search(r"\bgratuito\b", raw, re.I) else "Preço a confirmar",
             "idade_min": None, "idade_max": None, "url": source["url"],
             "fonte_tipo": "Sesc RJ — página oficial",
             "verificado_em": dt.datetime.now(dt.timezone.utc).isoformat()
