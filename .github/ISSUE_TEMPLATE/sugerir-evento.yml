@@ -1,0 +1,40 @@
+name: Sugerir atração infantil
+description: Envie um link ou print para análise da curadoria do Roteirinho.
+title: "[Candidato] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por colaborar! A sugestão entra para análise e não é publicada automaticamente.
+        É necessário entrar com uma conta GitHub para concluir este envio.
+  - type: input
+    id: link
+    attributes:
+      label: Link da publicação ou do evento
+      description: Pode ser Instagram, site do organizador ou página de ingressos.
+      placeholder: https://...
+    validations:
+      required: false
+  - type: textarea
+    id: imagem
+    attributes:
+      label: Print ou foto
+      description: Arraste ou cole a imagem neste campo. O GitHub hospeda o anexo após o envio.
+      placeholder: Cole aqui o print da publicação.
+    validations:
+      required: false
+  - type: textarea
+    id: detalhes
+    attributes:
+      label: Informações adicionais (opcional)
+      description: Nome, data, horário, local, idade ou preço, se souber.
+    validations:
+      required: false
+  - type: checkboxes
+    id: aceite
+    attributes:
+      label: Confirmação
+      options:
+        - label: Entendo que o evento será verificado antes de aparecer no Roteirinho.
+          required: true
