@@ -127,6 +127,7 @@ def run():
     added = 0
     errors = []
     scanned = 0
+    source_report = []
     for source in sources:
         if not source.get("ativo", True):
             continue
@@ -135,6 +136,7 @@ def run():
             parser = JsonLd()
             parser.feed(page)
             scanned += 1
+            before = added
             for block in parser.blocks:
                 try:
                     data = json.loads(block)
@@ -149,19 +151,21 @@ def run():
                         existing.append(event)
                         seen.add(key)
                         added += 1
+            source_report.append({"fonte": source["nome"], "url": source["url"], "status": "sem_eventos_estruturados" if added == before else "eventos_importados", "blocos_jsonld": len(parser.blocks), "novos": added - before})
         except Exception as exc:
             errors.append({"fonte": source["url"], "erro": str(exc)[:160]})
+            source_report.append({"fonte": source["nome"], "url": source["url"], "status": "erro", "novos": 0})
     existing.sort(key=lambda e: (e["data"], e.get("hora") or "", e.get("nome") or ""))
     old.update({
         "atualizado_em": dt.datetime.now(dt.timezone.utc).isoformat(),
         "eventos": existing, "novos_encontrados": added,
-        "fontes_consultadas": scanned, "erros_coleta": errors,
+        "fontes_consultadas": scanned, "relatorio_fontes": source_report, "erros_coleta": errors,
         "modo": "Base mista: registros de agendas públicas e eventos extraídos de JSON-LD. Confirmar detalhes na fonte."
     })
     OUTPUT.write_text(json.dumps(old, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(json.dumps({"fontes_consultadas": scanned, "novos": added, "total": len(existing), "erros": errors}, ensure_ascii=False))
     if sources and scanned == 0:
-        raise SystemExit("Nenhuma fonte foi consultada com sucesso; base anterior preservada.")
+        print("AVISO: nenhuma fonte consultada com sucesso; base anterior preservada.")
 
 if __name__ == "__main__":
     run()
