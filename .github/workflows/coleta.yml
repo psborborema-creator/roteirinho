@@ -2,7 +2,8 @@ name: Atualizar eventos
 on:
   workflow_dispatch:
   schedule:
-    - cron: '17 10 * * *'
+    - cron: '17 10,21 * * *'
+    - cron: '37 17 * * 5'
 permissions:
   contents: write
 jobs:
@@ -16,6 +17,8 @@ jobs:
       - name: Testar extrator
         run: python -m unittest -v test_collector.py
       - name: Coletar eventos
+        run: python collector.py
+      - name: Verificar idempotencia
         run: python collector.py
       - name: Validar base
         run: python -m json.tool eventos.json > /dev/null
