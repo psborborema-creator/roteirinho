@@ -1,7 +1,187 @@
 {
-  "atualizado_em": "2026-10-30T16:43:12.201386+00:00",
+  "atualizado_em": "2026-10-30T21:44:01.295600+00:00",
   "modo": "Base mista: registros de agendas públicas e eventos extraídos de JSON-LD. Confirmar detalhes na fonte.",
   "eventos": [
+    {
+      "id": "auto-4ac330b77a77b63adcde",
+      "nome": "Big Brother Cirkus Apresenta Disney Magic Show",
+      "data": "2026-10-30",
+      "hora": null,
+      "local": "Ao lado do Laticínio Central - Queimados",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Queimados",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 10.0,
+      "preco_texto": "A partir de R$ 10.00",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/big-brother-cirkus-apresenta-disney-magic-show-3144",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-10-30T21:41:41.958252+00:00"
+    },
+    {
+      "id": "auto-4c4aac1951e157d69489",
+      "nome": "Espaço Voltz Parkour & Trampolim Park - Barra",
+      "data": "2026-10-30",
+      "hora": null,
+      "local": "Espaço Voltz Parkour & Trampolim Park - Via Parque Shopping - Barra da Tijuca",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Grande Tijuca",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 57.4,
+      "preco_texto": "A partir de R$ 57.40",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/voltz-parkour-barra-1562",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-10-30T21:41:41.958420+00:00"
+    },
+    {
+      "id": "auto-49b65fb48f19edc43611",
+      "nome": "Museu Flamengo",
+      "data": "2026-10-30",
+      "hora": null,
+      "local": "Museu Flamengo",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Zona Sul",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 25.0,
+      "preco_texto": "A partir de R$ 25.00",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/museu-flamengo-2470",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-10-30T21:41:41.958009+00:00"
+    },
+    {
+      "id": "auto-e4deeb32f296ae9ebcfd",
+      "nome": "Museu Flamengo + Tour na Gávea",
+      "data": "2026-10-30",
+      "hora": null,
+      "local": "Museu Flamengo",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Zona Sul",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 35.0,
+      "preco_texto": "A partir de R$ 35.00",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/museu-flamengo-tour-na-gavea-2471",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-10-30T21:41:41.958042+00:00"
+    },
+    {
+      "id": "auto-5d244eff2873001ead92",
+      "nome": "Patati Patatá Circo Show",
+      "data": "2026-10-30",
+      "hora": null,
+      "local": "Park Shopping Campo Grande",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Zona Oeste",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 35.0,
+      "preco_texto": "A partir de R$ 35.00",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/patati-patata-circo-show-196",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-10-30T21:41:41.958192+00:00"
+    },
+    {
+      "id": "auto-e5982534961f81f0cd1c",
+      "nome": "Tour do Maracanã",
+      "data": "2026-10-30",
+      "hora": null,
+      "local": "Estádio do Maracanã",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Grande Tijuca",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 40.0,
+      "preco_texto": "A partir de R$ 40.00",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/tour-do-maracana-1700",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-10-30T21:41:41.957931+00:00"
+    },
+    {
+      "id": "auto-a2a215742b63b419e5f0",
+      "nome": "Exposição Interativa Ciência Divertida",
+      "data": "2026-10-30",
+      "hora": "09:00",
+      "local": "Sesc São Gonçalo",
+      "bairro": "Sesc São Gonçalo",
+      "regiao": "São Gonçalo",
+      "categoria": "Exposição",
+      "descricao": "",
+      "preco_min": 0,
+      "preco_texto": "Gratuito",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://www.sescrio.org.br/programacao/educacao/sesc-sao-goncalo-exposicao-interativa-ciencia-divertida/",
+      "fonte_tipo": "Sesc RJ — página oficial",
+      "verificado_em": "2026-10-30T21:41:22.011869+00:00"
+    },
+    {
+      "id": "auto-c54a0df99694e26cfe1b",
+      "nome": "Encontro da Nação - Museu Flamengo",
+      "data": "2026-10-31",
+      "hora": null,
+      "local": "Museu Flamengo",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Zona Sul",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 65.0,
+      "preco_texto": "A partir de R$ 65.00",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/encontro-da-nacao-museu-flamengo-3327",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-10-30T21:41:41.958131+00:00"
+    },
+    {
+      "id": "auto-92df3d0d8e7ec79fbbf8",
+      "nome": "Minions - O Show",
+      "data": "2026-10-31",
+      "hora": null,
+      "local": "Teatro dos Quatro - Shopping da Gávea",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Zona Sul",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 57.5,
+      "preco_texto": "A partir de R$ 57.50",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/minions-o-show-2871",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-10-30T21:41:41.957447+00:00"
+    },
+    {
+      "id": "auto-cdfa4ea90189e3c96529",
+      "nome": "Os Três Porquinhos",
+      "data": "2026-10-31",
+      "hora": null,
+      "local": "Teatro das Artes - Shopping da Gávea",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Zona Sul",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 49.9,
+      "preco_texto": "A partir de R$ 49.90",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-10-30T21:41:41.957622+00:00"
+    },
     {
       "id": "quintal-3110",
       "nome": "Quintal",
@@ -41,6 +221,24 @@
       "fonte_tipo": "Agenda pública",
       "verificado_em": "2026-10-29",
       "status_confirmacao": "confirmacao_necessaria"
+    },
+    {
+      "id": "auto-32503b1b4de02288a189",
+      "nome": "Exposição Interativa Ciência Divertida",
+      "data": "2026-10-31",
+      "hora": "09:00",
+      "local": "Sesc São Gonçalo",
+      "bairro": "Sesc São Gonçalo",
+      "regiao": "São Gonçalo",
+      "categoria": "Exposição",
+      "descricao": "",
+      "preco_min": 0,
+      "preco_texto": "Gratuito",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://www.sescrio.org.br/programacao/educacao/sesc-sao-goncalo-exposicao-interativa-ciencia-divertida/",
+      "fonte_tipo": "Sesc RJ — página oficial",
+      "verificado_em": "2026-10-30T21:41:22.012708+00:00"
     },
     {
       "id": "gente-arteira-3110-11",
@@ -109,6 +307,42 @@
       "preco_inteira": 20
     },
     {
+      "id": "auto-491504167edd0e87992b",
+      "nome": "A Bela e a Fera",
+      "data": "2026-11-01",
+      "hora": null,
+      "local": "Teatro Clara Nunes - Shopping da Gávea",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Zona Sul",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 63.16,
+      "preco_texto": "A partir de R$ 63.16",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/a-bela-e-a-fera-3407",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-10-30T21:41:41.957541+00:00"
+    },
+    {
+      "id": "auto-09321e7372c8b2aeac0c",
+      "nome": "Bem Depois dos Contos de Fada",
+      "data": "2026-11-01",
+      "hora": null,
+      "local": "Teatro Dercy Gonçalves - Grajaú Country Club",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Grande Tijuca",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 30.0,
+      "preco_texto": "A partir de R$ 30.00",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/bem-depois-dos-contos-de-fada-3071",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-10-30T21:41:41.957798+00:00"
+    },
+    {
       "id": "ampliacao-2026-11-01-big-brother-cirkus-apresenta-disney-magic-show",
       "nome": "Big Brother Cirkus Apresenta Disney Magic Show",
       "categoria": "Circo",
@@ -126,6 +360,24 @@
       "fonte_tipo": "Agenda pública",
       "verificado_em": "2026-10-29",
       "status_confirmacao": "confirmacao_necessaria"
+    },
+    {
+      "id": "auto-4125a143c7313f9055a8",
+      "nome": "Dona Baratinha Vai se Casar, O Musical",
+      "data": "2026-11-01",
+      "hora": null,
+      "local": "Teatro dos Quatro - Shopping da Gávea",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Zona Sul",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 57.5,
+      "preco_texto": "A partir de R$ 57.50",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/dona-baratinha-vai-se-casar-o-musical-4252",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-10-30T21:41:41.957584+00:00"
     },
     {
       "id": "ampliacao-2026-11-01-patati-patata-circo-show",
@@ -183,6 +435,24 @@
       "fonte_tipo": "Agenda pública",
       "verificado_em": "2026-10-29",
       "status_confirmacao": "confirmacao_necessaria"
+    },
+    {
+      "id": "auto-a0cfb702f47aff6ca27e",
+      "nome": "Exposição Interativa Ciência Divertida",
+      "data": "2026-11-01",
+      "hora": "09:00",
+      "local": "Sesc São Gonçalo",
+      "bairro": "Sesc São Gonçalo",
+      "regiao": "São Gonçalo",
+      "categoria": "Exposição",
+      "descricao": "",
+      "preco_min": 0,
+      "preco_texto": "Gratuito",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://www.sescrio.org.br/programacao/educacao/sesc-sao-goncalo-exposicao-interativa-ciencia-divertida/",
+      "fonte_tipo": "Sesc RJ — página oficial",
+      "verificado_em": "2026-10-30T21:41:22.010996+00:00"
     },
     {
       "id": "ampliacao-2026-11-01-anima-santa",
@@ -301,6 +571,42 @@
       "status_confirmacao": "confirmacao_necessaria"
     },
     {
+      "id": "auto-ce38a2a9f2820cb3edd0",
+      "nome": "Contos de Fadas, Reino da Magia",
+      "data": "2026-11-02",
+      "hora": null,
+      "local": "Teatro dos Quatro - Shopping da Gávea",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Zona Sul",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 57.5,
+      "preco_texto": "A partir de R$ 57.50",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/contos-de-fadas-reino-da-magia-4234",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-10-30T21:41:41.958578+00:00"
+    },
+    {
+      "id": "auto-00f5057feb6bcd53b08e",
+      "nome": "Thurminha da Patrulhinha",
+      "data": "2026-11-02",
+      "hora": null,
+      "local": "Teatro Vannucci - Shopping da Gávea",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Zona Sul",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 49.9,
+      "preco_texto": "A partir de R$ 49.90",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/thurminha-da-patrulhinha-3926",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-10-30T21:41:41.958545+00:00"
+    },
+    {
       "id": "cur-20261102-thurminha-da-patrulhinha",
       "nome": "Thurminha da Patrulhinha",
       "data": "2026-11-02",
@@ -375,6 +681,24 @@
       "status_confirmacao": "confirmacao_necessaria"
     },
     {
+      "id": "cur-20261107-os-brinquedos-de-andy",
+      "nome": "Os Brinquedos de Andy",
+      "data": "2026-11-07",
+      "hora": "17:00",
+      "local": "Teatro Brigitte Blair",
+      "bairro": "Copacabana",
+      "regiao": "Zona Sul",
+      "categoria": "Teatro e atividades infantis",
+      "descricao": "Programação infantil divulgada publicamente. Confirme disponibilidade e condições diretamente na fonte.",
+      "preco_min": 49.9,
+      "preco_texto": "A partir de R$ 49,90",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
+      "fonte_tipo": "Agenda cultural secundária — confirmar com organizador",
+      "verificado_em": "2026-10-30T14:00:00-03:00"
+    },
+    {
       "id": "ampliacao-2026-11-07-rapunzel",
       "nome": "Rapunzel",
       "categoria": "Teatro",
@@ -392,24 +716,6 @@
       "fonte_tipo": "Agenda pública",
       "verificado_em": "2026-10-29",
       "status_confirmacao": "confirmacao_necessaria"
-    },
-    {
-      "id": "cur-20261107-os-brinquedos-de-andy",
-      "nome": "Os Brinquedos de Andy",
-      "data": "2026-11-07",
-      "hora": "17:00",
-      "local": "Teatro Brigitte Blair",
-      "bairro": "Copacabana",
-      "regiao": "Zona Sul",
-      "categoria": "Teatro e atividades infantis",
-      "descricao": "Programação infantil divulgada publicamente. Confirme disponibilidade e condições diretamente na fonte.",
-      "preco_min": 49.9,
-      "preco_texto": "A partir de R$ 49,90",
-      "idade_min": null,
-      "idade_max": null,
-      "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
-      "fonte_tipo": "Agenda cultural secundária — confirmar com organizador",
-      "verificado_em": "2026-10-30T14:00:00-03:00"
     },
     {
       "id": "halloween-princesas-0711",
@@ -431,6 +737,24 @@
       "verificado_em": "2026-10-29",
       "status_confirmacao": "confirmacao_necessaria",
       "ambiente": "Fechado"
+    },
+    {
+      "id": "auto-12183f3960241718d914",
+      "nome": "Top 10 da Galinha Pintadinha",
+      "data": "2026-11-08",
+      "hora": null,
+      "local": "Teatro Clara Nunes - Shopping da Gávea",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Zona Sul",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 63.16,
+      "preco_texto": "A partir de R$ 63.16",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/top-10-da-galinha-pintadinha-2906",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-10-30T21:41:41.958655+00:00"
     },
     {
       "id": "menina-nao-falava-0811",
@@ -640,6 +964,24 @@
       "ambiente": "Fechado"
     },
     {
+      "id": "auto-5fe4042247d800d305c3",
+      "nome": "MC Divertida: Modo Divertidamente – O Show",
+      "data": "2026-11-15",
+      "hora": null,
+      "local": "Teatro Clara Nunes - Shopping da Gávea",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Zona Sul",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 63.16,
+      "preco_texto": "A partir de R$ 63.16",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/mc-divertida-modo-divertidamente-o-show-4093",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-10-30T21:41:41.958693+00:00"
+    },
+    {
       "id": "menina-nao-falava-1511",
       "nome": "A Menina que Não Falava",
       "categoria": "Teatro",
@@ -679,6 +1021,24 @@
       "verificado_em": "2026-10-30T14:00:00-03:00"
     },
     {
+      "id": "auto-b06239b4fa9e18a285b0",
+      "nome": "Brinquedos em Ação",
+      "data": "2026-11-20",
+      "hora": null,
+      "local": "Teatro dos Quatro - Shopping da Gávea",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Zona Sul",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 57.5,
+      "preco_texto": "A partir de R$ 57.50",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/brinquedos-em-acao-4237",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-10-30T21:41:41.958611+00:00"
+    },
+    {
       "id": "cur-20261120-brinquedos-em-acao",
       "nome": "Brinquedos em Ação",
       "data": "2026-11-20",
@@ -695,6 +1055,24 @@
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
       "fonte_tipo": "Agenda cultural secundária — confirmar com organizador",
       "verificado_em": "2026-10-30T14:00:00-03:00"
+    },
+    {
+      "id": "auto-5921b67f2ee55b42665f",
+      "nome": "Brincando com Bento e Totó",
+      "data": "2026-11-21",
+      "hora": null,
+      "local": "Teatro Clara Nunes - Shopping da Gávea",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Zona Sul",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 63.16,
+      "preco_texto": "A partir de R$ 63.16",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/brincando-com-bento-e-toto-2619",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-10-30T21:41:41.958726+00:00"
     },
     {
       "id": "cur-20261121-sabado-musical-ritmos-da-ancestralidade",
@@ -849,6 +1227,24 @@
       "ambiente": "Fechado"
     },
     {
+      "id": "auto-b2ad5109d3d12fc580c4",
+      "nome": "Bob Zoom e a Magia do Natal",
+      "data": "2026-11-29",
+      "hora": null,
+      "local": "Teatro Clara Nunes - Shopping da Gávea",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Zona Sul",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 63.16,
+      "preco_texto": "A partir de R$ 63.16",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/bob-zoom-e-a-magia-do-natal-2905",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-10-30T21:41:41.958758+00:00"
+    },
+    {
       "id": "ampliacao-2026-11-29-bob-zoom-e-a-magia-do-natal",
       "nome": "Bob Zoom e a Magia do Natal",
       "categoria": "Teatro",
@@ -886,12 +1282,381 @@
       "verificado_em": "2026-10-30T14:00:00-03:00"
     }
   ],
-  "erros_coleta": [],
+  "erros_coleta": [
+    {
+      "fonte": "https://www.instagram.com/maternandorj/",
+      "erro": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "fonte": "https://www.casadaciencia.ufrj.br/",
+      "erro": "Remote end closed connection without response"
+    },
+    {
+      "fonte": "https://www.planetario.rio/",
+      "erro": "<urlopen error [Errno -2] Name or service not known>"
+    },
+    {
+      "fonte": "https://www.funarte.gov.br/",
+      "erro": "<urlopen error [Errno -2] Name or service not known>"
+    },
+    {
+      "fonte": "https://www.funarj.rj.gov.br/",
+      "erro": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    },
+    {
+      "fonte": "https://www.bibliotecasparque.rj.gov.br/",
+      "erro": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.bibliotecasparque.rj.gov.br'. (_"
+    },
+    {
+      "fonte": "https://www.instagram.com/teatromunicipalziembinski.rio/",
+      "erro": "HTTP Error 429: Too Many Requests"
+    }
+  ],
   "novos_encontrados": 0,
-  "fontes_consultadas": 2,
+  "fontes_consultadas": 37,
   "ultima_curadoria_manual": {
     "data": "2026-10-30",
     "novos": 16,
     "metodo": "Pesquisa web com conferência de datas, locais e fonte; preços de agendas secundárias sujeitos a alteração"
-  }
+  },
+  "relatorio_fontes": [
+    {
+      "fonte": "Sesc RJ",
+      "url": "https://www.sescrio.org.br/programacao/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "CCBB Rio",
+      "url": "https://ccbb.com.br/rio-de-janeiro/programacao/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Sesc São Gonçalo",
+      "url": "https://www.sescrio.org.br/programacao/educacao/sesc-sao-goncalo-exposicao-interativa-ciencia-divertida/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 3,
+      "novos": 0
+    },
+    {
+      "fonte": "Sesc Tijuca",
+      "url": "https://cultura.sescrio.org.br/programacao/cade-o-sobrevento",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 0,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Agenda Pequenos no Rio novembro",
+      "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Ingressos CCBB Rio",
+      "url": "https://ingressosccbb.com.br/cidades/rio-de-janeiro-rj",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 0,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Rio com Crianças",
+      "url": "https://riocomcriancas.com.br/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Eventinhos Cariocas",
+      "url": "https://linktr.ee/eventinhoscariocas",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 2,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Clubinho de Ofertas",
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 55,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Sympla — Infantil",
+      "url": "https://www.sympla.com.br/eventos/rio-de-janeiro-rj/infantil",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 0,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Pequenos no Rio",
+      "url": "https://pequenosnorio.com.br/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Agenda Carioca",
+      "url": "https://www.agendacarioca.com.br/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Riotur",
+      "url": "https://riotur.rio/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Roteirinho Carioca",
+      "url": "https://roteirinhocarioca.com.br/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Rio na Noite — Infantil",
+      "url": "https://rionanoite.com.br/infantil",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 2,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Maternando RJ",
+      "url": "https://www.instagram.com/maternandorj/",
+      "status": "erro",
+      "novos": 0
+    },
+    {
+      "fonte": "Sesc Cultura",
+      "url": "https://cultura.sescrio.org.br/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 0,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "CAIXA Cultural",
+      "url": "https://www.caixacultural.gov.br/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 0,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Museu do Amanhã",
+      "url": "https://museudoamanha.org.br/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 0,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Museu da Vida Fiocruz",
+      "url": "https://museudavida.fiocruz.br/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 0,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Casa da Ciência UFRJ",
+      "url": "https://www.casadaciencia.ufrj.br/",
+      "status": "erro",
+      "novos": 0
+    },
+    {
+      "fonte": "Planetário do Rio",
+      "url": "https://www.planetario.rio/",
+      "status": "erro",
+      "novos": 0
+    },
+    {
+      "fonte": "Firjan SESI",
+      "url": "https://www.firjan.com.br/sesi/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Funarte",
+      "url": "https://www.funarte.gov.br/",
+      "status": "erro",
+      "novos": 0
+    },
+    {
+      "fonte": "FUNARJ",
+      "url": "https://www.funarj.rj.gov.br/",
+      "status": "erro",
+      "novos": 0
+    },
+    {
+      "fonte": "Ibram — Museus",
+      "url": "https://www.museus.gov.br/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 2,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Bibliotecas Parque",
+      "url": "https://www.bibliotecasparque.rj.gov.br/",
+      "status": "erro",
+      "novos": 0
+    },
+    {
+      "fonte": "Teatro Municipal Ziembinski",
+      "url": "https://www.instagram.com/teatromunicipalziembinski.rio/",
+      "status": "erro",
+      "novos": 0
+    },
+    {
+      "fonte": "Sesc Tijuca — programação",
+      "url": "https://www.sescrio.org.br/programacao/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Sesc Ramos",
+      "url": "https://www.sescrio.org.br/programacao/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Sesc Niterói",
+      "url": "https://www.sescrio.org.br/programacao/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Sesc São Gonçalo — programação",
+      "url": "https://www.sescrio.org.br/programacao/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Sesc Nova Iguaçu",
+      "url": "https://www.sescrio.org.br/programacao/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Sesc Duque de Caxias",
+      "url": "https://www.sescrio.org.br/programacao/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "A Seguir Niterói",
+      "url": "https://aseguirniteroi.com.br/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "EcoVilla Ri Happy",
+      "url": "https://ecovillarihappy.com.br/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Teatro Rosinha de Valença",
+      "url": "https://cultura.sescrio.org.br/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 0,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Centro Cultural Banco do Brasil — ingressos",
+      "url": "https://ingressosccbb.com.br/cidades/rio-de-janeiro-rj",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 0,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Centro Cultural Justiça Federal",
+      "url": "https://www10.trf2.jus.br/ccjf/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 0,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Museu de Arte do Rio",
+      "url": "https://museudeartedorio.org.br/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Museu de Astronomia e Ciências Afins",
+      "url": "https://www.gov.br/mast/pt-br",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 0,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Centro Cultural Correios Rio",
+      "url": "https://www.correios.com.br/educacao-e-cultura/centros-e-espacos-culturais",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 0,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "Teatro Riachuelo Rio",
+      "url": "https://www.teatroriachuelorio.com.br/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
+      "novos": 0
+    },
+    {
+      "fonte": "SESC RJ — programação geral",
+      "url": "https://www.sescrio.org.br/programacao/",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
+      "novos": 0
+    }
+  ]
 }
