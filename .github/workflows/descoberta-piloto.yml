@@ -1,0 +1,28 @@
+name: Descobrir candidatos (piloto)
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 11 * * 2,5'
+permissions:
+  contents: read
+jobs:
+  descobrir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Executar testes existentes
+        run: python -m unittest -v test_collector.py
+      - name: Descobrir candidatos de 3 fontes
+        run: python descobrir_candidatos.py
+      - name: Validar resultado
+        run: python -m json.tool candidatos.json > /dev/null
+      - name: Preservar candidatos para revisao
+        uses: actions/upload-artifact@v4
+        with:
+          name: candidatos-roteirinho
+          path: candidatos.json
+          retention-days: 14
