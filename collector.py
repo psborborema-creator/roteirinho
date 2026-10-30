@@ -223,6 +223,8 @@ def run():
         except Exception as exc:
             errors.append({"fonte": source["url"], "erro": str(exc)[:160]})
             source_report.append({"fonte": source["nome"], "url": source["url"], "status": "erro", "novos": 0})
+    if sources and scanned == 0:
+        raise SystemExit("Falha total: nenhuma fonte consultada; base anterior preservada.")
     existing.sort(key=lambda e: (e["data"], e.get("hora") or "", e.get("nome") or ""))
     old.update({
         "atualizado_em": dt.datetime.now(dt.timezone.utc).isoformat(),
@@ -232,8 +234,6 @@ def run():
     })
     OUTPUT.write_text(json.dumps(old, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(json.dumps({"fontes_consultadas": scanned, "novos": added, "total": len(existing), "erros": errors}, ensure_ascii=False))
-    if sources and scanned == 0:
-        raise SystemExit("Falha total: nenhuma fonte consultada; base anterior preservada.")
 
 if __name__ == "__main__":
     run()
