@@ -1,1 +1,34 @@
-{"fontes":[{"nome":"Sesc RJ","url":"https://www.sescrio.org.br/programacao/","ativo":true},{"nome":"CCBB Rio","url":"https://ccbb.com.br/rio-de-janeiro/programacao/","ativo":true}]}
+{
+  "fontes": [
+    {
+      "nome": "Sesc RJ",
+      "url": "https://www.sescrio.org.br/programacao/",
+      "ativo": true
+    },
+    {
+      "nome": "CCBB Rio",
+      "url": "https://ccbb.com.br/rio-de-janeiro/programacao/",
+      "ativo": true
+    },
+    {
+      "nome": "Sesc São Gonçalo",
+      "url": "https://www.sescrio.org.br/programacao/educacao/sesc-sao-goncalo-exposicao-interativa-ciencia-divertida/",
+      "ativo": true
+    },
+    {
+      "nome": "Sesc Tijuca",
+      "url": "https://cultura.sescrio.org.br/programacao/cade-o-sobrevento",
+      "ativo": true
+    },
+    {
+      "nome": "Agenda Pequenos no Rio novembro",
+      "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
+      "ativo": true
+    },
+    {
+      "nome": "Ingressos CCBB Rio",
+      "url": "https://ingressosccbb.com.br/cidades/rio-de-janeiro-rj",
+      "ativo": true
+    }
+  ]
+}
