@@ -18,7 +18,9 @@
       "classificacao": null,
       "descricao": "Temporada anunciada de 31/10 a 22/11; horário não confirmado.",
       "fonte_tipo": "Agenda cultural",
-      "url": "https://rionanoite.com.br/infantil"
+      "url": "https://rionanoite.com.br/infantil",
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "ampliacao-2026-10-31-ciencia-divertida",
@@ -36,7 +38,8 @@
       "descricao": "Exposição interativa de ciência, até 17h.",
       "url": "https://www.sescrio.org.br/programacao/educacao/sesc-sao-goncalo-exposicao-interativa-ciencia-divertida/",
       "fonte_tipo": "Agenda pública",
-      "verificado_em": "2026-10-29"
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "gente-arteira-3110-11",
@@ -54,7 +57,9 @@
       "classificacao": null,
       "descricao": "Oficina sensorial para crianças de 2 a 4 anos.",
       "fonte_tipo": "Agenda cultural",
-      "url": "https://pequenosnorio.com.br/programacao-infantil-de-outubro-de-2026-no-rio-de-janeiro/"
+      "url": "https://pequenosnorio.com.br/programacao-infantil-de-outubro-de-2026-no-rio-de-janeiro/",
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "gente-arteira-3110-14",
@@ -72,7 +77,9 @@
       "classificacao": null,
       "descricao": "Contação de histórias e criação de cartelas de adesivos.",
       "fonte_tipo": "Agenda cultural",
-      "url": "https://pequenosnorio.com.br/programacao-infantil-de-outubro-de-2026-no-rio-de-janeiro/"
+      "url": "https://pequenosnorio.com.br/programacao-infantil-de-outubro-de-2026-no-rio-de-janeiro/",
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "sesc-sobrevento-3110",
@@ -90,7 +97,9 @@
       "classificacao": "Livre",
       "descricao": "Teatro de bonecos sobre o mistério do desaparecimento de um grupo teatral.",
       "fonte_tipo": "Oficial",
-      "url": "https://cultura.sescrio.org.br/programacao/cade-o-sobrevento"
+      "url": "https://cultura.sescrio.org.br/programacao/cade-o-sobrevento",
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "ampliacao-2026-11-01-big-brother-cirkus-apresenta-disney-magic-show",
@@ -108,7 +117,8 @@
       "descricao": "Circo infantil; horários de sessão devem ser confirmados.",
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
       "fonte_tipo": "Agenda pública",
-      "verificado_em": "2026-10-29"
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "ampliacao-2026-11-01-patati-patata-circo-show",
@@ -126,7 +136,8 @@
       "descricao": "Circo infantil; horários variam conforme sessão.",
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
       "fonte_tipo": "Agenda pública",
-      "verificado_em": "2026-10-29"
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "ampliacao-2026-11-01-raduan-circus-apresenta-disney-magic-show",
@@ -144,7 +155,8 @@
       "descricao": "Circo infantil; horários de sessão devem ser confirmados.",
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
       "fonte_tipo": "Agenda pública",
-      "verificado_em": "2026-10-29"
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "ampliacao-2026-11-01-ciencia-divertida",
@@ -162,7 +174,8 @@
       "descricao": "Exposição interativa de ciência, até 17h.",
       "url": "https://www.sescrio.org.br/programacao/educacao/sesc-sao-goncalo-exposicao-interativa-ciencia-divertida/",
       "fonte_tipo": "Agenda pública",
-      "verificado_em": "2026-10-29"
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "ampliacao-2026-11-01-anima-santa",
@@ -180,7 +193,8 @@
       "descricao": "Teatro de animação.",
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
       "fonte_tipo": "Agenda pública",
-      "verificado_em": "2026-10-29"
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "ampliacao-2026-11-01-era-uma-vez-criacoes-assombradas-para-criancas",
@@ -193,12 +207,13 @@
       "hora": "15:00",
       "preco_min": 0,
       "preco_texto": "Gratuito; 20 vagas",
-      "idade_min": null,
-      "idade_max": null,
+      "idade_min": 8,
+      "idade_max": 11,
       "descricao": "Oficina para 8 a 11 anos.",
       "url": "https://ingressosccbb.com.br/cidades/rio-de-janeiro-rj",
       "fonte_tipo": "Agenda pública",
-      "verificado_em": "2026-10-29"
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "ampliacao-2026-11-01-os-sonhos-de-tom-e-theo",
@@ -216,7 +231,8 @@
       "descricao": "Espetáculo infantil.",
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
       "fonte_tipo": "Agenda pública",
-      "verificado_em": "2026-10-29"
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "bem-depois-0111",
@@ -234,7 +250,9 @@
       "classificacao": null,
       "descricao": "Espetáculo infantil sobre os contos de fadas.",
       "fonte_tipo": "Agenda cultural",
-      "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/"
+      "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "ampliacao-2026-11-01-sai-da-tela-micaela",
@@ -252,7 +270,8 @@
       "descricao": "Espetáculo infantil.",
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
       "fonte_tipo": "Agenda pública",
-      "verificado_em": "2026-10-29"
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "ampliacao-2026-11-01-o-casamento-da-dona-baratinha",
@@ -270,7 +289,8 @@
       "descricao": "Espetáculo infantil.",
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
       "fonte_tipo": "Agenda pública",
-      "verificado_em": "2026-10-29"
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "ampliacao-2026-11-07-dancas-urbanas-para-criancas",
@@ -283,12 +303,13 @@
       "hora": "15:00",
       "preco_min": 0,
       "preco_texto": "Gratuito; 20 vagas",
-      "idade_min": null,
+      "idade_min": 7,
       "idade_max": null,
       "descricao": "Oficina para crianças a partir de 7 anos.",
       "url": "https://ingressosccbb.com.br/cidades/rio-de-janeiro-rj",
       "fonte_tipo": "Agenda pública",
-      "verificado_em": "2026-10-29"
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "ampliacao-2026-11-07-os-sonhos-de-tom-e-theo",
@@ -306,7 +327,8 @@
       "descricao": "Espetáculo infantil.",
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
       "fonte_tipo": "Agenda pública",
-      "verificado_em": "2026-10-29"
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "ampliacao-2026-11-07-rapunzel",
@@ -324,7 +346,8 @@
       "descricao": "Espetáculo no Palco Hora do Recreio.",
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
       "fonte_tipo": "Agenda pública",
-      "verificado_em": "2026-10-29"
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "halloween-princesas-0711",
@@ -342,7 +365,9 @@
       "classificacao": null,
       "descricao": "Espetáculo infantil temático.",
       "fonte_tipo": "Agenda cultural",
-      "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/"
+      "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "menina-nao-falava-0811",
@@ -360,7 +385,9 @@
       "classificacao": null,
       "descricao": "Espetáculo infantil com sessões anunciadas em novembro.",
       "fonte_tipo": "Agenda cultural",
-      "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/"
+      "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "ampliacao-2026-11-08-os-sonhos-de-tom-e-theo",
@@ -378,7 +405,8 @@
       "descricao": "Espetáculo infantil.",
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
       "fonte_tipo": "Agenda pública",
-      "verificado_em": "2026-10-29"
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "ampliacao-2026-11-08-top-10-da-galinha-pintadinha",
@@ -396,7 +424,8 @@
       "descricao": "Espetáculo infantil.",
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
       "fonte_tipo": "Agenda pública",
-      "verificado_em": "2026-10-29"
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "ampliacao-2026-11-14-feira-de-brinquedos-toy-story",
@@ -414,7 +443,8 @@
       "descricao": "Troca, venda e doação de brinquedos.",
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
       "fonte_tipo": "Agenda pública",
-      "verificado_em": "2026-10-29"
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "halloween-princesas-1411",
@@ -432,7 +462,9 @@
       "classificacao": null,
       "descricao": "Espetáculo infantil temático.",
       "fonte_tipo": "Agenda cultural",
-      "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/"
+      "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "menina-nao-falava-1511",
@@ -450,7 +482,9 @@
       "classificacao": null,
       "descricao": "Espetáculo infantil com sessões anunciadas em novembro.",
       "fonte_tipo": "Agenda cultural",
-      "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/"
+      "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "ampliacao-2026-11-21-brincando-com-bento-e-toto",
@@ -468,7 +502,8 @@
       "descricao": "Espetáculo infantil.",
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
       "fonte_tipo": "Agenda pública",
-      "verificado_em": "2026-10-29"
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "porquinhos-2111",
@@ -486,7 +521,9 @@
       "classificacao": null,
       "descricao": "Adaptação infantil dos Três Porquinhos.",
       "fonte_tipo": "Agenda cultural",
-      "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/"
+      "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "ampliacao-2026-11-22-casa-da-monica",
@@ -504,7 +541,8 @@
       "descricao": "Exposição imersiva; em cartaz até 22/11. Data representa último dia anunciado.",
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
       "fonte_tipo": "Agenda pública",
-      "verificado_em": "2026-10-29"
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "porquinhos-2811",
@@ -522,7 +560,9 @@
       "classificacao": null,
       "descricao": "Adaptação infantil dos Três Porquinhos.",
       "fonte_tipo": "Agenda cultural",
-      "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/"
+      "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     },
     {
       "id": "ampliacao-2026-11-29-bob-zoom-e-a-magia-do-natal",
@@ -540,7 +580,8 @@
       "descricao": "Espetáculo infantil.",
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
       "fonte_tipo": "Agenda pública",
-      "verificado_em": "2026-10-29"
+      "verificado_em": "2026-10-29",
+      "status_confirmacao": "confirmacao_necessaria"
     }
   ],
   "erros_coleta": [],
