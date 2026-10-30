@@ -29,6 +29,14 @@
       "nome": "Ingressos CCBB Rio",
       "url": "https://ingressosccbb.com.br/cidades/rio-de-janeiro-rj",
       "ativo": true
+    },
+    {
+      "nome": "Rio com Crianças",
+      "url": "https://riocomcriancas.com.br/",
+      "ativo": true,
+      "tipo": "curadoria secundaria",
+      "uso": "descoberta de atividades; validar com organizador antes da publicacao",
+      "prioridade": "alta"
     }
   ]
 }
