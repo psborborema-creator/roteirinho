@@ -1,11 +1,11 @@
 {
-  "atualizado_em": "2026-10-31T00:50:39.779901+00:00",
+  "atualizado_em": "2026-10-31T15:47:21.021452+00:00",
   "modo": "Base mista: registros de agendas públicas e eventos extraídos de JSON-LD. Confirmar detalhes na fonte.",
   "eventos": [
     {
-      "id": "auto-4ac330b77a77b63adcde",
+      "id": "auto-137f34b6a29bcc01f526",
       "nome": "Big Brother Cirkus Apresenta Disney Magic Show",
-      "data": "2026-10-30",
+      "data": "2026-10-31",
       "hora": null,
       "local": "Ao lado do Laticínio Central - Queimados",
       "bairro": "Rio de Janeiro",
@@ -18,115 +18,7 @@
       "idade_max": null,
       "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/big-brother-cirkus-apresenta-disney-magic-show-3144",
       "fonte_tipo": "Dados estruturados de página pública",
-      "verificado_em": "2026-10-30T21:41:41.958252+00:00"
-    },
-    {
-      "id": "auto-4c4aac1951e157d69489",
-      "nome": "Espaço Voltz Parkour & Trampolim Park - Barra",
-      "data": "2026-10-30",
-      "hora": null,
-      "local": "Espaço Voltz Parkour & Trampolim Park - Via Parque Shopping - Barra da Tijuca",
-      "bairro": "Rio de Janeiro",
-      "regiao": "Grande Tijuca",
-      "categoria": "Evento",
-      "descricao": "",
-      "preco_min": 57.4,
-      "preco_texto": "A partir de R$ 57.40",
-      "idade_min": null,
-      "idade_max": null,
-      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/voltz-parkour-barra-1562",
-      "fonte_tipo": "Dados estruturados de página pública",
-      "verificado_em": "2026-10-30T21:41:41.958420+00:00"
-    },
-    {
-      "id": "auto-49b65fb48f19edc43611",
-      "nome": "Museu Flamengo",
-      "data": "2026-10-30",
-      "hora": null,
-      "local": "Museu Flamengo",
-      "bairro": "Rio de Janeiro",
-      "regiao": "Zona Sul",
-      "categoria": "Evento",
-      "descricao": "",
-      "preco_min": 25.0,
-      "preco_texto": "A partir de R$ 25.00",
-      "idade_min": null,
-      "idade_max": null,
-      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/museu-flamengo-2470",
-      "fonte_tipo": "Dados estruturados de página pública",
-      "verificado_em": "2026-10-30T21:41:41.958009+00:00"
-    },
-    {
-      "id": "auto-e4deeb32f296ae9ebcfd",
-      "nome": "Museu Flamengo + Tour na Gávea",
-      "data": "2026-10-30",
-      "hora": null,
-      "local": "Museu Flamengo",
-      "bairro": "Rio de Janeiro",
-      "regiao": "Zona Sul",
-      "categoria": "Evento",
-      "descricao": "",
-      "preco_min": 35.0,
-      "preco_texto": "A partir de R$ 35.00",
-      "idade_min": null,
-      "idade_max": null,
-      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/museu-flamengo-tour-na-gavea-2471",
-      "fonte_tipo": "Dados estruturados de página pública",
-      "verificado_em": "2026-10-30T21:41:41.958042+00:00"
-    },
-    {
-      "id": "auto-5d244eff2873001ead92",
-      "nome": "Patati Patatá Circo Show",
-      "data": "2026-10-30",
-      "hora": null,
-      "local": "Park Shopping Campo Grande",
-      "bairro": "Rio de Janeiro",
-      "regiao": "Zona Oeste",
-      "categoria": "Evento",
-      "descricao": "",
-      "preco_min": 35.0,
-      "preco_texto": "A partir de R$ 35.00",
-      "idade_min": null,
-      "idade_max": null,
-      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/patati-patata-circo-show-196",
-      "fonte_tipo": "Dados estruturados de página pública",
-      "verificado_em": "2026-10-30T21:41:41.958192+00:00"
-    },
-    {
-      "id": "auto-e5982534961f81f0cd1c",
-      "nome": "Tour do Maracanã",
-      "data": "2026-10-30",
-      "hora": null,
-      "local": "Estádio do Maracanã",
-      "bairro": "Rio de Janeiro",
-      "regiao": "Grande Tijuca",
-      "categoria": "Evento",
-      "descricao": "",
-      "preco_min": 40.0,
-      "preco_texto": "A partir de R$ 40.00",
-      "idade_min": null,
-      "idade_max": null,
-      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/tour-do-maracana-1700",
-      "fonte_tipo": "Dados estruturados de página pública",
-      "verificado_em": "2026-10-30T21:41:41.957931+00:00"
-    },
-    {
-      "id": "auto-a2a215742b63b419e5f0",
-      "nome": "Exposição Interativa Ciência Divertida",
-      "data": "2026-10-30",
-      "hora": "09:00",
-      "local": "Sesc São Gonçalo",
-      "bairro": "Sesc São Gonçalo",
-      "regiao": "São Gonçalo",
-      "categoria": "Exposição",
-      "descricao": "",
-      "preco_min": 0,
-      "preco_texto": "Gratuito",
-      "idade_min": null,
-      "idade_max": null,
-      "url": "https://www.sescrio.org.br/programacao/educacao/sesc-sao-goncalo-exposicao-interativa-ciencia-divertida/",
-      "fonte_tipo": "Sesc RJ — página oficial",
-      "verificado_em": "2026-10-30T21:41:22.011869+00:00"
+      "verificado_em": "2026-10-31T15:44:58.368430+00:00"
     },
     {
       "id": "auto-c54a0df99694e26cfe1b",
@@ -165,6 +57,42 @@
       "verificado_em": "2026-10-30T21:41:41.957447+00:00"
     },
     {
+      "id": "auto-fbe32878a9ec7d17fc81",
+      "nome": "Museu Flamengo",
+      "data": "2026-10-31",
+      "hora": null,
+      "local": "Museu Flamengo",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Zona Sul",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 25.0,
+      "preco_texto": "A partir de R$ 25.00",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/museu-flamengo-2470",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-10-31T15:44:58.368224+00:00"
+    },
+    {
+      "id": "auto-aa308b8a44df0d759ae0",
+      "nome": "Museu Flamengo + Tour na Gávea",
+      "data": "2026-10-31",
+      "hora": null,
+      "local": "Museu Flamengo",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Zona Sul",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 35.0,
+      "preco_texto": "A partir de R$ 35.00",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/museu-flamengo-tour-na-gavea-2471",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-10-31T15:44:58.368259+00:00"
+    },
+    {
       "id": "auto-cdfa4ea90189e3c96529",
       "nome": "Os Três Porquinhos",
       "data": "2026-10-31",
@@ -181,6 +109,24 @@
       "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115",
       "fonte_tipo": "Dados estruturados de página pública",
       "verificado_em": "2026-10-30T21:41:41.957622+00:00"
+    },
+    {
+      "id": "auto-4dcc2e9c3cf5767b2932",
+      "nome": "Patati Patatá Circo Show",
+      "data": "2026-10-31",
+      "hora": null,
+      "local": "Park Shopping Campo Grande",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Zona Oeste",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 35.0,
+      "preco_texto": "A partir de R$ 35.00",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/patati-patata-circo-show-196",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-10-31T15:44:58.368371+00:00"
     },
     {
       "id": "quintal-3110",
@@ -202,6 +148,24 @@
       "verificado_em": "2026-10-29",
       "status_confirmacao": "confirmacao_necessaria",
       "ambiente": "Fechado"
+    },
+    {
+      "id": "auto-ef9807de19244ff9bdc5",
+      "nome": "Tour do Maracanã",
+      "data": "2026-10-31",
+      "hora": null,
+      "local": "Estádio do Maracanã",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Grande Tijuca",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 40.0,
+      "preco_texto": "A partir de R$ 40.00",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/tour-do-maracana-1700",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-10-31T15:44:58.368142+00:00"
     },
     {
       "id": "ampliacao-2026-10-31-ciencia-divertida",
@@ -641,6 +605,24 @@
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
       "fonte_tipo": "Agenda cultural secundária — confirmar com organizador",
       "verificado_em": "2026-10-30T14:00:00-03:00"
+    },
+    {
+      "id": "auto-a52abf0fcd8e8d3cead3",
+      "nome": "Espaço Voltz Parkour & Trampolim Park - Barra",
+      "data": "2026-11-03",
+      "hora": null,
+      "local": "Espaço Voltz Parkour & Trampolim Park - Via Parque Shopping - Barra da Tijuca",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Grande Tijuca",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 57.4,
+      "preco_texto": "A partir de R$ 57.40",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/voltz-parkour-barra-1562",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-10-31T15:44:58.368598+00:00"
     },
     {
       "id": "ampliacao-2026-11-07-dancas-urbanas-para-criancas",
@@ -1284,10 +1266,6 @@
   ],
   "erros_coleta": [
     {
-      "fonte": "https://www.instagram.com/maternandorj/",
-      "erro": "HTTP Error 429: Too Many Requests"
-    },
-    {
       "fonte": "https://www.casadaciencia.ufrj.br/",
       "erro": "Remote end closed connection without response"
     },
@@ -1306,14 +1284,10 @@
     {
       "fonte": "https://www.bibliotecasparque.rj.gov.br/",
       "erro": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.bibliotecasparque.rj.gov.br'. (_"
-    },
-    {
-      "fonte": "https://www.instagram.com/teatromunicipalziembinski.rio/",
-      "erro": "HTTP Error 429: Too Many Requests"
     }
   ],
   "novos_encontrados": 0,
-  "fontes_consultadas": 37,
+  "fontes_consultadas": 39,
   "ultima_curadoria_manual": {
     "data": "2026-10-30",
     "novos": 16,
@@ -1341,7 +1315,7 @@
       "url": "https://www.sescrio.org.br/programacao/educacao/sesc-sao-goncalo-exposicao-interativa-ciencia-divertida/",
       "status": "sem_eventos_estruturados",
       "blocos_jsonld": 1,
-      "sessoes_html": 3,
+      "sessoes_html": 2,
       "novos": 0
     },
     {
@@ -1443,7 +1417,9 @@
     {
       "fonte": "Maternando RJ",
       "url": "https://www.instagram.com/maternandorj/",
-      "status": "erro",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 0,
+      "sessoes_html": 0,
       "novos": 0
     },
     {
@@ -1527,7 +1503,9 @@
     {
       "fonte": "Teatro Municipal Ziembinski",
       "url": "https://www.instagram.com/teatromunicipalziembinski.rio/",
-      "status": "erro",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 0,
+      "sessoes_html": 0,
       "novos": 0
     },
     {
