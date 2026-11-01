@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-31T15:47:21.021452+00:00",
+  "atualizado_em": "2026-11-01T00:10:25.027777+00:00",
   "modo": "Base mista: registros de agendas públicas e eventos extraídos de JSON-LD. Confirmar detalhes na fonte.",
   "eventos": [
     {
@@ -1266,6 +1266,10 @@
   ],
   "erros_coleta": [
     {
+      "fonte": "https://www.instagram.com/maternandorj/",
+      "erro": "HTTP Error 429: Too Many Requests"
+    },
+    {
       "fonte": "https://www.casadaciencia.ufrj.br/",
       "erro": "Remote end closed connection without response"
     },
@@ -1284,10 +1288,14 @@
     {
       "fonte": "https://www.bibliotecasparque.rj.gov.br/",
       "erro": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.bibliotecasparque.rj.gov.br'. (_"
+    },
+    {
+      "fonte": "https://www.instagram.com/teatromunicipalziembinski.rio/",
+      "erro": "HTTP Error 429: Too Many Requests"
     }
   ],
   "novos_encontrados": 0,
-  "fontes_consultadas": 39,
+  "fontes_consultadas": 37,
   "ultima_curadoria_manual": {
     "data": "2026-10-30",
     "novos": 16,
@@ -1417,9 +1425,7 @@
     {
       "fonte": "Maternando RJ",
       "url": "https://www.instagram.com/maternandorj/",
-      "status": "sem_eventos_estruturados",
-      "blocos_jsonld": 0,
-      "sessoes_html": 0,
+      "status": "erro",
       "novos": 0
     },
     {
@@ -1503,9 +1509,7 @@
     {
       "fonte": "Teatro Municipal Ziembinski",
       "url": "https://www.instagram.com/teatromunicipalziembinski.rio/",
-      "status": "sem_eventos_estruturados",
-      "blocos_jsonld": 0,
-      "sessoes_html": 0,
+      "status": "erro",
       "novos": 0
     },
     {
