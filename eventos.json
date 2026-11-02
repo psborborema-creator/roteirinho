@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-01T16:51:25.840711+00:00",
+  "atualizado_em": "2026-11-02T00:47:03.758799+00:00",
   "modo": "Base mista: registros de agendas públicas e eventos extraídos de JSON-LD. Confirmar detalhes na fonte.",
   "eventos": [
     {
@@ -483,6 +483,24 @@
       "verificado_em": "2026-11-01T16:49:53.878603+00:00"
     },
     {
+      "id": "auto-af5802101d7b79a9e390",
+      "nome": "O Halloween das Princesas",
+      "data": "2026-11-07",
+      "hora": null,
+      "local": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Grande Tijuca",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 30.0,
+      "preco_texto": "A partir de R$ 30.00",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-halloween-das-princesas-3618",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-11-02T00:45:22.605875+00:00"
+    },
+    {
       "id": "ampliacao-2026-11-07-dancas-urbanas-para-criancas",
       "nome": "Danças Urbanas para Crianças",
       "categoria": "Oficina",
@@ -577,6 +595,24 @@
       "verificado_em": "2026-10-29",
       "status_confirmacao": "confirmacao_necessaria",
       "ambiente": "Fechado"
+    },
+    {
+      "id": "auto-97638882bcb25e06a073",
+      "nome": "Os Saltimbancos",
+      "data": "2026-11-08",
+      "hora": null,
+      "local": "Palquinho Ipanema",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Zona Sul",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 34.0,
+      "preco_texto": "A partir de R$ 34.00",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-saltimbancos-611",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-11-02T00:45:22.606018+00:00"
     },
     {
       "id": "auto-12183f3960241718d914",
@@ -1178,10 +1214,6 @@
   ],
   "erros_coleta": [
     {
-      "fonte": "https://www.sescrio.org.br/programacao/",
-      "erro": "HTTP Error 500: Internal Server Error"
-    },
-    {
       "fonte": "https://www.casadaciencia.ufrj.br/",
       "erro": "Remote end closed connection without response"
     },
@@ -1203,7 +1235,7 @@
     }
   ],
   "novos_encontrados": 0,
-  "fontes_consultadas": 38,
+  "fontes_consultadas": 39,
   "ultima_curadoria_manual": {
     "data": "2026-10-30",
     "novos": 16,
@@ -1213,7 +1245,9 @@
     {
       "fonte": "Sesc RJ",
       "url": "https://www.sescrio.org.br/programacao/",
-      "status": "erro",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
       "novos": 0
     },
     {
