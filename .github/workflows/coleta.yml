@@ -1,30 +1,73 @@
-name: Atualizar eventos
+name: Coleta diária — fila editorial
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '17 10,21 * * *'
-    - cron: '37 17 * * 5'
+    - cron: '23 12 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/coleta.yml'
+      - 'automation/**'
 permissions:
   contents: write
+concurrency:
+  group: roteirinho-fila-editorial
+  cancel-in-progress: false
 jobs:
   coletar:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Testar extrator
-        run: python -m unittest -v test_collector.py
-      - name: Coletar eventos
-        run: python collector.py
-      - name: Verificar idempotencia
-        run: python collector.py
-      - name: Validar base
-        run: python -m json.tool eventos.json > /dev/null
-      - name: Persistir atualizacao
+      - name: Instalar dependência
+        run: pip install 'lxml==5.4.0'
+      - name: Testar fila e deduplicação
+        run: python -m unittest discover -s automation -p 'test_*.py' -v
+      - name: Proteger base e restaurar fila persistente
+        shell: bash
+        run: |
+          sha256sum eventos.json index.html automation/seed_queue.json > "$RUNNER_TEMP/protected.sha256"
+          mkdir -p automation/output
+          git ls-remote --heads origin refs/heads/fila-candidatos > "$RUNNER_TEMP/state-ref"
+          if [ -s "$RUNNER_TEMP/state-ref" ]; then
+            git fetch origin fila-candidatos
+            git show FETCH_HEAD:automation-state/candidatos.json > automation/output/candidatos.json
+            git rev-parse FETCH_HEAD > "$RUNNER_TEMP/state-sha"
+          else
+            cp automation/seed_queue.json automation/output/candidatos.json
+            git rev-parse HEAD > "$RUNNER_TEMP/state-sha"
+          fi
+          cp automation/output/candidatos.json "$RUNNER_TEMP/queue-before.json"
+      - name: Coletar exclusivamente para a fila
+        run: python automation/pipeline.py --queue automation/output/candidatos.json --out automation/output
+      - name: Validar preservação e ausência de publicação
+        if: always()
+        shell: bash
+        run: |
+          sha256sum -c "$RUNNER_TEMP/protected.sha256"
+          python automation/verify_run.py "$RUNNER_TEMP/queue-before.json" automation/output/candidatos.json
+          cat automation/output/relatorio.md >> "$GITHUB_STEP_SUMMARY"
+      - name: Preservar evidências da execução
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fila-editorial-${{ github.run_id }}-${{ github.run_attempt }}
+          path: automation/output/
+          retention-days: 30
+          if-no-files-found: error
+      - name: Persistir fila em branch separada
+        shell: bash
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add eventos.json
-          git diff --cached --quiet || (git commit -m 'Atualizar base de eventos' && git push)
+          git worktree add --detach "$RUNNER_TEMP/fila" "$(cat "$RUNNER_TEMP/state-sha")"
+          mkdir -p "$RUNNER_TEMP/fila/automation-state/runs"
+          cp automation/output/candidatos.json "$RUNNER_TEMP/fila/automation-state/candidatos.json"
+          cp automation/output/relatorio.json "$RUNNER_TEMP/fila/automation-state/runs/${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}.json"
+          cp automation/output/relatorio.md "$RUNNER_TEMP/fila/automation-state/ultimo-relatorio.md"
+          git -C "$RUNNER_TEMP/fila" add automation-state/
+          git -C "$RUNNER_TEMP/fila" commit -m "Atualizar fila editorial: run ${GITHUB_RUN_ID} (sem publicação)"
+          git -C "$RUNNER_TEMP/fila" push origin HEAD:refs/heads/fila-candidatos
