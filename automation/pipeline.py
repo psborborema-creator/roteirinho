@@ -5,7 +5,7 @@ from urllib.parse import urljoin,urlparse
 from lxml import html
 TZ=dt.timezone(dt.timedelta(hours=-3))
 SOURCES=[
- {'id':'clubinho','url':'https://clubinhodeofertas.com.br/rio-de-janeiro/ingressos/teatro-infantil','place':None},
+ {'id':'clubinho','url':'https://clubinhodeofertas.com.br/rio-de-janeiro','place':None},
  {'id':'pequenos','url':'https://pequenosnorio.com.br/','place':None},
  {'id':'eco','url':'https://ecovillarihappy.com.br/programacao/','place':'EcoVilla Ri Happy'},
  {'id':'ccbb','url':'https://ccbb.com.br/rio-de-janeiro/ccbb-educativo/','place':'CCBB Rio — Rua Primeiro de Março, 66'},
@@ -107,10 +107,11 @@ def candidates_html(source,doc,url,today):
  return rows
 
 def discover(source,out,today):
- log={'fonte':source['id'],'url':source['url'],'paginas':[],'erros':[]};rows=[];visited=set()
+ log={'fonte':source['id'],'url':source['url'],'paginas':[],'tentativas':[],'erros':[]};rows=[];visited=set()
  def read(url):
   b,status,final=fetch(url);doc=html.fromstring(b);v=visible(doc)
   meta={'url':url,'url_final':final,'http':status,'sha256':hashlib.sha256(b).hexdigest(),'verificado_em':dt.datetime.now(dt.timezone.utc).isoformat()}
+  log['tentativas'].append(meta)
   if len(v)<100 or ('/public/shiro/' in b.decode('utf-8','ignore') and len(v)<500):raise ValueError('Tela de verificação ou HTML sem agenda legível (mesmo que HTTP 200)')
   log['paginas'].append(meta);visited.add(url);return doc
  try:
@@ -119,7 +120,8 @@ def discover(source,out,today):
   if source['id']=='clubinho':
    for a in doc.xpath('//article[.//h3]//a[@href]'):
     u=urljoin(source['url'],a.get('href')).split('?')[0]
-    if re.search(r'/rio-de-janeiro/[^/]+-\d+$',u):links.append(u)
+    label=text(a.getparent())
+    if re.search(r'/rio-de-janeiro/[^/]+-\d+$',u) and re.search(r'porquinh|princes|galinha|brinquedo|frozen|matilda|sonhos|saltimbancos|micaela|escola do rock|gatinhos|bento|natal|spidey|patrulh|cinderela|chapeuzinho|brilho|quitapena|menina|batuca|papa vento',label,re.I):links.append(u)
   elif source['id']=='pequenos':
    for a in doc.xpath('//a[@href]'):
     u=a.get('href');label=(u+' '+text(a)).lower()
@@ -135,7 +137,10 @@ def discover(source,out,today):
      u=a.get('href');ctx=text(a.getparent())
      if '/rio-de-janeiro/programacao/' in u and re.search(r'infant|crianç|todas as idades|família',ctx+' '+u,re.I):links.append(u)
    except Exception as e:log['erros'].append({'url':entry,'erro':str(e)[:240]})
-  limit=18 if source['id']=='clubinho' else 4
+  if source['id']=='pequenos':
+   month=['janeiro','fevereiro','marco','abril','maio','junho','julho','agosto','setembro','outubro','novembro','dezembro'][int(today[5:7])-1]
+   links.sort(key=lambda u:0 if (month+'-de-'+today[:4]) in u else 1)
+  limit=18 if source['id']=='clubinho' else 2
   for u in list(dict.fromkeys(links))[:limit]:
    if urlparse(u).hostname!=urlparse(source['url']).hostname or u in visited:continue
    try:
