@@ -1,0 +1,3433 @@
+{
+  "lote": "R2-20261103",
+  "publicacao_automatica": false,
+  "entrada_registros": 62,
+  "sessoes_antes_dedup": 65,
+  "sessoes_unicas": 64,
+  "duplicatas": [
+    {
+      "id_descartado": "609acc74c449",
+      "id_canonico": "S-4b1a0e2be1",
+      "motivo": "mesmo título, data, hora e local normalizados"
+    }
+  ],
+  "correcoes": [
+    {
+      "id_anterior": "c2a8226b0fe3",
+      "nome": "Escola do Rock",
+      "data": "2026-11-14",
+      "antes": [
+        "19:30"
+      ],
+      "depois": [
+        "15:00"
+      ],
+      "motivo": "Horário da fonte oficial prevalece sobre agenda secundária"
+    },
+    {
+      "id_anterior": "49f9b0e79749",
+      "nome": "Escola do Rock",
+      "data": "2026-11-15",
+      "antes": [
+        "19:30"
+      ],
+      "depois": [
+        "15:00"
+      ],
+      "motivo": "Horário da fonte oficial prevalece sobre agenda secundária"
+    },
+    {
+      "id_anterior": "3ec53050a04d",
+      "nome": "Escola do Rock",
+      "data": "2026-11-21",
+      "antes": [
+        "19:30"
+      ],
+      "depois": [
+        "15:00"
+      ],
+      "motivo": "Horário da fonte oficial prevalece sobre agenda secundária"
+    },
+    {
+      "id_anterior": "2a0b7af6313a",
+      "nome": "Escola do Rock",
+      "data": "2026-11-22",
+      "antes": [
+        "19:30"
+      ],
+      "depois": [
+        "15:00"
+      ],
+      "motivo": "Horário da fonte oficial prevalece sobre agenda secundária"
+    },
+    {
+      "id_anterior": "059f38da784b",
+      "nome": "Escola do Rock",
+      "data": "2026-11-28",
+      "antes": [
+        "19:30"
+      ],
+      "depois": [
+        "15:00"
+      ],
+      "motivo": "Horário da fonte oficial prevalece sobre agenda secundária"
+    },
+    {
+      "id_anterior": "4cc3cbf39c4c",
+      "nome": "Escola do Rock",
+      "data": "2026-11-29",
+      "antes": [
+        "19:30"
+      ],
+      "depois": [
+        "15:00"
+      ],
+      "motivo": "Horário da fonte oficial prevalece sobre agenda secundária"
+    }
+  ],
+  "fontes": [
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/a-menina-que-nao-falava-4251",
+      "verificado_em": "2026-11-03T18:06:53.394317+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/a-menina-que-nao-falava-4251",
+      "snapshot": "2e72bbd624f68a5f.html",
+      "sha256": "2d5609fec79bdda9446d3c5ac1b6ddb464881ec696691a8a4f3919fc51a7b8b4",
+      "bytes": 84131,
+      "sessoes_extraidas": 5
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/bem-depois-dos-contos-de-fada-4226",
+      "verificado_em": "2026-11-03T18:06:53.395353+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/bem-depois-dos-contos-de-fada-4226",
+      "snapshot": "b8f343e46c4a70ce.html",
+      "sha256": "ea4cd615f8fc49bd0ca3ceedaed615b7245fede0659214ceafa945ae07aaab36",
+      "bytes": 69626,
+      "sessoes_extraidas": 1
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/bob-zoom-e-a-magia-do-natal-2905",
+      "verificado_em": "2026-11-03T18:06:53.396620+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/bob-zoom-e-a-magia-do-natal-2905",
+      "snapshot": "ee16033707e8f698.html",
+      "sha256": "93d33bd2d926bdfa55cf188c7d484f1c24dee1e151edd850cb7c1aac919f78d3",
+      "bytes": 71649,
+      "sessoes_extraidas": 1
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/brincando-com-bento-e-toto-2619",
+      "verificado_em": "2026-11-03T18:06:53.398039+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/brincando-com-bento-e-toto-2619",
+      "snapshot": "2a7be4c0121de7e2.html",
+      "sha256": "c993b1dfeb7f4e961f0902b98889870687100c0625acc2645119314d7a6f8e28",
+      "bytes": 71402,
+      "sessoes_extraidas": 1
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/brinquedos-em-acao-4237",
+      "verificado_em": "2026-11-03T18:06:58.690198+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/brinquedos-em-acao-4237",
+      "snapshot": "45589a7ffcd89b9d.html",
+      "sha256": "d6ec7f9b5be208420de52f9ff7a522ce847292fe31b9a21b0331e2793982a435",
+      "bytes": 70671,
+      "sessoes_extraidas": 1
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/chapeuzinho-vermelho-e-a-floresta-encantada-3314",
+      "verificado_em": "2026-11-03T18:06:59.474705+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/chapeuzinho-vermelho-e-a-floresta-encantada-3314",
+      "snapshot": "2514785d89ea5970.html",
+      "sha256": "28693887728abbecad3708113ce869a9d2c4e1d6516134f62bca76f30eefa887",
+      "bytes": 74171,
+      "sessoes_extraidas": 1
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/cinderela-316",
+      "verificado_em": "2026-11-03T18:06:59.540432+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/cinderela-316",
+      "snapshot": "a7455b6ed012a7c7.html",
+      "sha256": "1e58b75ee002ed98e661ae4f5b9ccee79f7c12ba85d22434ca5565615ee03d58",
+      "bytes": 71194,
+      "sessoes_extraidas": 1
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/elsa-e-anna-uma-aventura-congelante-1253",
+      "verificado_em": "2026-11-03T18:06:59.561378+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/elsa-e-anna-uma-aventura-congelante-1253",
+      "snapshot": "4249ebbe0bf2b29b.html",
+      "sha256": "8192e9716548062680db620a79e1a939a6508b8f38c3aac4b56324044f60287e",
+      "bytes": 68734,
+      "sessoes_extraidas": 0,
+      "alerta": "ZERO SESSÕES ESTRUTURADAS / SEM CONFIRMAÇÃO"
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/escola-do-rock-4245",
+      "verificado_em": "2026-11-03T18:07:03.865541+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/escola-do-rock-4245",
+      "snapshot": "5722804bc8133bb4.html",
+      "sha256": "3bd60f522e41d7e11003440816f14a1cb61449aa4ab05d37a8759585cf8b0981",
+      "bytes": 103457,
+      "sessoes_extraidas": 12
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/joao-e-maria-na-casa-de-chocolate-1570",
+      "verificado_em": "2026-11-03T18:07:03.920887+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/joao-e-maria-na-casa-de-chocolate-1570",
+      "snapshot": "c8ddd899c8d74590.html",
+      "sha256": "29d07ee33a51e3c724af87eb0c852bbd93d13b154a76bd0f61328852eff5fdc8",
+      "bytes": 68527,
+      "sessoes_extraidas": 0,
+      "alerta": "ZERO SESSÕES ESTRUTURADAS / SEM CONFIRMAÇÃO"
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/natal-da-frozen-4246",
+      "verificado_em": "2026-11-03T18:07:04.337272+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/natal-da-frozen-4246",
+      "snapshot": "313caddbcfb72934.html",
+      "sha256": "1f3340b6f8b107c8de8d56b35db19c761ae5a1e4b09e5437ea098bf178811a45",
+      "bytes": 68651,
+      "sessoes_extraidas": 0,
+      "alerta": "ZERO SESSÕES ESTRUTURADAS / SEM CONFIRMAÇÃO"
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/natal-da-frozen-4249",
+      "verificado_em": "2026-11-03T18:07:04.668941+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/natal-da-frozen-4249",
+      "snapshot": "1e5fcc4feeb3b13e.html",
+      "sha256": "f4480ee23a2198a7dd23e76a1f38e50f5c63209aeefedf7d5e2da067bfd63aa3",
+      "bytes": 69444,
+      "sessoes_extraidas": 0,
+      "alerta": "ZERO SESSÕES ESTRUTURADAS / SEM CONFIRMAÇÃO"
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/natal-magico-na-casa-da-gabby-4250",
+      "verificado_em": "2026-11-03T18:07:09.156869+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/natal-magico-na-casa-da-gabby-4250",
+      "snapshot": "1b697646b7305f2f.html",
+      "sha256": "79d154a9bef6bf28cd7807d45c59e3fb0914866e5eb0103b9d3ac0fa4108ffa7",
+      "bytes": 70566,
+      "sessoes_extraidas": 0,
+      "alerta": "ZERO SESSÕES ESTRUTURADAS / SEM CONFIRMAÇÃO"
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-brilho-do-natal-2929",
+      "verificado_em": "2026-11-03T18:07:09.160661+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-brilho-do-natal-2929",
+      "snapshot": "7def3bffb756ca68.html",
+      "sha256": "79aaa475b44066e0e6883446e36615dbd36437c96b0661554c7b9431f370045a",
+      "bytes": 71686,
+      "sessoes_extraidas": 1
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-halloween-das-princesas-3618",
+      "verificado_em": "2026-11-03T18:07:09.783057+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-halloween-das-princesas-3618",
+      "snapshot": "2cd46cd83f544cc9.html",
+      "sha256": "8a2b5676034f5f3ab2be9857b86ba8513d42f0d0e947f4f530be3a22ac9b505c",
+      "bytes": 77721,
+      "sessoes_extraidas": 3
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-natal-encantado-o-resgate-da-magia-4244",
+      "verificado_em": "2026-11-03T18:07:09.849095+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-natal-encantado-o-resgate-da-magia-4244",
+      "snapshot": "cada64df239e0279.html",
+      "sha256": "1c4280d7a22d365fd66181cd1cd3d595edfe0334da4f195b2d7e0594247fac3c",
+      "bytes": 69136,
+      "sessoes_extraidas": 0,
+      "alerta": "ZERO SESSÕES ESTRUTURADAS / SEM CONFIRMAÇÃO"
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-natal-magico-do-mickey-2530",
+      "verificado_em": "2026-11-03T18:07:14.282631+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-natal-magico-do-mickey-2530",
+      "snapshot": "2d8f3c8ca1871d21.html",
+      "sha256": "4b3c69020e136570490023c3dae3b9f1c96b50ec721fdc2a082d265eb1bcb462",
+      "bytes": 75169,
+      "sessoes_extraidas": 2
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-brinquedos-de-andy-4119",
+      "verificado_em": "2026-11-03T18:07:14.716938+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-brinquedos-de-andy-4119",
+      "snapshot": "aed3b54d3863abb3.html",
+      "sha256": "2cf62cefab9b99c2ebb2e15b69054cb5554641f5839d5455198046eb9088e05e",
+      "bytes": 67568,
+      "sessoes_extraidas": 0,
+      "alerta": "ZERO SESSÕES ESTRUTURADAS / SEM CONFIRMAÇÃO"
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-saltimbancos-611",
+      "verificado_em": "2026-11-03T18:07:14.741312+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-saltimbancos-611",
+      "snapshot": "58763138bb36caab.html",
+      "sha256": "d296e750702939436adc519cf2184d899134c031692ce3dee4b3a74d1d0b9f2d",
+      "bytes": 71655,
+      "sessoes_extraidas": 1
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-sonhos-de-tom-e-theo-4193",
+      "verificado_em": "2026-11-03T18:07:14.860282+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-sonhos-de-tom-e-theo-4193",
+      "snapshot": "d5e90ab886648c7e.html",
+      "sha256": "16f4276166a63413600f34f02a1513b7c7b5f2c2996ea8a399c5b5462af89875",
+      "bytes": 80709,
+      "sessoes_extraidas": 4
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115",
+      "verificado_em": "2026-11-03T18:07:19.410555+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115",
+      "snapshot": "14b92c24971b9d96.html",
+      "sha256": "7ceef68b2a35f76b55f80c2a2806a3b28006e6135b6cb2e2578208603c1acaec",
+      "bytes": 86174,
+      "sessoes_extraidas": 6
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/patrulhinha-de-natal-3738",
+      "verificado_em": "2026-11-03T18:07:19.872921+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/patrulhinha-de-natal-3738",
+      "snapshot": "25084820b17d2d41.html",
+      "sha256": "d30987027e5b6a82a9a4e2f99ed294e14ed3d8553c366ed939b0a4c983e6a64d",
+      "bytes": 69036,
+      "sessoes_extraidas": 0,
+      "alerta": "ZERO SESSÕES ESTRUTURADAS / SEM CONFIRMAÇÃO"
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/patrulhinha-de-natal-4248",
+      "verificado_em": "2026-11-03T18:07:20.209150+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/patrulhinha-de-natal-4248",
+      "snapshot": "e6a42eff7a5d359f.html",
+      "sha256": "4b4f192c59e84e55effdda539dc73e9936404593eefc56c87fceb4c964553d66",
+      "bytes": 69339,
+      "sessoes_extraidas": 0,
+      "alerta": "ZERO SESSÕES ESTRUTURADAS / SEM CONFIRMAÇÃO"
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/sai-da-tela-micaela-4228",
+      "verificado_em": "2026-11-03T18:07:20.317614+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/sai-da-tela-micaela-4228",
+      "snapshot": "9201da23ee07839f.html",
+      "sha256": "03c22523005df0f7133fbffd34b63be761c3d0b89ecc634ab723427c413d953a",
+      "bytes": 75111,
+      "sessoes_extraidas": 2
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/spidey-amigos-aventureiros-4115",
+      "verificado_em": "2026-11-03T18:07:24.605493+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/spidey-amigos-aventureiros-4115",
+      "snapshot": "9c2ba8dc0543a92f.html",
+      "sha256": "b2d66b5ac01371f0705563e02449c67a8756f764cf42e0bf5ca906bfa42cb463",
+      "bytes": 69969,
+      "sessoes_extraidas": 0,
+      "alerta": "ZERO SESSÕES ESTRUTURADAS / SEM CONFIRMAÇÃO"
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/top-10-da-galinha-pintadinha-2906",
+      "verificado_em": "2026-11-03T18:07:24.609017+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/top-10-da-galinha-pintadinha-2906",
+      "snapshot": "3cbcc5b6629bd2fd.html",
+      "sha256": "f9118d0ea2872eefa6ee86e99ed52f0c439cf939868fe89fb6583599ab4f5d3b",
+      "bytes": 71477,
+      "sessoes_extraidas": 1
+    },
+    {
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/tres-porquinhos-contra-o-lobo-mau-2496",
+      "verificado_em": "2026-11-03T18:07:24.885089+00:00",
+      "http": 200,
+      "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/tres-porquinhos-contra-o-lobo-mau-2496",
+      "snapshot": "8b1b24d0e2c67e7c.html",
+      "sha256": "07a4fc43945334ea99bc00672b32b3321849a57c19d985ea8305fa5ee772bd19",
+      "bytes": 78598,
+      "sessoes_extraidas": 3
+    },
+    {
+      "url": "https://ecovillarihappy.com.br/programacao/",
+      "verificado_em": "2026-11-03T18:07:25.230437+00:00",
+      "http": 200,
+      "url_final": "https://ecovillarihappy.com.br/programacao/",
+      "snapshot": "7f1b86c4541780ce.html",
+      "sha256": "76f7f4462227c1d770fab19ff5bddc00fc7d0802ba9b2dcca7b1ddb1ccd72468",
+      "bytes": 215549,
+      "sessoes_extraidas": 13
+    }
+  ],
+  "grupos": {
+    "prontos_para_aprovacao": [
+      {
+        "nome": "EcoVilla Ri Happy - 4 anos (Evento gratuito)",
+        "data": "2026-11-07",
+        "hora": "11:00",
+        "fim": "13:00",
+        "local": "EcoVilla Ri Happy",
+        "preco": "Gratuito",
+        "idade": "Livre",
+        "url": "https://ecovillarihappy.com.br/programacao/",
+        "ids_anteriores": [
+          "dcd34758c929"
+        ],
+        "id_anterior": "dcd34758c929",
+        "fontes": [
+          "EcoVilla Ri Happy",
+          "organizador"
+        ],
+        "evidencias": [
+          {
+            "url": "https://ecovillarihappy.com.br/programacao/",
+            "snapshot": "7f1b86c4541780ce.html",
+            "sha256": "76f7f4462227c1d770fab19ff5bddc00fc7d0802ba9b2dcca7b1ddb1ccd72468",
+            "trecho": {
+              "titulo": "EcoVilla Ri Happy - 4 anos (Evento gratuito)",
+              "data_hora": "07 de novembro (Sábado) | 1º Turno: 11h às 13h e 2º Turno: 13h30 às 15h30",
+              "idade": "Livre",
+              "gratuito": true
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em organizador",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Jardim Botânico, 1008",
+        "verificado_em": "2026-11-03T18:07:25.230437+00:00",
+        "id": "S-f5e94fd1e7",
+        "codigo_editorial": "A01"
+      },
+      {
+        "nome": "EcoVilla Ri Happy - 4 anos (Evento gratuito)",
+        "data": "2026-11-07",
+        "hora": "13:30",
+        "fim": "15:30",
+        "local": "EcoVilla Ri Happy",
+        "preco": "Gratuito",
+        "idade": "Livre",
+        "url": "https://ecovillarihappy.com.br/programacao/",
+        "ids_anteriores": [
+          "dcd34758c929"
+        ],
+        "id_anterior": "dcd34758c929",
+        "fontes": [
+          "EcoVilla Ri Happy",
+          "organizador"
+        ],
+        "evidencias": [
+          {
+            "url": "https://ecovillarihappy.com.br/programacao/",
+            "snapshot": "7f1b86c4541780ce.html",
+            "sha256": "76f7f4462227c1d770fab19ff5bddc00fc7d0802ba9b2dcca7b1ddb1ccd72468",
+            "trecho": {
+              "titulo": "EcoVilla Ri Happy - 4 anos (Evento gratuito)",
+              "data_hora": "07 de novembro (Sábado) | 1º Turno: 11h às 13h e 2º Turno: 13h30 às 15h30",
+              "idade": "Livre",
+              "gratuito": true
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em organizador",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Jardim Botânico, 1008",
+        "verificado_em": "2026-11-03T18:07:25.230437+00:00",
+        "id": "S-9742678985",
+        "codigo_editorial": "A02"
+      },
+      {
+        "nome": "Os Sonhos de Tom e Théo",
+        "data": "2026-11-07",
+        "hora": "15:00",
+        "fim": "16:00",
+        "local": "Teatro Fashion Mall",
+        "preco": "A partir de R$ 49,90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-sonhos-de-tom-e-theo-4193#sessao-167598",
+        "ids_anteriores": [
+          "87b015f3c85b"
+        ],
+        "id_anterior": "87b015f3c85b",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-sonhos-de-tom-e-theo-4193",
+            "snapshot": "d5e90ab886648c7e.html",
+            "sha256": "16f4276166a63413600f34f02a1513b7c7b5f2c2996ea8a399c5b5462af89875",
+            "trecho": {
+              "name": "Os Sonhos de Tom e Théo",
+              "startDate": "2026-11-07T15:00:00-03:00",
+              "endDate": "2026-11-07T16:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro Fashion Mall",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Estrada da Gávea , 899 - São Conrado",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-sonhos-de-tom-e-theo-4193#sessao-167598",
+                "availability": "https://schema.org/InStock",
+                "price": "49.90"
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Estrada da Gávea , 899 - São Conrado",
+        "verificado_em": "2026-11-03T18:07:14.860282+00:00",
+        "id": "S-71ee4355a0",
+        "codigo_editorial": "A03"
+      },
+      {
+        "nome": "Bem Depois dos Contos de Fada",
+        "data": "2026-11-07",
+        "hora": "16:00",
+        "fim": "17:00",
+        "local": "Cine Teatro Joia",
+        "preco": "A partir de R$ 30,00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/bem-depois-dos-contos-de-fada-4226#sessao-170129",
+        "ids_anteriores": [
+          "51d2b2251760"
+        ],
+        "id_anterior": "51d2b2251760",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/bem-depois-dos-contos-de-fada-4226",
+            "snapshot": "b8f343e46c4a70ce.html",
+            "sha256": "ea4cd615f8fc49bd0ca3ceedaed615b7245fede0659214ceafa945ae07aaab36",
+            "trecho": {
+              "name": "Bem Depois dos Contos de Fada",
+              "startDate": "2026-11-07T16:00:00-03:00",
+              "endDate": "2026-11-07T17:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Cine Teatro Joia",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Av. Nossa Sra. de Copacabana, 680 / Shopping 680 & Ed. Central - Copacabana",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/bem-depois-dos-contos-de-fada-4226#sessao-170129",
+                "availability": "https://schema.org/InStock",
+                "price": "30.00"
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Av. Nossa Sra. de Copacabana, 680 / Shopping 680 & Ed. Central - Copacabana",
+        "verificado_em": "2026-11-03T18:06:53.395353+00:00",
+        "id": "S-ffa6bb96af",
+        "codigo_editorial": "A04"
+      },
+      {
+        "nome": "Os Três Porquinhos",
+        "data": "2026-11-07",
+        "hora": "16:00",
+        "fim": "17:00",
+        "local": "Teatro das Artes - Shopping da Gávea",
+        "preco": "A partir de R$ 49,90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115#sessao-171490",
+        "ids_anteriores": [
+          "2553a1601d92"
+        ],
+        "id_anterior": "2553a1601d92",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115",
+            "snapshot": "14b92c24971b9d96.html",
+            "sha256": "7ceef68b2a35f76b55f80c2a2806a3b28006e6135b6cb2e2578208603c1acaec",
+            "trecho": {
+              "name": "Os Três Porquinhos",
+              "startDate": "2026-11-07T16:00:00-03:00",
+              "endDate": "2026-11-07T17:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro das Artes - Shopping da Gávea",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Marquês de São Vicente, 52 - Gávea",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "AggregateOffer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115#sessao-171490",
+                "availability": "https://schema.org/InStock",
+                "lowPrice": "49.90",
+                "highPrice": "75.00",
+                "offerCount": 2
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Marquês de São Vicente, 52 - Gávea",
+        "verificado_em": "2026-11-03T18:07:19.410555+00:00",
+        "id": "S-c018cde0f2",
+        "codigo_editorial": "A05"
+      },
+      {
+        "nome": "SAI DA TELA, MICAELA!",
+        "data": "2026-11-07",
+        "hora": "16:00",
+        "fim": null,
+        "local": "EcoVilla Ri Happy",
+        "preco": "A partir de R$ 40,00",
+        "idade": "Livre",
+        "url": "https://ecovillarihappy.com.br/programacao/",
+        "ids_anteriores": [
+          "f6e883176198"
+        ],
+        "id_anterior": "f6e883176198",
+        "fontes": [
+          "Pequenos no Rio",
+          "organizador",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://ecovillarihappy.com.br/programacao/",
+            "snapshot": "7f1b86c4541780ce.html",
+            "sha256": "76f7f4462227c1d770fab19ff5bddc00fc7d0802ba9b2dcca7b1ddb1ccd72468",
+            "trecho": {
+              "titulo": "SAI DA TELA, MICAELA!",
+              "data_hora": "17 de outubro a 08 de novembro | Sábados e Domingos às 16h",
+              "idade": "Livre",
+              "gratuito": false
+            }
+          },
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/sai-da-tela-micaela-4228",
+            "snapshot": "9201da23ee07839f.html",
+            "sha256": "03c22523005df0f7133fbffd34b63be761c3d0b89ecc634ab723427c413d953a",
+            "trecho": {
+              "name": "Sai da Tela, Micaela",
+              "startDate": "2026-11-07T16:00:00-03:00",
+              "endDate": "2026-11-07T17:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "EcoVilla Ri Happy",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Jardim Botânico, 1008 - Jardim Botânico",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "AggregateOffer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/sai-da-tela-micaela-4228#sessao-170427",
+                "availability": "https://schema.org/InStock",
+                "lowPrice": "40.00",
+                "highPrice": "56.00",
+                "offerCount": 2
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em organizador",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Jardim Botânico, 1008",
+        "verificado_em": "2026-11-03T18:07:25.230437+00:00",
+        "id": "S-60322a9f85",
+        "codigo_editorial": "A06"
+      },
+      {
+        "nome": "O Halloween das Princesas",
+        "data": "2026-11-07",
+        "hora": "17:30",
+        "fim": "18:30",
+        "local": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+        "preco": "A partir de R$ 30,00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-halloween-das-princesas-3618#sessao-171508",
+        "ids_anteriores": [
+          "3032b39e426f"
+        ],
+        "id_anterior": "3032b39e426f",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-halloween-das-princesas-3618",
+            "snapshot": "2cd46cd83f544cc9.html",
+            "sha256": "8a2b5676034f5f3ab2be9857b86ba8513d42f0d0e947f4f530be3a22ac9b505c",
+            "trecho": {
+              "name": "O Halloween das Princesas",
+              "startDate": "2026-11-07T17:30:00-03:00",
+              "endDate": "2026-11-07T18:30:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Conde de Bonfim , 451 - Tijuca",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-halloween-das-princesas-3618#sessao-171508",
+                "availability": "https://schema.org/InStock",
+                "price": "30.00"
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Conde de Bonfim , 451 - Tijuca",
+        "verificado_em": "2026-11-03T18:07:09.783057+00:00",
+        "id": "S-eefcce4a4f",
+        "codigo_editorial": "A07"
+      },
+      {
+        "nome": "A Menina que não Falava",
+        "data": "2026-11-08",
+        "hora": "15:00",
+        "fim": "16:00",
+        "local": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+        "preco": "A partir de R$ 34,90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/a-menina-que-nao-falava-4251#sessao-172722",
+        "ids_anteriores": [
+          "554de18bc4a9"
+        ],
+        "id_anterior": "554de18bc4a9",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/a-menina-que-nao-falava-4251",
+            "snapshot": "2e72bbd624f68a5f.html",
+            "sha256": "2d5609fec79bdda9446d3c5ac1b6ddb464881ec696691a8a4f3919fc51a7b8b4",
+            "trecho": {
+              "name": "A Menina que não Falava",
+              "startDate": "2026-11-08T15:00:00-03:00",
+              "endDate": "2026-11-08T16:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Conde de Bonfim , 451 - Tijuca",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "AggregateOffer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/a-menina-que-nao-falava-4251#sessao-172722",
+                "availability": "https://schema.org/InStock",
+                "lowPrice": "34.90",
+                "highPrice": "52.50",
+                "offerCount": 2
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Conde de Bonfim , 451 - Tijuca",
+        "verificado_em": "2026-11-03T18:06:53.394317+00:00",
+        "id": "S-964b6fa2b9",
+        "codigo_editorial": "A08"
+      },
+      {
+        "nome": "Os Sonhos de Tom e Théo",
+        "data": "2026-11-08",
+        "hora": "15:00",
+        "fim": "16:00",
+        "local": "Teatro Fashion Mall",
+        "preco": "A partir de R$ 49,90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-sonhos-de-tom-e-theo-4193#sessao-167599",
+        "ids_anteriores": [
+          "8d7fd6baf91c"
+        ],
+        "id_anterior": "8d7fd6baf91c",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-sonhos-de-tom-e-theo-4193",
+            "snapshot": "d5e90ab886648c7e.html",
+            "sha256": "16f4276166a63413600f34f02a1513b7c7b5f2c2996ea8a399c5b5462af89875",
+            "trecho": {
+              "name": "Os Sonhos de Tom e Théo",
+              "startDate": "2026-11-08T15:00:00-03:00",
+              "endDate": "2026-11-08T16:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro Fashion Mall",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Estrada da Gávea , 899 - São Conrado",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-sonhos-de-tom-e-theo-4193#sessao-167599",
+                "availability": "https://schema.org/InStock",
+                "price": "49.90"
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Estrada da Gávea , 899 - São Conrado",
+        "verificado_em": "2026-11-03T18:07:14.860282+00:00",
+        "id": "S-bf922ac1bf",
+        "codigo_editorial": "A09"
+      },
+      {
+        "nome": "Top 10 da Galinha Pintadinha",
+        "data": "2026-11-08",
+        "hora": "15:00",
+        "fim": "16:00",
+        "local": "Teatro Clara Nunes - Shopping da Gávea",
+        "preco": "A partir de R$ 63,16",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/top-10-da-galinha-pintadinha-2906#sessao-170131",
+        "ids_anteriores": [
+          "c400b6d14d97"
+        ],
+        "id_anterior": "c400b6d14d97",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/top-10-da-galinha-pintadinha-2906",
+            "snapshot": "3cbcc5b6629bd2fd.html",
+            "sha256": "f9118d0ea2872eefa6ee86e99ed52f0c439cf939868fe89fb6583599ab4f5d3b",
+            "trecho": {
+              "name": "Top 10 da Galinha Pintadinha",
+              "startDate": "2026-11-08T15:00:00-03:00",
+              "endDate": "2026-11-08T16:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro Clara Nunes - Shopping da Gávea",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Marquês de São Vicente, 52 / lj 370 - Gávea",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/top-10-da-galinha-pintadinha-2906#sessao-170131",
+                "availability": "https://schema.org/InStock",
+                "price": "63.16"
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Marquês de São Vicente, 52 / lj 370 - Gávea",
+        "verificado_em": "2026-11-03T18:07:24.609017+00:00",
+        "id": "S-70740e3fe1",
+        "codigo_editorial": "A10"
+      },
+      {
+        "nome": "Os Três Porquinhos",
+        "data": "2026-11-08",
+        "hora": "16:00",
+        "fim": "17:00",
+        "local": "Teatro das Artes - Shopping da Gávea",
+        "preco": "A partir de R$ 49,90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115#sessao-171491",
+        "ids_anteriores": [
+          "0776171e534f"
+        ],
+        "id_anterior": "0776171e534f",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115",
+            "snapshot": "14b92c24971b9d96.html",
+            "sha256": "7ceef68b2a35f76b55f80c2a2806a3b28006e6135b6cb2e2578208603c1acaec",
+            "trecho": {
+              "name": "Os Três Porquinhos",
+              "startDate": "2026-11-08T16:00:00-03:00",
+              "endDate": "2026-11-08T17:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro das Artes - Shopping da Gávea",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Marquês de São Vicente, 52 - Gávea",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "AggregateOffer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115#sessao-171491",
+                "availability": "https://schema.org/InStock",
+                "lowPrice": "49.90",
+                "highPrice": "75.00",
+                "offerCount": 2
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Marquês de São Vicente, 52 - Gávea",
+        "verificado_em": "2026-11-03T18:07:19.410555+00:00",
+        "id": "S-a218425d3a",
+        "codigo_editorial": "A11"
+      },
+      {
+        "nome": "SAI DA TELA, MICAELA!",
+        "data": "2026-11-08",
+        "hora": "16:00",
+        "fim": null,
+        "local": "EcoVilla Ri Happy",
+        "preco": "A partir de R$ 40,00",
+        "idade": "Livre",
+        "url": "https://ecovillarihappy.com.br/programacao/",
+        "ids_anteriores": [
+          "294c7fc75f6c"
+        ],
+        "id_anterior": "294c7fc75f6c",
+        "fontes": [
+          "Pequenos no Rio",
+          "organizador",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://ecovillarihappy.com.br/programacao/",
+            "snapshot": "7f1b86c4541780ce.html",
+            "sha256": "76f7f4462227c1d770fab19ff5bddc00fc7d0802ba9b2dcca7b1ddb1ccd72468",
+            "trecho": {
+              "titulo": "SAI DA TELA, MICAELA!",
+              "data_hora": "17 de outubro a 08 de novembro | Sábados e Domingos às 16h",
+              "idade": "Livre",
+              "gratuito": false
+            }
+          },
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/sai-da-tela-micaela-4228",
+            "snapshot": "9201da23ee07839f.html",
+            "sha256": "03c22523005df0f7133fbffd34b63be761c3d0b89ecc634ab723427c413d953a",
+            "trecho": {
+              "name": "Sai da Tela, Micaela",
+              "startDate": "2026-11-08T16:00:00-03:00",
+              "endDate": "2026-11-08T17:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "EcoVilla Ri Happy",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Jardim Botânico, 1008 - Jardim Botânico",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "AggregateOffer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/sai-da-tela-micaela-4228#sessao-170428",
+                "availability": "https://schema.org/InStock",
+                "lowPrice": "40.00",
+                "highPrice": "56.00",
+                "offerCount": 2
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em organizador",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Jardim Botânico, 1008",
+        "verificado_em": "2026-11-03T18:07:25.230437+00:00",
+        "id": "S-16109fa50a",
+        "codigo_editorial": "A12"
+      },
+      {
+        "nome": "Os Saltimbancos",
+        "data": "2026-11-08",
+        "hora": "17:15",
+        "fim": "18:15",
+        "local": "Palquinho Ipanema",
+        "preco": "A partir de R$ 34,00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-saltimbancos-611#sessao-167621",
+        "ids_anteriores": [
+          "759f0a1cf2cc"
+        ],
+        "id_anterior": "759f0a1cf2cc",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-saltimbancos-611",
+            "snapshot": "58763138bb36caab.html",
+            "sha256": "d296e750702939436adc519cf2184d899134c031692ce3dee4b3a74d1d0b9f2d",
+            "trecho": {
+              "name": "Os Saltimbancos",
+              "startDate": "2026-11-08T17:15:00-03:00",
+              "endDate": "2026-11-08T18:15:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Palquinho Ipanema",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Visconde de Pirajá, 86 - Ipanema",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "AggregateOffer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-saltimbancos-611#sessao-167621",
+                "availability": "https://schema.org/InStock",
+                "lowPrice": "34.00",
+                "highPrice": "69.00",
+                "offerCount": 2
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Visconde de Pirajá, 86 - Ipanema",
+        "verificado_em": "2026-11-03T18:07:14.741312+00:00",
+        "id": "S-0c224d4b4d",
+        "codigo_editorial": "A13"
+      },
+      {
+        "nome": "Sábado Musical, com Papa Vento - O Passarinho Pituca",
+        "data": "2026-11-14",
+        "hora": "09:30",
+        "fim": "10:30",
+        "local": "EcoVilla Ri Happy",
+        "preco": null,
+        "idade": "Livre",
+        "url": "https://ecovillarihappy.com.br/programacao/",
+        "ids_anteriores": [
+          "b670e8d4d5b7"
+        ],
+        "id_anterior": "b670e8d4d5b7",
+        "fontes": [
+          "EcoVilla Ri Happy",
+          "organizador"
+        ],
+        "evidencias": [
+          {
+            "url": "https://ecovillarihappy.com.br/programacao/",
+            "snapshot": "7f1b86c4541780ce.html",
+            "sha256": "76f7f4462227c1d770fab19ff5bddc00fc7d0802ba9b2dcca7b1ddb1ccd72468",
+            "trecho": {
+              "titulo": "Sábado Musical, com Papa Vento - O Passarinho Pituca",
+              "data_hora": "14 de novembro de 2026 | Sábado das 9h30 às 10h30",
+              "idade": "Livre",
+              "gratuito": false
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em organizador",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Jardim Botânico, 1008",
+        "verificado_em": "2026-11-03T18:07:25.230437+00:00",
+        "id": "S-e653ec5dec",
+        "codigo_editorial": "A14"
+      },
+      {
+        "nome": "A Menina que não Falava",
+        "data": "2026-11-14",
+        "hora": "15:00",
+        "fim": "16:00",
+        "local": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+        "preco": "A partir de R$ 34,90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/a-menina-que-nao-falava-4251#sessao-172725",
+        "ids_anteriores": [
+          "e0dc819ffbed"
+        ],
+        "id_anterior": "e0dc819ffbed",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/a-menina-que-nao-falava-4251",
+            "snapshot": "2e72bbd624f68a5f.html",
+            "sha256": "2d5609fec79bdda9446d3c5ac1b6ddb464881ec696691a8a4f3919fc51a7b8b4",
+            "trecho": {
+              "name": "A Menina que não Falava",
+              "startDate": "2026-11-14T15:00:00-03:00",
+              "endDate": "2026-11-14T16:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Conde de Bonfim , 451 - Tijuca",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "AggregateOffer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/a-menina-que-nao-falava-4251#sessao-172725",
+                "availability": "https://schema.org/InStock",
+                "lowPrice": "34.90",
+                "highPrice": "52.50",
+                "offerCount": 2
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Conde de Bonfim , 451 - Tijuca",
+        "verificado_em": "2026-11-03T18:06:53.394317+00:00",
+        "id": "S-62b16512a4",
+        "codigo_editorial": "A15"
+      },
+      {
+        "nome": "Chapeuzinho Vermelho e a Floresta Encantada",
+        "data": "2026-11-14",
+        "hora": "15:00",
+        "fim": "16:00",
+        "local": "Teatro dos Grandes Atores - Shopping Barra Square",
+        "preco": "A partir de R$ 44,90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/chapeuzinho-vermelho-e-a-floresta-encantada-3314#sessao-167628",
+        "ids_anteriores": [
+          "59d7f940a389"
+        ],
+        "id_anterior": "59d7f940a389",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/chapeuzinho-vermelho-e-a-floresta-encantada-3314",
+            "snapshot": "2514785d89ea5970.html",
+            "sha256": "28693887728abbecad3708113ce869a9d2c4e1d6516134f62bca76f30eefa887",
+            "trecho": {
+              "name": "Chapeuzinho Vermelho e a Floresta Encantada",
+              "startDate": "2026-11-14T15:00:00-03:00",
+              "endDate": "2026-11-14T16:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro dos Grandes Atores - Shopping Barra Square",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Av. das Américas , 3555 - Barra da Tijuca",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "AggregateOffer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/chapeuzinho-vermelho-e-a-floresta-encantada-3314#sessao-167628",
+                "availability": "https://schema.org/InStock",
+                "lowPrice": "44.90",
+                "highPrice": "65.00",
+                "offerCount": 2
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Av. das Américas , 3555 - Barra da Tijuca",
+        "verificado_em": "2026-11-03T18:06:59.474705+00:00",
+        "id": "S-507710579c",
+        "codigo_editorial": "A16"
+      },
+      {
+        "nome": "Escola do Rock - CEFTEM",
+        "data": "2026-11-14",
+        "hora": "15:00",
+        "fim": null,
+        "local": "EcoVilla Ri Happy",
+        "preco": "A partir de R$ 45,00",
+        "idade": "Livre",
+        "url": "https://ecovillarihappy.com.br/programacao/",
+        "ids_anteriores": [
+          "c2a8226b0fe3"
+        ],
+        "id_anterior": "c2a8226b0fe3",
+        "fontes": [
+          "Pequenos no Rio",
+          "organizador",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://ecovillarihappy.com.br/programacao/",
+            "snapshot": "7f1b86c4541780ce.html",
+            "sha256": "76f7f4462227c1d770fab19ff5bddc00fc7d0802ba9b2dcca7b1ddb1ccd72468",
+            "trecho": {
+              "titulo": "Escola do Rock - CEFTEM",
+              "data_hora": "14 de novembro a 13 de dezembro | Sábados e Domingos, às 15h e dia 04 e 11 de dezembro | Sexta-feiras às 19h30",
+              "idade": "Livre",
+              "gratuito": false
+            }
+          },
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/escola-do-rock-4245",
+            "snapshot": "5722804bc8133bb4.html",
+            "sha256": "3bd60f522e41d7e11003440816f14a1cb61449aa4ab05d37a8759585cf8b0981",
+            "trecho": {
+              "name": "Escola do Rock",
+              "startDate": "2026-11-14T15:00:00-03:00",
+              "endDate": "2026-11-14T16:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "EcoVilla Ri Happy",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Jardim Botânico, 1008 - Jardim Botânico",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "AggregateOffer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/escola-do-rock-4245#sessao-171475",
+                "availability": "https://schema.org/InStock",
+                "lowPrice": "45.00",
+                "highPrice": "63.00",
+                "offerCount": 2
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em organizador",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Jardim Botânico, 1008",
+        "verificado_em": "2026-11-03T18:07:25.230437+00:00",
+        "id": "S-a59b818de1",
+        "codigo_editorial": "A17"
+      },
+      {
+        "nome": "Os Sonhos de Tom e Théo",
+        "data": "2026-11-14",
+        "hora": "15:00",
+        "fim": "16:00",
+        "local": "Teatro Fashion Mall",
+        "preco": "A partir de R$ 49,90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-sonhos-de-tom-e-theo-4193#sessao-167600",
+        "ids_anteriores": [
+          "a578e94461ed"
+        ],
+        "id_anterior": "a578e94461ed",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-sonhos-de-tom-e-theo-4193",
+            "snapshot": "d5e90ab886648c7e.html",
+            "sha256": "16f4276166a63413600f34f02a1513b7c7b5f2c2996ea8a399c5b5462af89875",
+            "trecho": {
+              "name": "Os Sonhos de Tom e Théo",
+              "startDate": "2026-11-14T15:00:00-03:00",
+              "endDate": "2026-11-14T16:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro Fashion Mall",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Estrada da Gávea , 899 - São Conrado",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-sonhos-de-tom-e-theo-4193#sessao-167600",
+                "availability": "https://schema.org/InStock",
+                "price": "49.90"
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Estrada da Gávea , 899 - São Conrado",
+        "verificado_em": "2026-11-03T18:07:14.860282+00:00",
+        "id": "S-b2a30691ef",
+        "codigo_editorial": "A18"
+      },
+      {
+        "nome": "Os Três Porquinhos",
+        "data": "2026-11-14",
+        "hora": "16:00",
+        "fim": "17:00",
+        "local": "Teatro das Artes - Shopping da Gávea",
+        "preco": "A partir de R$ 49,90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115#sessao-171492",
+        "ids_anteriores": [
+          "cb909d4b6686"
+        ],
+        "id_anterior": "cb909d4b6686",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115",
+            "snapshot": "14b92c24971b9d96.html",
+            "sha256": "7ceef68b2a35f76b55f80c2a2806a3b28006e6135b6cb2e2578208603c1acaec",
+            "trecho": {
+              "name": "Os Três Porquinhos",
+              "startDate": "2026-11-14T16:00:00-03:00",
+              "endDate": "2026-11-14T17:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro das Artes - Shopping da Gávea",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Marquês de São Vicente, 52 - Gávea",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "AggregateOffer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115#sessao-171492",
+                "availability": "https://schema.org/InStock",
+                "lowPrice": "49.90",
+                "highPrice": "75.00",
+                "offerCount": 2
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Marquês de São Vicente, 52 - Gávea",
+        "verificado_em": "2026-11-03T18:07:19.410555+00:00",
+        "id": "S-e303db7ea2",
+        "codigo_editorial": "A19"
+      },
+      {
+        "nome": "O Halloween das Princesas",
+        "data": "2026-11-14",
+        "hora": "17:30",
+        "fim": "18:30",
+        "local": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+        "preco": "A partir de R$ 30,00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-halloween-das-princesas-3618#sessao-171509",
+        "ids_anteriores": [
+          "648cab90e525"
+        ],
+        "id_anterior": "648cab90e525",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-halloween-das-princesas-3618",
+            "snapshot": "2cd46cd83f544cc9.html",
+            "sha256": "8a2b5676034f5f3ab2be9857b86ba8513d42f0d0e947f4f530be3a22ac9b505c",
+            "trecho": {
+              "name": "O Halloween das Princesas",
+              "startDate": "2026-11-14T17:30:00-03:00",
+              "endDate": "2026-11-14T18:30:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Conde de Bonfim , 451 - Tijuca",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-halloween-das-princesas-3618#sessao-171509",
+                "availability": "https://schema.org/InStock",
+                "price": "30.00"
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Conde de Bonfim , 451 - Tijuca",
+        "verificado_em": "2026-11-03T18:07:09.783057+00:00",
+        "id": "S-5e7a1191f1",
+        "codigo_editorial": "A20"
+      },
+      {
+        "nome": "A Menina que não Falava",
+        "data": "2026-11-15",
+        "hora": "15:00",
+        "fim": "16:00",
+        "local": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+        "preco": "A partir de R$ 34,90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/a-menina-que-nao-falava-4251#sessao-172723",
+        "ids_anteriores": [
+          "32e373370d59"
+        ],
+        "id_anterior": "32e373370d59",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/a-menina-que-nao-falava-4251",
+            "snapshot": "2e72bbd624f68a5f.html",
+            "sha256": "2d5609fec79bdda9446d3c5ac1b6ddb464881ec696691a8a4f3919fc51a7b8b4",
+            "trecho": {
+              "name": "A Menina que não Falava",
+              "startDate": "2026-11-15T15:00:00-03:00",
+              "endDate": "2026-11-15T16:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Conde de Bonfim , 451 - Tijuca",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "AggregateOffer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/a-menina-que-nao-falava-4251#sessao-172723",
+                "availability": "https://schema.org/InStock",
+                "lowPrice": "34.90",
+                "highPrice": "52.50",
+                "offerCount": 2
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Conde de Bonfim , 451 - Tijuca",
+        "verificado_em": "2026-11-03T18:06:53.394317+00:00",
+        "id": "S-675f5b0469",
+        "codigo_editorial": "A21"
+      },
+      {
+        "nome": "Escola do Rock - CEFTEM",
+        "data": "2026-11-15",
+        "hora": "15:00",
+        "fim": null,
+        "local": "EcoVilla Ri Happy",
+        "preco": "A partir de R$ 45,00",
+        "idade": "Livre",
+        "url": "https://ecovillarihappy.com.br/programacao/",
+        "ids_anteriores": [
+          "49f9b0e79749"
+        ],
+        "id_anterior": "49f9b0e79749",
+        "fontes": [
+          "Pequenos no Rio",
+          "organizador",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://ecovillarihappy.com.br/programacao/",
+            "snapshot": "7f1b86c4541780ce.html",
+            "sha256": "76f7f4462227c1d770fab19ff5bddc00fc7d0802ba9b2dcca7b1ddb1ccd72468",
+            "trecho": {
+              "titulo": "Escola do Rock - CEFTEM",
+              "data_hora": "14 de novembro a 13 de dezembro | Sábados e Domingos, às 15h e dia 04 e 11 de dezembro | Sexta-feiras às 19h30",
+              "idade": "Livre",
+              "gratuito": false
+            }
+          },
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/escola-do-rock-4245",
+            "snapshot": "5722804bc8133bb4.html",
+            "sha256": "3bd60f522e41d7e11003440816f14a1cb61449aa4ab05d37a8759585cf8b0981",
+            "trecho": {
+              "name": "Escola do Rock",
+              "startDate": "2026-11-15T15:00:00-03:00",
+              "endDate": "2026-11-15T16:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "EcoVilla Ri Happy",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Jardim Botânico, 1008 - Jardim Botânico",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "AggregateOffer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/escola-do-rock-4245#sessao-171476",
+                "availability": "https://schema.org/InStock",
+                "lowPrice": "45.00",
+                "highPrice": "63.00",
+                "offerCount": 2
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em organizador",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Jardim Botânico, 1008",
+        "verificado_em": "2026-11-03T18:07:25.230437+00:00",
+        "id": "S-f021a3d286",
+        "codigo_editorial": "A22"
+      },
+      {
+        "nome": "Os Sonhos de Tom e Théo",
+        "data": "2026-11-15",
+        "hora": "15:00",
+        "fim": "16:00",
+        "local": "Teatro Fashion Mall",
+        "preco": "A partir de R$ 49,90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-sonhos-de-tom-e-theo-4193#sessao-167601",
+        "ids_anteriores": [
+          "447280681eb2"
+        ],
+        "id_anterior": "447280681eb2",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-sonhos-de-tom-e-theo-4193",
+            "snapshot": "d5e90ab886648c7e.html",
+            "sha256": "16f4276166a63413600f34f02a1513b7c7b5f2c2996ea8a399c5b5462af89875",
+            "trecho": {
+              "name": "Os Sonhos de Tom e Théo",
+              "startDate": "2026-11-15T15:00:00-03:00",
+              "endDate": "2026-11-15T16:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro Fashion Mall",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Estrada da Gávea , 899 - São Conrado",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-sonhos-de-tom-e-theo-4193#sessao-167601",
+                "availability": "https://schema.org/InStock",
+                "price": "49.90"
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Estrada da Gávea , 899 - São Conrado",
+        "verificado_em": "2026-11-03T18:07:14.860282+00:00",
+        "id": "S-78a39cc1b7",
+        "codigo_editorial": "A23"
+      },
+      {
+        "nome": "Os Três Porquinhos",
+        "data": "2026-11-15",
+        "hora": "16:00",
+        "fim": "17:00",
+        "local": "Teatro das Artes - Shopping da Gávea",
+        "preco": "A partir de R$ 49,90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115#sessao-171493",
+        "ids_anteriores": [
+          "2fb1ef96b076"
+        ],
+        "id_anterior": "2fb1ef96b076",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115",
+            "snapshot": "14b92c24971b9d96.html",
+            "sha256": "7ceef68b2a35f76b55f80c2a2806a3b28006e6135b6cb2e2578208603c1acaec",
+            "trecho": {
+              "name": "Os Três Porquinhos",
+              "startDate": "2026-11-15T16:00:00-03:00",
+              "endDate": "2026-11-15T17:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro das Artes - Shopping da Gávea",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Marquês de São Vicente, 52 - Gávea",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "AggregateOffer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115#sessao-171493",
+                "availability": "https://schema.org/InStock",
+                "lowPrice": "49.90",
+                "highPrice": "75.00",
+                "offerCount": 2
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Marquês de São Vicente, 52 - Gávea",
+        "verificado_em": "2026-11-03T18:07:19.410555+00:00",
+        "id": "S-3874197a0b",
+        "codigo_editorial": "A24"
+      },
+      {
+        "nome": "O Halloween das Princesas",
+        "data": "2026-11-15",
+        "hora": "17:30",
+        "fim": "18:30",
+        "local": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+        "preco": "A partir de R$ 30,00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-halloween-das-princesas-3618#sessao-171510",
+        "ids_anteriores": [
+          "4fd9671c2b4e"
+        ],
+        "id_anterior": "4fd9671c2b4e",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-halloween-das-princesas-3618",
+            "snapshot": "2cd46cd83f544cc9.html",
+            "sha256": "8a2b5676034f5f3ab2be9857b86ba8513d42f0d0e947f4f530be3a22ac9b505c",
+            "trecho": {
+              "name": "O Halloween das Princesas",
+              "startDate": "2026-11-15T17:30:00-03:00",
+              "endDate": "2026-11-15T18:30:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Conde de Bonfim , 451 - Tijuca",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-halloween-das-princesas-3618#sessao-171510",
+                "availability": "https://schema.org/InStock",
+                "price": "30.00"
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Conde de Bonfim , 451 - Tijuca",
+        "verificado_em": "2026-11-03T18:07:09.783057+00:00",
+        "id": "S-818157c717",
+        "codigo_editorial": "A25"
+      },
+      {
+        "nome": "Brinquedos em Ação",
+        "data": "2026-11-20",
+        "hora": "16:00",
+        "fim": "17:00",
+        "local": "Teatro dos Quatro - Shopping da Gávea",
+        "preco": "A partir de R$ 57,50",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/brinquedos-em-acao-4237#sessao-170844",
+        "ids_anteriores": [
+          "0af2541ca12a",
+          "609acc74c449"
+        ],
+        "id_anterior": "0af2541ca12a",
+        "fontes": [
+          "Clubinho de Ofertas",
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/brinquedos-em-acao-4237",
+            "snapshot": "45589a7ffcd89b9d.html",
+            "sha256": "d6ec7f9b5be208420de52f9ff7a522ce847292fe31b9a21b0331e2793982a435",
+            "trecho": {
+              "name": "Brinquedos em Ação",
+              "startDate": "2026-11-20T16:00:00-03:00",
+              "endDate": "2026-11-20T17:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro dos Quatro - Shopping da Gávea",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Marquês de São Vicente, 52 / lj 265 - Gávea",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "AggregateOffer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/brinquedos-em-acao-4237#sessao-170844",
+                "availability": "https://schema.org/InStock",
+                "lowPrice": "57.50",
+                "highPrice": "79.90",
+                "offerCount": 2
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Marquês de São Vicente, 52 / lj 265 - Gávea",
+        "verificado_em": "2026-11-03T18:06:58.690198+00:00",
+        "id": "S-4b1a0e2be1",
+        "codigo_editorial": "A26"
+      },
+      {
+        "nome": "Sábado Musical, com Batuca Jardim - Ritmos da Ancestralidade”",
+        "data": "2026-11-21",
+        "hora": "09:30",
+        "fim": null,
+        "local": "EcoVilla Ri Happy",
+        "preco": null,
+        "idade": "Livre",
+        "url": "https://ecovillarihappy.com.br/programacao/",
+        "ids_anteriores": [
+          "4db1e99ef4e6"
+        ],
+        "id_anterior": "4db1e99ef4e6",
+        "fontes": [
+          "EcoVilla Ri Happy",
+          "organizador"
+        ],
+        "evidencias": [
+          {
+            "url": "https://ecovillarihappy.com.br/programacao/",
+            "snapshot": "7f1b86c4541780ce.html",
+            "sha256": "76f7f4462227c1d770fab19ff5bddc00fc7d0802ba9b2dcca7b1ddb1ccd72468",
+            "trecho": {
+              "titulo": "Sábado Musical, com Batuca Jardim - Ritmos da Ancestralidade”",
+              "data_hora": "21 de novembro | Sábado às 09h30",
+              "idade": "Livre",
+              "gratuito": false
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em organizador",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Jardim Botânico, 1008",
+        "verificado_em": "2026-11-03T18:07:25.230437+00:00",
+        "id": "S-3834ee7bdd",
+        "codigo_editorial": "A27"
+      },
+      {
+        "nome": "A Menina que não Falava",
+        "data": "2026-11-21",
+        "hora": "15:00",
+        "fim": "16:00",
+        "local": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+        "preco": "A partir de R$ 34,90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/a-menina-que-nao-falava-4251#sessao-172726",
+        "ids_anteriores": [
+          "41aba3fd776b"
+        ],
+        "id_anterior": "41aba3fd776b",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/a-menina-que-nao-falava-4251",
+            "snapshot": "2e72bbd624f68a5f.html",
+            "sha256": "2d5609fec79bdda9446d3c5ac1b6ddb464881ec696691a8a4f3919fc51a7b8b4",
+            "trecho": {
+              "name": "A Menina que não Falava",
+              "startDate": "2026-11-21T15:00:00-03:00",
+              "endDate": "2026-11-21T16:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Conde de Bonfim , 451 - Tijuca",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "AggregateOffer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/a-menina-que-nao-falava-4251#sessao-172726",
+                "availability": "https://schema.org/InStock",
+                "lowPrice": "34.90",
+                "highPrice": "52.50",
+                "offerCount": 2
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Conde de Bonfim , 451 - Tijuca",
+        "verificado_em": "2026-11-03T18:06:53.394317+00:00",
+        "id": "S-751e559d4f",
+        "codigo_editorial": "A28"
+      },
+      {
+        "nome": "Brincando com Bento e Totó",
+        "data": "2026-11-21",
+        "hora": "15:00",
+        "fim": "16:00",
+        "local": "Teatro Clara Nunes - Shopping da Gávea",
+        "preco": "A partir de R$ 63,16",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/brincando-com-bento-e-toto-2619#sessao-167143",
+        "ids_anteriores": [
+          "18e3650d87d3"
+        ],
+        "id_anterior": "18e3650d87d3",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/brincando-com-bento-e-toto-2619",
+            "snapshot": "2a7be4c0121de7e2.html",
+            "sha256": "c993b1dfeb7f4e961f0902b98889870687100c0625acc2645119314d7a6f8e28",
+            "trecho": {
+              "name": "Brincando com Bento e Totó",
+              "startDate": "2026-11-21T15:00:00-03:00",
+              "endDate": "2026-11-21T16:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro Clara Nunes - Shopping da Gávea",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Marquês de São Vicente, 52 / lj 370 - Gávea",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/brincando-com-bento-e-toto-2619#sessao-167143",
+                "availability": "https://schema.org/InStock",
+                "price": "63.16"
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Marquês de São Vicente, 52 / lj 370 - Gávea",
+        "verificado_em": "2026-11-03T18:06:53.398039+00:00",
+        "id": "S-672ff9faaf",
+        "codigo_editorial": "A29"
+      },
+      {
+        "nome": "Escola do Rock - CEFTEM",
+        "data": "2026-11-21",
+        "hora": "15:00",
+        "fim": null,
+        "local": "EcoVilla Ri Happy",
+        "preco": "A partir de R$ 45,00",
+        "idade": "Livre",
+        "url": "https://ecovillarihappy.com.br/programacao/",
+        "ids_anteriores": [
+          "3ec53050a04d"
+        ],
+        "id_anterior": "3ec53050a04d",
+        "fontes": [
+          "Pequenos no Rio",
+          "organizador",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://ecovillarihappy.com.br/programacao/",
+            "snapshot": "7f1b86c4541780ce.html",
+            "sha256": "76f7f4462227c1d770fab19ff5bddc00fc7d0802ba9b2dcca7b1ddb1ccd72468",
+            "trecho": {
+              "titulo": "Escola do Rock - CEFTEM",
+              "data_hora": "14 de novembro a 13 de dezembro | Sábados e Domingos, às 15h e dia 04 e 11 de dezembro | Sexta-feiras às 19h30",
+              "idade": "Livre",
+              "gratuito": false
+            }
+          },
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/escola-do-rock-4245",
+            "snapshot": "5722804bc8133bb4.html",
+            "sha256": "3bd60f522e41d7e11003440816f14a1cb61449aa4ab05d37a8759585cf8b0981",
+            "trecho": {
+              "name": "Escola do Rock",
+              "startDate": "2026-11-21T15:00:00-03:00",
+              "endDate": "2026-11-21T16:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "EcoVilla Ri Happy",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Jardim Botânico, 1008 - Jardim Botânico",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "AggregateOffer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/escola-do-rock-4245#sessao-171477",
+                "availability": "https://schema.org/InStock",
+                "lowPrice": "45.00",
+                "highPrice": "63.00",
+                "offerCount": 2
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em organizador",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Jardim Botânico, 1008",
+        "verificado_em": "2026-11-03T18:07:25.230437+00:00",
+        "id": "S-393db2cf73",
+        "codigo_editorial": "A30"
+      },
+      {
+        "nome": "O Brilho do Natal",
+        "data": "2026-11-21",
+        "hora": "16:00",
+        "fim": "17:00",
+        "local": "Teatros da Barra - Barra Point Shopping Center",
+        "preco": "A partir de R$ 25,00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-brilho-do-natal-2929#sessao-167991",
+        "ids_anteriores": [
+          "2d66f9bfdcb1"
+        ],
+        "id_anterior": "2d66f9bfdcb1",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-brilho-do-natal-2929",
+            "snapshot": "7def3bffb756ca68.html",
+            "sha256": "79aaa475b44066e0e6883446e36615dbd36437c96b0661554c7b9431f370045a",
+            "trecho": {
+              "name": "O Brilho do Natal",
+              "startDate": "2026-11-21T16:00:00-03:00",
+              "endDate": "2026-11-21T17:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatros da Barra - Barra Point Shopping Center",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Av. Armando Lombardi, 350 - Barra da Tijuca",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-brilho-do-natal-2929#sessao-167991",
+                "availability": "https://schema.org/InStock",
+                "price": "25.00"
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Av. Armando Lombardi, 350 - Barra da Tijuca",
+        "verificado_em": "2026-11-03T18:07:09.160661+00:00",
+        "id": "S-b87dc4e7b1",
+        "codigo_editorial": "A31"
+      },
+      {
+        "nome": "Os Três Porquinhos",
+        "data": "2026-11-21",
+        "hora": "16:00",
+        "fim": "17:00",
+        "local": "Teatro das Artes - Shopping da Gávea",
+        "preco": "A partir de R$ 49,90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115#sessao-171494",
+        "ids_anteriores": [
+          "6fb4e05c2fac"
+        ],
+        "id_anterior": "6fb4e05c2fac",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115",
+            "snapshot": "14b92c24971b9d96.html",
+            "sha256": "7ceef68b2a35f76b55f80c2a2806a3b28006e6135b6cb2e2578208603c1acaec",
+            "trecho": {
+              "name": "Os Três Porquinhos",
+              "startDate": "2026-11-21T16:00:00-03:00",
+              "endDate": "2026-11-21T17:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro das Artes - Shopping da Gávea",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Marquês de São Vicente, 52 - Gávea",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "AggregateOffer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115#sessao-171494",
+                "availability": "https://schema.org/InStock",
+                "lowPrice": "49.90",
+                "highPrice": "75.00",
+                "offerCount": 2
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Marquês de São Vicente, 52 - Gávea",
+        "verificado_em": "2026-11-03T18:07:19.410555+00:00",
+        "id": "S-a0d3ad014f",
+        "codigo_editorial": "A32"
+      },
+      {
+        "nome": "O Natal Mágico do Mickey",
+        "data": "2026-11-21",
+        "hora": "17:00",
+        "fim": "18:00",
+        "local": "Teatro Miguel Falabella - Norte Shopping",
+        "preco": "A partir de R$ 39,90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-natal-magico-do-mickey-2530#sessao-171514",
+        "ids_anteriores": [
+          "c77aa4a00170"
+        ],
+        "id_anterior": "c77aa4a00170",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-natal-magico-do-mickey-2530",
+            "snapshot": "2d8f3c8ca1871d21.html",
+            "sha256": "4b3c69020e136570490023c3dae3b9f1c96b50ec721fdc2a082d265eb1bcb462",
+            "trecho": {
+              "name": "O Natal Mágico do Mickey",
+              "startDate": "2026-11-21T17:00:00-03:00",
+              "endDate": "2026-11-21T18:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro Miguel Falabella - Norte Shopping",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Av. Dom Helder Câmara , 5332 / 2º Piso - Cachambi",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-natal-magico-do-mickey-2530#sessao-171514",
+                "availability": "https://schema.org/InStock",
+                "price": "39.90"
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Av. Dom Helder Câmara , 5332 / 2º Piso - Cachambi",
+        "verificado_em": "2026-11-03T18:07:14.282631+00:00",
+        "id": "S-e97767a694",
+        "codigo_editorial": "A33"
+      },
+      {
+        "nome": "Três Porquinhos Contra o Lobo Mau",
+        "data": "2026-11-21",
+        "hora": "17:30",
+        "fim": "18:30",
+        "local": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+        "preco": "A partir de R$ 30,00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/tres-porquinhos-contra-o-lobo-mau-2496#sessao-171511",
+        "ids_anteriores": [
+          "5be0a7794d29"
+        ],
+        "id_anterior": "5be0a7794d29",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/tres-porquinhos-contra-o-lobo-mau-2496",
+            "snapshot": "8b1b24d0e2c67e7c.html",
+            "sha256": "07a4fc43945334ea99bc00672b32b3321849a57c19d985ea8305fa5ee772bd19",
+            "trecho": {
+              "name": "Três Porquinhos Contra o Lobo Mau",
+              "startDate": "2026-11-21T17:30:00-03:00",
+              "endDate": "2026-11-21T18:30:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Conde de Bonfim , 451 - Tijuca",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/tres-porquinhos-contra-o-lobo-mau-2496#sessao-171511",
+                "availability": "https://schema.org/InStock",
+                "price": "30.00"
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Conde de Bonfim , 451 - Tijuca",
+        "verificado_em": "2026-11-03T18:07:24.885089+00:00",
+        "id": "S-918bbab77c",
+        "codigo_editorial": "A34"
+      },
+      {
+        "nome": "A Menina que não Falava",
+        "data": "2026-11-22",
+        "hora": "15:00",
+        "fim": "16:00",
+        "local": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+        "preco": "A partir de R$ 34,90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/a-menina-que-nao-falava-4251#sessao-172724",
+        "ids_anteriores": [
+          "f69d6eac15d2"
+        ],
+        "id_anterior": "f69d6eac15d2",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/a-menina-que-nao-falava-4251",
+            "snapshot": "2e72bbd624f68a5f.html",
+            "sha256": "2d5609fec79bdda9446d3c5ac1b6ddb464881ec696691a8a4f3919fc51a7b8b4",
+            "trecho": {
+              "name": "A Menina que não Falava",
+              "startDate": "2026-11-22T15:00:00-03:00",
+              "endDate": "2026-11-22T16:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Conde de Bonfim , 451 - Tijuca",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "AggregateOffer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/a-menina-que-nao-falava-4251#sessao-172724",
+                "availability": "https://schema.org/InStock",
+                "lowPrice": "34.90",
+                "highPrice": "52.50",
+                "offerCount": 2
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Conde de Bonfim , 451 - Tijuca",
+        "verificado_em": "2026-11-03T18:06:53.394317+00:00",
+        "id": "S-2138e6383a",
+        "codigo_editorial": "A35"
+      },
+      {
+        "nome": "Escola do Rock - CEFTEM",
+        "data": "2026-11-22",
+        "hora": "15:00",
+        "fim": null,
+        "local": "EcoVilla Ri Happy",
+        "preco": "A partir de R$ 45,00",
+        "idade": "Livre",
+        "url": "https://ecovillarihappy.com.br/programacao/",
+        "ids_anteriores": [
+          "2a0b7af6313a"
+        ],
+        "id_anterior": "2a0b7af6313a",
+        "fontes": [
+          "Pequenos no Rio",
+          "organizador",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://ecovillarihappy.com.br/programacao/",
+            "snapshot": "7f1b86c4541780ce.html",
+            "sha256": "76f7f4462227c1d770fab19ff5bddc00fc7d0802ba9b2dcca7b1ddb1ccd72468",
+            "trecho": {
+              "titulo": "Escola do Rock - CEFTEM",
+              "data_hora": "14 de novembro a 13 de dezembro | Sábados e Domingos, às 15h e dia 04 e 11 de dezembro | Sexta-feiras às 19h30",
+              "idade": "Livre",
+              "gratuito": false
+            }
+          },
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/escola-do-rock-4245",
+            "snapshot": "5722804bc8133bb4.html",
+            "sha256": "3bd60f522e41d7e11003440816f14a1cb61449aa4ab05d37a8759585cf8b0981",
+            "trecho": {
+              "name": "Escola do Rock",
+              "startDate": "2026-11-22T15:00:00-03:00",
+              "endDate": "2026-11-22T16:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "EcoVilla Ri Happy",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Jardim Botânico, 1008 - Jardim Botânico",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "AggregateOffer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/escola-do-rock-4245#sessao-171478",
+                "availability": "https://schema.org/InStock",
+                "lowPrice": "45.00",
+                "highPrice": "63.00",
+                "offerCount": 2
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em organizador",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Jardim Botânico, 1008",
+        "verificado_em": "2026-11-03T18:07:25.230437+00:00",
+        "id": "S-78998ade9c",
+        "codigo_editorial": "A36"
+      },
+      {
+        "nome": "Os Três Porquinhos",
+        "data": "2026-11-22",
+        "hora": "16:00",
+        "fim": "17:00",
+        "local": "Teatro das Artes - Shopping da Gávea",
+        "preco": "A partir de R$ 49,90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115#sessao-171495",
+        "ids_anteriores": [
+          "eb0cbfff0620"
+        ],
+        "id_anterior": "eb0cbfff0620",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115",
+            "snapshot": "14b92c24971b9d96.html",
+            "sha256": "7ceef68b2a35f76b55f80c2a2806a3b28006e6135b6cb2e2578208603c1acaec",
+            "trecho": {
+              "name": "Os Três Porquinhos",
+              "startDate": "2026-11-22T16:00:00-03:00",
+              "endDate": "2026-11-22T17:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro das Artes - Shopping da Gávea",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Marquês de São Vicente, 52 - Gávea",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "AggregateOffer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115#sessao-171495",
+                "availability": "https://schema.org/InStock",
+                "lowPrice": "49.90",
+                "highPrice": "75.00",
+                "offerCount": 2
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Marquês de São Vicente, 52 - Gávea",
+        "verificado_em": "2026-11-03T18:07:19.410555+00:00",
+        "id": "S-7ae279229a",
+        "codigo_editorial": "A37"
+      },
+      {
+        "nome": "O Natal Mágico do Mickey",
+        "data": "2026-11-22",
+        "hora": "17:00",
+        "fim": "18:00",
+        "local": "Teatro Miguel Falabella - Norte Shopping",
+        "preco": "A partir de R$ 39,90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-natal-magico-do-mickey-2530#sessao-171515",
+        "ids_anteriores": [
+          "188db439c21a"
+        ],
+        "id_anterior": "188db439c21a",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-natal-magico-do-mickey-2530",
+            "snapshot": "2d8f3c8ca1871d21.html",
+            "sha256": "4b3c69020e136570490023c3dae3b9f1c96b50ec721fdc2a082d265eb1bcb462",
+            "trecho": {
+              "name": "O Natal Mágico do Mickey",
+              "startDate": "2026-11-22T17:00:00-03:00",
+              "endDate": "2026-11-22T18:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro Miguel Falabella - Norte Shopping",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Av. Dom Helder Câmara , 5332 / 2º Piso - Cachambi",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-natal-magico-do-mickey-2530#sessao-171515",
+                "availability": "https://schema.org/InStock",
+                "price": "39.90"
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Av. Dom Helder Câmara , 5332 / 2º Piso - Cachambi",
+        "verificado_em": "2026-11-03T18:07:14.282631+00:00",
+        "id": "S-b318c3b038",
+        "codigo_editorial": "A38"
+      },
+      {
+        "nome": "Cinderela",
+        "data": "2026-11-28",
+        "hora": "15:00",
+        "fim": "16:00",
+        "local": "Teatro dos Grandes Atores - Shopping Barra Square",
+        "preco": "A partir de R$ 44,90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/cinderela-316#sessao-167632",
+        "ids_anteriores": [
+          "f3e5abd14afa"
+        ],
+        "id_anterior": "f3e5abd14afa",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/cinderela-316",
+            "snapshot": "a7455b6ed012a7c7.html",
+            "sha256": "1e58b75ee002ed98e661ae4f5b9ccee79f7c12ba85d22434ca5565615ee03d58",
+            "trecho": {
+              "name": "Cinderela",
+              "startDate": "2026-11-28T15:00:00-03:00",
+              "endDate": "2026-11-28T16:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro dos Grandes Atores - Shopping Barra Square",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Av. das Américas , 3555 - Barra da Tijuca",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "AggregateOffer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/cinderela-316#sessao-167632",
+                "availability": "https://schema.org/InStock",
+                "lowPrice": "44.90",
+                "highPrice": "65.00",
+                "offerCount": 2
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Av. das Américas , 3555 - Barra da Tijuca",
+        "verificado_em": "2026-11-03T18:06:59.540432+00:00",
+        "id": "S-67c05cfc4b",
+        "codigo_editorial": "A39"
+      },
+      {
+        "nome": "Escola do Rock - CEFTEM",
+        "data": "2026-11-28",
+        "hora": "15:00",
+        "fim": null,
+        "local": "EcoVilla Ri Happy",
+        "preco": "A partir de R$ 45,00",
+        "idade": "Livre",
+        "url": "https://ecovillarihappy.com.br/programacao/",
+        "ids_anteriores": [
+          "059f38da784b"
+        ],
+        "id_anterior": "059f38da784b",
+        "fontes": [
+          "Pequenos no Rio",
+          "organizador",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://ecovillarihappy.com.br/programacao/",
+            "snapshot": "7f1b86c4541780ce.html",
+            "sha256": "76f7f4462227c1d770fab19ff5bddc00fc7d0802ba9b2dcca7b1ddb1ccd72468",
+            "trecho": {
+              "titulo": "Escola do Rock - CEFTEM",
+              "data_hora": "14 de novembro a 13 de dezembro | Sábados e Domingos, às 15h e dia 04 e 11 de dezembro | Sexta-feiras às 19h30",
+              "idade": "Livre",
+              "gratuito": false
+            }
+          },
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/escola-do-rock-4245",
+            "snapshot": "5722804bc8133bb4.html",
+            "sha256": "3bd60f522e41d7e11003440816f14a1cb61449aa4ab05d37a8759585cf8b0981",
+            "trecho": {
+              "name": "Escola do Rock",
+              "startDate": "2026-11-28T15:00:00-03:00",
+              "endDate": "2026-11-28T16:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "EcoVilla Ri Happy",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Jardim Botânico, 1008 - Jardim Botânico",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "AggregateOffer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/escola-do-rock-4245#sessao-171479",
+                "availability": "https://schema.org/InStock",
+                "lowPrice": "45.00",
+                "highPrice": "63.00",
+                "offerCount": 2
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em organizador",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Jardim Botânico, 1008",
+        "verificado_em": "2026-11-03T18:07:25.230437+00:00",
+        "id": "S-30bf73fc4c",
+        "codigo_editorial": "A40"
+      },
+      {
+        "nome": "Três Porquinhos Contra o Lobo Mau",
+        "data": "2026-11-28",
+        "hora": "17:30",
+        "fim": "18:30",
+        "local": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+        "preco": "A partir de R$ 30,00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/tres-porquinhos-contra-o-lobo-mau-2496#sessao-171512",
+        "ids_anteriores": [
+          "b74d77b9ecbb"
+        ],
+        "id_anterior": "b74d77b9ecbb",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/tres-porquinhos-contra-o-lobo-mau-2496",
+            "snapshot": "8b1b24d0e2c67e7c.html",
+            "sha256": "07a4fc43945334ea99bc00672b32b3321849a57c19d985ea8305fa5ee772bd19",
+            "trecho": {
+              "name": "Três Porquinhos Contra o Lobo Mau",
+              "startDate": "2026-11-28T17:30:00-03:00",
+              "endDate": "2026-11-28T18:30:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Conde de Bonfim , 451 - Tijuca",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/tres-porquinhos-contra-o-lobo-mau-2496#sessao-171512",
+                "availability": "https://schema.org/InStock",
+                "price": "30.00"
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Conde de Bonfim , 451 - Tijuca",
+        "verificado_em": "2026-11-03T18:07:24.885089+00:00",
+        "id": "S-5c598e0497",
+        "codigo_editorial": "A41"
+      },
+      {
+        "nome": "Bob Zoom e a Magia do Natal",
+        "data": "2026-11-29",
+        "hora": "15:00",
+        "fim": "16:00",
+        "local": "Teatro Clara Nunes - Shopping da Gávea",
+        "preco": "A partir de R$ 63,16",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/bob-zoom-e-a-magia-do-natal-2905#sessao-170133",
+        "ids_anteriores": [
+          "b74f40a3c451"
+        ],
+        "id_anterior": "b74f40a3c451",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/bob-zoom-e-a-magia-do-natal-2905",
+            "snapshot": "ee16033707e8f698.html",
+            "sha256": "93d33bd2d926bdfa55cf188c7d484f1c24dee1e151edd850cb7c1aac919f78d3",
+            "trecho": {
+              "name": "Bob Zoom e a Magia do Natal",
+              "startDate": "2026-11-29T15:00:00-03:00",
+              "endDate": "2026-11-29T16:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro Clara Nunes - Shopping da Gávea",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Marquês de São Vicente, 52 / lj 370 - Gávea",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/bob-zoom-e-a-magia-do-natal-2905#sessao-170133",
+                "availability": "https://schema.org/InStock",
+                "price": "63.16"
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Marquês de São Vicente, 52 / lj 370 - Gávea",
+        "verificado_em": "2026-11-03T18:06:53.396620+00:00",
+        "id": "S-f8930d7820",
+        "codigo_editorial": "A42"
+      },
+      {
+        "nome": "Escola do Rock - CEFTEM",
+        "data": "2026-11-29",
+        "hora": "15:00",
+        "fim": null,
+        "local": "EcoVilla Ri Happy",
+        "preco": "A partir de R$ 45,00",
+        "idade": "Livre",
+        "url": "https://ecovillarihappy.com.br/programacao/",
+        "ids_anteriores": [
+          "4cc3cbf39c4c"
+        ],
+        "id_anterior": "4cc3cbf39c4c",
+        "fontes": [
+          "Pequenos no Rio",
+          "organizador",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://ecovillarihappy.com.br/programacao/",
+            "snapshot": "7f1b86c4541780ce.html",
+            "sha256": "76f7f4462227c1d770fab19ff5bddc00fc7d0802ba9b2dcca7b1ddb1ccd72468",
+            "trecho": {
+              "titulo": "Escola do Rock - CEFTEM",
+              "data_hora": "14 de novembro a 13 de dezembro | Sábados e Domingos, às 15h e dia 04 e 11 de dezembro | Sexta-feiras às 19h30",
+              "idade": "Livre",
+              "gratuito": false
+            }
+          },
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/escola-do-rock-4245",
+            "snapshot": "5722804bc8133bb4.html",
+            "sha256": "3bd60f522e41d7e11003440816f14a1cb61449aa4ab05d37a8759585cf8b0981",
+            "trecho": {
+              "name": "Escola do Rock",
+              "startDate": "2026-11-29T15:00:00-03:00",
+              "endDate": "2026-11-29T16:00:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "EcoVilla Ri Happy",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Jardim Botânico, 1008 - Jardim Botânico",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "AggregateOffer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/escola-do-rock-4245#sessao-171480",
+                "availability": "https://schema.org/InStock",
+                "lowPrice": "45.00",
+                "highPrice": "63.00",
+                "offerCount": 2
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em organizador",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Jardim Botânico, 1008",
+        "verificado_em": "2026-11-03T18:07:25.230437+00:00",
+        "id": "S-4ed22c4469",
+        "codigo_editorial": "A43"
+      },
+      {
+        "nome": "Três Porquinhos Contra o Lobo Mau",
+        "data": "2026-11-29",
+        "hora": "17:30",
+        "fim": "18:30",
+        "local": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+        "preco": "A partir de R$ 30,00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/tres-porquinhos-contra-o-lobo-mau-2496#sessao-171513",
+        "ids_anteriores": [
+          "a29b4e22eec6"
+        ],
+        "id_anterior": "a29b4e22eec6",
+        "fontes": [
+          "Pequenos no Rio",
+          "plataforma"
+        ],
+        "evidencias": [
+          {
+            "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/tres-porquinhos-contra-o-lobo-mau-2496",
+            "snapshot": "8b1b24d0e2c67e7c.html",
+            "sha256": "07a4fc43945334ea99bc00672b32b3321849a57c19d985ea8305fa5ee772bd19",
+            "trecho": {
+              "name": "Três Porquinhos Contra o Lobo Mau",
+              "startDate": "2026-11-29T17:30:00-03:00",
+              "endDate": "2026-11-29T18:30:00-03:00",
+              "location": {
+                "@type": "Place",
+                "name": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Rua Conde de Bonfim , 451 - Tijuca",
+                  "addressLocality": "Rio de Janeiro",
+                  "addressRegion": "RJ",
+                  "addressCountry": "BR"
+                }
+              },
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "BRL",
+                "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/tres-porquinhos-contra-o-lobo-mau-2496#sessao-171513",
+                "availability": "https://schema.org/InStock",
+                "price": "30.00"
+              }
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em plataforma",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Conde de Bonfim , 451 - Tijuca",
+        "verificado_em": "2026-11-03T18:07:24.885089+00:00",
+        "id": "S-60351996da",
+        "codigo_editorial": "A44"
+      },
+      {
+        "nome": "Dia Mundial do Solo (GRATUITO)",
+        "data": "2026-12-05",
+        "hora": "15:00",
+        "fim": "16:00",
+        "local": "EcoVilla Ri Happy",
+        "preco": "Gratuito",
+        "idade": "Livre",
+        "url": "https://ecovillarihappy.com.br/programacao/",
+        "ids_anteriores": [
+          "80936a53fc76"
+        ],
+        "id_anterior": "80936a53fc76",
+        "fontes": [
+          "EcoVilla Ri Happy",
+          "organizador"
+        ],
+        "evidencias": [
+          {
+            "url": "https://ecovillarihappy.com.br/programacao/",
+            "snapshot": "7f1b86c4541780ce.html",
+            "sha256": "76f7f4462227c1d770fab19ff5bddc00fc7d0802ba9b2dcca7b1ddb1ccd72468",
+            "trecho": {
+              "titulo": "Dia Mundial do Solo (GRATUITO)",
+              "data_hora": "05 de dezembro de 2026 | Sábado das 15h às 16h",
+              "idade": "Livre",
+              "gratuito": true
+            }
+          }
+        ],
+        "motivo": "Data, horário e local confirmados em organizador",
+        "status": "prontos_para_aprovacao",
+        "endereco": "Rua Jardim Botânico, 1008",
+        "verificado_em": "2026-11-03T18:07:25.230437+00:00",
+        "id": "S-a97e661887",
+        "codigo_editorial": "A45"
+      }
+    ],
+    "pendentes_de_confirmacao": [
+      {
+        "nome": "Os Brinquedos de Andy",
+        "data": "2026-11-07",
+        "hora": "17:00",
+        "fim": null,
+        "local": "Teatro Brigitte Blair – Copacabana",
+        "preco": null,
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-brinquedos-de-andy-4119",
+        "ids_anteriores": [
+          "97a6a49c18ca"
+        ],
+        "id_anterior": "97a6a49c18ca",
+        "fontes": [
+          "Pequenos no Rio"
+        ],
+        "evidencias": [],
+        "motivo": "Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis",
+        "status": "pendentes_de_confirmacao",
+        "preco_referencia_secundaria": "por R$ 49,90",
+        "id": "S-aec2aaaca8",
+        "codigo_editorial": "P01"
+      },
+      {
+        "nome": "Spidey Amigos Aventureiros",
+        "data": "2026-11-08",
+        "hora": "15:00",
+        "fim": null,
+        "local": "Teatro dos Grandes Atores – Shopping Barra Square – Barra da Tijuca",
+        "preco": null,
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/spidey-amigos-aventureiros-4115",
+        "ids_anteriores": [
+          "848ef3bda4ff"
+        ],
+        "id_anterior": "848ef3bda4ff",
+        "fontes": [
+          "Pequenos no Rio"
+        ],
+        "evidencias": [],
+        "motivo": "Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis",
+        "status": "pendentes_de_confirmacao",
+        "preco_referencia_secundaria": "a partir de R$ 44,90",
+        "id": "S-13921ae123",
+        "codigo_editorial": "P02"
+      },
+      {
+        "nome": "Natal da Frozen",
+        "data": "2026-11-08",
+        "hora": "17:00",
+        "fim": null,
+        "local": "Teatros da Barra – Barra Point Shopping Center – Barra da Tijuca",
+        "preco": null,
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/natal-da-frozen-4246",
+        "ids_anteriores": [
+          "0ccea94436e0"
+        ],
+        "id_anterior": "0ccea94436e0",
+        "fontes": [
+          "Pequenos no Rio"
+        ],
+        "evidencias": [],
+        "motivo": "Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis",
+        "status": "pendentes_de_confirmacao",
+        "preco_referencia_secundaria": "por R$ 40",
+        "id": "S-f033532896",
+        "codigo_editorial": "P03"
+      },
+      {
+        "nome": "Os Brinquedos de Andy",
+        "data": "2026-11-08",
+        "hora": "17:00",
+        "fim": null,
+        "local": "Teatro Brigitte Blair – Copacabana",
+        "preco": null,
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-brinquedos-de-andy-4119",
+        "ids_anteriores": [
+          "0647bf8634e8"
+        ],
+        "id_anterior": "0647bf8634e8",
+        "fontes": [
+          "Pequenos no Rio"
+        ],
+        "evidencias": [],
+        "motivo": "Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis",
+        "status": "pendentes_de_confirmacao",
+        "preco_referencia_secundaria": "por R$ 49,90",
+        "id": "S-720f0e52bc",
+        "codigo_editorial": "P04"
+      },
+      {
+        "nome": "O Natal Encantado – O Resgate da Magia",
+        "data": "2026-11-14",
+        "hora": "15:00",
+        "fim": null,
+        "local": "Teatro dos Quatro – Shopping da Gávea – Gávea",
+        "preco": null,
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-natal-encantado-o-resgate-da-magia-4244",
+        "ids_anteriores": [
+          "0788d58fdee1"
+        ],
+        "id_anterior": "0788d58fdee1",
+        "fontes": [
+          "Pequenos no Rio"
+        ],
+        "evidencias": [],
+        "motivo": "Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis",
+        "status": "pendentes_de_confirmacao",
+        "preco_referencia_secundaria": "a partir de R$ 57,50",
+        "id": "S-31bef7cc98",
+        "codigo_editorial": "P05"
+      },
+      {
+        "nome": "Chapeuzinho Vermelho e a Floresta Encantada",
+        "data": "2026-11-14",
+        "hora": "17:00",
+        "fim": null,
+        "local": "Teatro dos Grandes Atores – Shopping Barra Square – Barra da Tijuca",
+        "preco": null,
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/chapeuzinho-vermelho-e-a-floresta-encantada-3314",
+        "ids_anteriores": [
+          "59d7f940a389"
+        ],
+        "id_anterior": "59d7f940a389",
+        "fontes": [
+          "Pequenos no Rio"
+        ],
+        "evidencias": [],
+        "motivo": "Sessão exata não confirmada na página oficial/plataforma",
+        "status": "pendentes_de_confirmacao",
+        "preco_referencia_secundaria": "a partir de R$ 44,90",
+        "id": "S-c6c6f39daf",
+        "codigo_editorial": "P06"
+      },
+      {
+        "nome": "Elsa e Anna – Uma Aventura Congelante",
+        "data": "2026-11-14",
+        "hora": "17:00",
+        "fim": null,
+        "local": "Teatro Brigitte Blair – Copacabana",
+        "preco": null,
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/elsa-e-anna-uma-aventura-congelante-1253",
+        "ids_anteriores": [
+          "cb79587b7316"
+        ],
+        "id_anterior": "cb79587b7316",
+        "fontes": [
+          "Pequenos no Rio"
+        ],
+        "evidencias": [],
+        "motivo": "Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis",
+        "status": "pendentes_de_confirmacao",
+        "preco_referencia_secundaria": "por R$ 49,90",
+        "id": "S-25a9f3ba62",
+        "codigo_editorial": "P07"
+      },
+      {
+        "nome": "Patrulhinha de Natal",
+        "data": "2026-11-15",
+        "hora": "15:00",
+        "fim": null,
+        "local": "Teatro dos Grandes Atores – Shopping Barra Square – Barra da Tijuca",
+        "preco": null,
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/patrulhinha-de-natal-4248",
+        "ids_anteriores": [
+          "de47c498dd12"
+        ],
+        "id_anterior": "de47c498dd12",
+        "fontes": [
+          "Pequenos no Rio"
+        ],
+        "evidencias": [],
+        "motivo": "Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis",
+        "status": "pendentes_de_confirmacao",
+        "preco_referencia_secundaria": "a partir de R$ 44,90",
+        "id": "S-9bf822c8f4",
+        "codigo_editorial": "P08"
+      },
+      {
+        "nome": "Elsa e Anna – Uma Aventura Congelante",
+        "data": "2026-11-15",
+        "hora": "17:00",
+        "fim": null,
+        "local": "Teatro Brigitte Blair – Copacabana",
+        "preco": null,
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/elsa-e-anna-uma-aventura-congelante-1253",
+        "ids_anteriores": [
+          "b8c96fe43e70"
+        ],
+        "id_anterior": "b8c96fe43e70",
+        "fontes": [
+          "Pequenos no Rio"
+        ],
+        "evidencias": [],
+        "motivo": "Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis",
+        "status": "pendentes_de_confirmacao",
+        "preco_referencia_secundaria": "por R$ 49,90",
+        "id": "S-e4692704d7",
+        "codigo_editorial": "P09"
+      },
+      {
+        "nome": "Natal da Frozen",
+        "data": "2026-11-15",
+        "hora": "17:00",
+        "fim": null,
+        "local": "Teatros da Barra – Barra Point Shopping Center – Barra da Tijuca",
+        "preco": null,
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/natal-da-frozen-4246",
+        "ids_anteriores": [
+          "b1bfce4f63fa"
+        ],
+        "id_anterior": "b1bfce4f63fa",
+        "fontes": [
+          "Pequenos no Rio"
+        ],
+        "evidencias": [],
+        "motivo": "Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis",
+        "status": "pendentes_de_confirmacao",
+        "preco_referencia_secundaria": "por R$ 40",
+        "id": "S-11c077d141",
+        "codigo_editorial": "P10"
+      },
+      {
+        "nome": "João e Maria na Casa de Chocolate",
+        "data": "2026-11-21",
+        "hora": "17:00",
+        "fim": null,
+        "local": "Teatro Brigitte Blair – Copacabana",
+        "preco": null,
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/joao-e-maria-na-casa-de-chocolate-1570",
+        "ids_anteriores": [
+          "d118c5e8267d"
+        ],
+        "id_anterior": "d118c5e8267d",
+        "fontes": [
+          "Pequenos no Rio"
+        ],
+        "evidencias": [],
+        "motivo": "Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis",
+        "status": "pendentes_de_confirmacao",
+        "preco_referencia_secundaria": "por R$ 49,90",
+        "id": "S-1a0b0db96b",
+        "codigo_editorial": "P11"
+      },
+      {
+        "nome": "Natal da Frozen",
+        "data": "2026-11-22",
+        "hora": "15:00",
+        "fim": null,
+        "local": "Teatro dos Grandes Atores – Shopping Barra Square – Barra da Tijuca",
+        "preco": null,
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/natal-da-frozen-4249",
+        "ids_anteriores": [
+          "5c8db0c51dce"
+        ],
+        "id_anterior": "5c8db0c51dce",
+        "fontes": [
+          "Pequenos no Rio"
+        ],
+        "evidencias": [],
+        "motivo": "Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis",
+        "status": "pendentes_de_confirmacao",
+        "preco_referencia_secundaria": "a partir de R$ 44,90",
+        "id": "S-bbc546ea33",
+        "codigo_editorial": "P12"
+      },
+      {
+        "nome": "João e Maria na Casa de Chocolate",
+        "data": "2026-11-22",
+        "hora": "17:00",
+        "fim": null,
+        "local": "Teatro Brigitte Blair – Copacabana",
+        "preco": null,
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/joao-e-maria-na-casa-de-chocolate-1570",
+        "ids_anteriores": [
+          "2330eadefbd6"
+        ],
+        "id_anterior": "2330eadefbd6",
+        "fontes": [
+          "Pequenos no Rio"
+        ],
+        "evidencias": [],
+        "motivo": "Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis",
+        "status": "pendentes_de_confirmacao",
+        "preco_referencia_secundaria": "por R$ 49,90",
+        "id": "S-8a8119e9c6",
+        "codigo_editorial": "P13"
+      },
+      {
+        "nome": "Patrulhinha de Natal",
+        "data": "2026-11-22",
+        "hora": "17:00",
+        "fim": null,
+        "local": "Teatros da Barra – Barra Point Shopping Center – Barra da Tijuca",
+        "preco": null,
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/patrulhinha-de-natal-3738",
+        "ids_anteriores": [
+          "a71c16dcb28f"
+        ],
+        "id_anterior": "a71c16dcb28f",
+        "fontes": [
+          "Pequenos no Rio"
+        ],
+        "evidencias": [],
+        "motivo": "Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis",
+        "status": "pendentes_de_confirmacao",
+        "preco_referencia_secundaria": "por R$ 40",
+        "id": "S-b3992bd278",
+        "codigo_editorial": "P14"
+      },
+      {
+        "nome": "Natal Mágico na Casa da Gabby",
+        "data": "2026-11-28",
+        "hora": null,
+        "fim": null,
+        "local": "Teatro dos Grandes Atores – Shopping Barra Square – Barra da Tijuca",
+        "preco": null,
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/natal-magico-na-casa-da-gabby-4250",
+        "ids_anteriores": [
+          "5eaa893894a2"
+        ],
+        "id_anterior": "5eaa893894a2",
+        "fontes": [
+          "Pequenos no Rio"
+        ],
+        "evidencias": [],
+        "motivo": "Horário ausente na agenda secundária; página acessível sem sessões extraíveis",
+        "status": "pendentes_de_confirmacao",
+        "preco_referencia_secundaria": "a partir de R$ 44,90",
+        "id": "S-ef20c2fd04",
+        "codigo_editorial": "P15"
+      },
+      {
+        "nome": "Cinderela",
+        "data": "2026-11-28",
+        "hora": "17:00",
+        "fim": null,
+        "local": "Teatro dos Grandes Atores – Shopping Barra Square – Barra da Tijuca",
+        "preco": null,
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/cinderela-316",
+        "ids_anteriores": [
+          "f3e5abd14afa"
+        ],
+        "id_anterior": "f3e5abd14afa",
+        "fontes": [
+          "Pequenos no Rio"
+        ],
+        "evidencias": [],
+        "motivo": "Sessão exata não confirmada na página oficial/plataforma",
+        "status": "pendentes_de_confirmacao",
+        "preco_referencia_secundaria": "a partir de R$ 44,90",
+        "id": "S-7b98ee638c",
+        "codigo_editorial": "P16"
+      },
+      {
+        "nome": "João e Maria na Casa de Chocolate",
+        "data": "2026-11-28",
+        "hora": "17:00",
+        "fim": null,
+        "local": "Teatro Brigitte Blair – Copacabana",
+        "preco": null,
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/joao-e-maria-na-casa-de-chocolate-1570",
+        "ids_anteriores": [
+          "443111e89985"
+        ],
+        "id_anterior": "443111e89985",
+        "fontes": [
+          "Pequenos no Rio"
+        ],
+        "evidencias": [],
+        "motivo": "Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis",
+        "status": "pendentes_de_confirmacao",
+        "preco_referencia_secundaria": "por R$ 49,90",
+        "id": "S-6cb036103a",
+        "codigo_editorial": "P17"
+      },
+      {
+        "nome": "Natal da Frozen",
+        "data": "2026-11-29",
+        "hora": "16:00",
+        "fim": null,
+        "local": "Teatro dos Grandes Atores – Shopping Barra Square – Barra da Tijuca",
+        "preco": null,
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/natal-da-frozen-4249",
+        "ids_anteriores": [
+          "3090e4407cb4"
+        ],
+        "id_anterior": "3090e4407cb4",
+        "fontes": [
+          "Pequenos no Rio"
+        ],
+        "evidencias": [],
+        "motivo": "Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis",
+        "status": "pendentes_de_confirmacao",
+        "preco_referencia_secundaria": "a partir de R$ 44,90",
+        "id": "S-e1a848df10",
+        "codigo_editorial": "P18"
+      },
+      {
+        "nome": "João e Maria na Casa de Chocolate",
+        "data": "2026-11-29",
+        "hora": "17:00",
+        "fim": null,
+        "local": "Teatro Brigitte Blair – Copacabana",
+        "preco": null,
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/joao-e-maria-na-casa-de-chocolate-1570",
+        "ids_anteriores": [
+          "366ff2d403d4"
+        ],
+        "id_anterior": "366ff2d403d4",
+        "fontes": [
+          "Pequenos no Rio"
+        ],
+        "evidencias": [],
+        "motivo": "Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis",
+        "status": "pendentes_de_confirmacao",
+        "preco_referencia_secundaria": "por R$ 49,90",
+        "id": "S-d6d8aabdc5",
+        "codigo_editorial": "P19"
+      }
+    ],
+    "descartados": [
+      {
+        "nome": "Aventura Congelante, O Legado Musical (Frozen)",
+        "data": "2026-11-01",
+        "motivo": "expirado",
+        "status": "descartados",
+        "tipo": "expirado_na_primeira_coleta"
+      },
+      {
+        "nome": "Os Três Porquinhos",
+        "data": "2026-11-01",
+        "motivo": "expirado",
+        "status": "descartados",
+        "tipo": "expirado_na_primeira_coleta"
+      },
+      {
+        "nome": "Miska Muska Mickey Mágico",
+        "data": "2026-11-01",
+        "motivo": "expirado",
+        "status": "descartados",
+        "tipo": "expirado_na_primeira_coleta"
+      },
+      {
+        "nome": "Moana, Um Mar de Aventuras",
+        "data": "2026-11-01",
+        "motivo": "expirado",
+        "status": "descartados",
+        "tipo": "expirado_na_primeira_coleta"
+      },
+      {
+        "nome": "Coraline",
+        "data": "2026-11-01",
+        "motivo": "expirado",
+        "status": "descartados",
+        "tipo": "expirado_na_primeira_coleta"
+      },
+      {
+        "nome": "Spidey Amigos Aventureiros",
+        "data": "2026-11-01",
+        "motivo": "expirado",
+        "status": "descartados",
+        "tipo": "expirado_na_primeira_coleta"
+      },
+      {
+        "nome": "Bem Depois dos Contos de Fada",
+        "data": "2026-11-01",
+        "motivo": "expirado",
+        "status": "descartados",
+        "tipo": "expirado_na_primeira_coleta"
+      },
+      {
+        "nome": "Os Sonhos de Tom e Théo",
+        "data": "2026-11-01",
+        "motivo": "expirado",
+        "status": "descartados",
+        "tipo": "expirado_na_primeira_coleta"
+      },
+      {
+        "nome": "Sai da Tela, Micaela",
+        "data": "2026-11-01",
+        "motivo": "expirado",
+        "status": "descartados",
+        "tipo": "expirado_na_primeira_coleta"
+      },
+      {
+        "nome": "O Casamento da Dona Baratinha",
+        "data": "2026-11-01",
+        "motivo": "expirado",
+        "status": "descartados",
+        "tipo": "expirado_na_primeira_coleta"
+      },
+      {
+        "nome": "Thurminha da Patrulhinha",
+        "data": "2026-11-02",
+        "motivo": "expirado",
+        "status": "descartados",
+        "tipo": "expirado_na_primeira_coleta"
+      },
+      {
+        "nome": "Contos de Fadas, Reino da Magia",
+        "data": "2026-11-02",
+        "motivo": "expirado",
+        "status": "descartados",
+        "tipo": "expirado_na_primeira_coleta"
+      },
+      {
+        "nome": "Anima Santa",
+        "data": "2026-11-01",
+        "motivo": "expirado",
+        "status": "descartados",
+        "tipo": "expirado_na_primeira_coleta"
+      },
+      {
+        "nome": "Babilônia Circus",
+        "data": "2026-11-01",
+        "motivo": "expirado",
+        "status": "descartados",
+        "tipo": "expirado_na_primeira_coleta"
+      },
+      {
+        "nome": "Babilônia Circus",
+        "data": "2026-11-02",
+        "motivo": "expirado",
+        "status": "descartados",
+        "tipo": "expirado_na_primeira_coleta"
+      },
+      {
+        "nome": "Raduan Circus Apresenta Disney Magic Show",
+        "data": "2026-11-01",
+        "motivo": "expirado",
+        "status": "descartados",
+        "tipo": "expirado_na_primeira_coleta"
+      },
+      {
+        "id_descartado": "609acc74c449",
+        "id_canonico": "S-4b1a0e2be1",
+        "motivo": "mesmo título, data, hora e local normalizados",
+        "status": "descartados",
+        "tipo": "duplicata_consolidada"
+      }
+    ]
+  }
+}

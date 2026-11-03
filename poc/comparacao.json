@@ -1,0 +1,12 @@
+{
+  "primeira": "2026-11-03T16:31:00.868929+00:00",
+  "segunda": "2026-11-03T16:31:09.577031+00:00",
+  "ids_iguais": true,
+  "novos": [],
+  "ausentes": [],
+  "brutos": 62,
+  "consolidados": 61,
+  "duplicatas_entre_fontes": [
+    "609acc74c449"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "rodadas": 2,
+  "paginas_por_rodada": [
+    28,
+    28
+  ],
+  "conteudo_editorial_igual": true,
+  "ids_novos": [],
+  "duplicatas": [
+    1,
+    1
+  ],
+  "contagens": [
+    {
+      "prontos_para_aprovacao": 45,
+      "pendentes_de_confirmacao": 19,
+      "descartados": 17
+    },
+    {
+      "prontos_para_aprovacao": 45,
+      "pendentes_de_confirmacao": 19,
+      "descartados": 17
+    }
+  ],
+  "publicacao": false
+}
