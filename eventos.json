@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-02T20:27:16.448793+00:00",
+  "atualizado_em": "2026-11-03T02:57:34.990742+00:00",
   "modo": "Base mista: registros de agendas públicas e eventos extraídos de JSON-LD. Confirmar detalhes na fonte.",
   "eventos": [
     {
@@ -462,6 +462,24 @@
       "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
       "fonte_tipo": "Agenda cultural secundária — confirmar com organizador",
       "verificado_em": "2026-10-30T14:00:00-03:00"
+    },
+    {
+      "id": "auto-28f20354fc83f88d67ce",
+      "nome": "Natal Mágico na Casa da Gabby",
+      "data": "2026-11-14",
+      "hora": null,
+      "local": "Teatro Vannucci - Shopping da Gávea",
+      "bairro": "Rio de Janeiro",
+      "regiao": "Zona Sul",
+      "categoria": "Evento",
+      "descricao": "",
+      "preco_min": 49.9,
+      "preco_texto": "A partir de R$ 49.90",
+      "idade_min": null,
+      "idade_max": null,
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/natal-magico-na-casa-da-gabby-4259",
+      "fonte_tipo": "Dados estruturados de página pública",
+      "verificado_em": "2026-11-03T02:55:48.369463+00:00"
     },
     {
       "id": "auto-387ae18ec4908bd16070",
@@ -950,14 +968,6 @@
   ],
   "erros_coleta": [
     {
-      "fonte": "https://ccbb.com.br/rio-de-janeiro/programacao/",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "fonte": "https://www.sescrio.org.br/programacao/educacao/sesc-sao-goncalo-exposicao-interativa-ciencia-divertida/",
-      "erro": "<urlopen error timed out>"
-    },
-    {
       "fonte": "https://www.casadaciencia.ufrj.br/",
       "erro": "Remote end closed connection without response"
     },
@@ -976,22 +986,10 @@
     {
       "fonte": "https://www.bibliotecasparque.rj.gov.br/",
       "erro": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.bibliotecasparque.rj.gov.br'. (_"
-    },
-    {
-      "fonte": "https://www.sescrio.org.br/programacao/",
-      "erro": "<urlopen error timed out>"
-    },
-    {
-      "fonte": "https://www.sescrio.org.br/programacao/",
-      "erro": "<urlopen error timed out>"
-    },
-    {
-      "fonte": "https://www.sescrio.org.br/programacao/",
-      "erro": "<urlopen error timed out>"
     }
   ],
   "novos_encontrados": 0,
-  "fontes_consultadas": 34,
+  "fontes_consultadas": 39,
   "ultima_curadoria_manual": {
     "data": "2026-10-30",
     "novos": 16,
@@ -1009,13 +1007,17 @@
     {
       "fonte": "CCBB Rio",
       "url": "https://ccbb.com.br/rio-de-janeiro/programacao/",
-      "status": "erro",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
       "novos": 0
     },
     {
       "fonte": "Sesc São Gonçalo",
       "url": "https://www.sescrio.org.br/programacao/educacao/sesc-sao-goncalo-exposicao-interativa-ciencia-divertida/",
-      "status": "erro",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
       "novos": 0
     },
     {
@@ -1211,7 +1213,9 @@
     {
       "fonte": "Sesc Tijuca — programação",
       "url": "https://www.sescrio.org.br/programacao/",
-      "status": "erro",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
       "novos": 0
     },
     {
@@ -1241,7 +1245,9 @@
     {
       "fonte": "Sesc Nova Iguaçu",
       "url": "https://www.sescrio.org.br/programacao/",
-      "status": "erro",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
       "novos": 0
     },
     {
@@ -1327,7 +1333,9 @@
     {
       "fonte": "SESC RJ — programação geral",
       "url": "https://www.sescrio.org.br/programacao/",
-      "status": "erro",
+      "status": "sem_eventos_estruturados",
+      "blocos_jsonld": 1,
+      "sessoes_html": 0,
       "novos": 0
     }
   ]
