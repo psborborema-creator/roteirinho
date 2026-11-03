@@ -1,0 +1,103 @@
+# Roteirinho — lote editorial R2-20261103
+
+**45 sessões prontas para aprovação · 19 pendentes · 17 registros descartados. Nenhuma publicação.**
+
+Continuação dos 62 registros anteriores, sem nova pesquisa de eventos. As sessões foram separadas por data, hora e local. Após expansão: 65 sessões; uma duplicidade consolidada resulta em 64 sessões únicas. Descartados: 16 expirados já identificados e uma duplicata — não são 17 atrações canceladas.
+
+Confirmação: 28 páginas dos links já descobertos, consultadas duas vezes em 03/11/2026. Fontes de confirmação: programação oficial da EcoVilla e páginas de sessão do Clubinho de Ofertas. “Pronto” significa data, horário e local sustentados pela fonte oficial/plataforma; campos não divulgados permanecem vazios. Preços são valores mínimos anunciados na coleta, sujeitos a taxas/lotes. Disponibilidade final e inscrição devem ser consultadas no link.
+
+## Prontos para aprovação — A01 a A45
+
+Uma linha por sessão. Todos os horários são de Brasília. Para aprovar em lote, basta responder **“aprovar lote R2-20261103, A01–A45”**, com eventuais exceções. Os códigos abaixo são exclusivos deste lote; a planilha de dados preserva IDs canônicos e anteriores.
+
+| ID | Evento | Data | Horário | Local | Preço anunciado | Idade | Link |
+|---|---|---|---|---|---|---|---|
+| A01 | EcoVilla Ri Happy - 4 anos (Evento gratuito) | 07/11/2026 | 11:00–13:00 | EcoVilla Ri Happy | Gratuito | Livre | [Fonte](https://ecovillarihappy.com.br/programacao/) |
+| A02 | EcoVilla Ri Happy - 4 anos (Evento gratuito) | 07/11/2026 | 13:30–15:30 | EcoVilla Ri Happy | Gratuito | Livre | [Fonte](https://ecovillarihappy.com.br/programacao/) |
+| A03 | Os Sonhos de Tom e Théo | 07/11/2026 | 15:00–16:00 | Teatro Fashion Mall | A partir de R$ 49,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/os-sonhos-de-tom-e-theo-4193#sessao-167598) |
+| A04 | Bem Depois dos Contos de Fada | 07/11/2026 | 16:00–17:00 | Cine Teatro Joia | A partir de R$ 30,00 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/bem-depois-dos-contos-de-fada-4226#sessao-170129) |
+| A05 | Os Três Porquinhos | 07/11/2026 | 16:00–17:00 | Teatro das Artes - Shopping da Gávea | A partir de R$ 49,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115#sessao-171490) |
+| A06 | SAI DA TELA, MICAELA! | 07/11/2026 | 16:00 | EcoVilla Ri Happy | A partir de R$ 40,00 | Livre | [Fonte](https://ecovillarihappy.com.br/programacao/) |
+| A07 | O Halloween das Princesas | 07/11/2026 | 17:30–18:30 | Teatro Henriqueta Brieba - Tijuca Tênis Club | A partir de R$ 30,00 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/o-halloween-das-princesas-3618#sessao-171508) |
+| A08 | A Menina que não Falava | 08/11/2026 | 15:00–16:00 | Teatro Henriqueta Brieba - Tijuca Tênis Club | A partir de R$ 34,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/a-menina-que-nao-falava-4251#sessao-172722) |
+| A09 | Os Sonhos de Tom e Théo | 08/11/2026 | 15:00–16:00 | Teatro Fashion Mall | A partir de R$ 49,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/os-sonhos-de-tom-e-theo-4193#sessao-167599) |
+| A10 | Top 10 da Galinha Pintadinha | 08/11/2026 | 15:00–16:00 | Teatro Clara Nunes - Shopping da Gávea | A partir de R$ 63,16 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/top-10-da-galinha-pintadinha-2906#sessao-170131) |
+| A11 | Os Três Porquinhos | 08/11/2026 | 16:00–17:00 | Teatro das Artes - Shopping da Gávea | A partir de R$ 49,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115#sessao-171491) |
+| A12 | SAI DA TELA, MICAELA! | 08/11/2026 | 16:00 | EcoVilla Ri Happy | A partir de R$ 40,00 | Livre | [Fonte](https://ecovillarihappy.com.br/programacao/) |
+| A13 | Os Saltimbancos | 08/11/2026 | 17:15–18:15 | Palquinho Ipanema | A partir de R$ 34,00 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/os-saltimbancos-611#sessao-167621) |
+| A14 | Sábado Musical, com Papa Vento - O Passarinho Pituca | 14/11/2026 | 09:30–10:30 | EcoVilla Ri Happy | Não divulgado | Livre | [Fonte](https://ecovillarihappy.com.br/programacao/) |
+| A15 | A Menina que não Falava | 14/11/2026 | 15:00–16:00 | Teatro Henriqueta Brieba - Tijuca Tênis Club | A partir de R$ 34,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/a-menina-que-nao-falava-4251#sessao-172725) |
+| A16 | Chapeuzinho Vermelho e a Floresta Encantada | 14/11/2026 | 15:00–16:00 | Teatro dos Grandes Atores - Shopping Barra Square | A partir de R$ 44,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/chapeuzinho-vermelho-e-a-floresta-encantada-3314#sessao-167628) |
+| A17 | Escola do Rock - CEFTEM | 14/11/2026 | 15:00 | EcoVilla Ri Happy | A partir de R$ 45,00 | Livre | [Fonte](https://ecovillarihappy.com.br/programacao/) |
+| A18 | Os Sonhos de Tom e Théo | 14/11/2026 | 15:00–16:00 | Teatro Fashion Mall | A partir de R$ 49,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/os-sonhos-de-tom-e-theo-4193#sessao-167600) |
+| A19 | Os Três Porquinhos | 14/11/2026 | 16:00–17:00 | Teatro das Artes - Shopping da Gávea | A partir de R$ 49,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115#sessao-171492) |
+| A20 | O Halloween das Princesas | 14/11/2026 | 17:30–18:30 | Teatro Henriqueta Brieba - Tijuca Tênis Club | A partir de R$ 30,00 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/o-halloween-das-princesas-3618#sessao-171509) |
+| A21 | A Menina que não Falava | 15/11/2026 | 15:00–16:00 | Teatro Henriqueta Brieba - Tijuca Tênis Club | A partir de R$ 34,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/a-menina-que-nao-falava-4251#sessao-172723) |
+| A22 | Escola do Rock - CEFTEM | 15/11/2026 | 15:00 | EcoVilla Ri Happy | A partir de R$ 45,00 | Livre | [Fonte](https://ecovillarihappy.com.br/programacao/) |
+| A23 | Os Sonhos de Tom e Théo | 15/11/2026 | 15:00–16:00 | Teatro Fashion Mall | A partir de R$ 49,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/os-sonhos-de-tom-e-theo-4193#sessao-167601) |
+| A24 | Os Três Porquinhos | 15/11/2026 | 16:00–17:00 | Teatro das Artes - Shopping da Gávea | A partir de R$ 49,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115#sessao-171493) |
+| A25 | O Halloween das Princesas | 15/11/2026 | 17:30–18:30 | Teatro Henriqueta Brieba - Tijuca Tênis Club | A partir de R$ 30,00 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/o-halloween-das-princesas-3618#sessao-171510) |
+| A26 | Brinquedos em Ação | 20/11/2026 | 16:00–17:00 | Teatro dos Quatro - Shopping da Gávea | A partir de R$ 57,50 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/brinquedos-em-acao-4237#sessao-170844) |
+| A27 | Sábado Musical, com Batuca Jardim - Ritmos da Ancestralidade” | 21/11/2026 | 09:30 | EcoVilla Ri Happy | Não divulgado | Livre | [Fonte](https://ecovillarihappy.com.br/programacao/) |
+| A28 | A Menina que não Falava | 21/11/2026 | 15:00–16:00 | Teatro Henriqueta Brieba - Tijuca Tênis Club | A partir de R$ 34,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/a-menina-que-nao-falava-4251#sessao-172726) |
+| A29 | Brincando com Bento e Totó | 21/11/2026 | 15:00–16:00 | Teatro Clara Nunes - Shopping da Gávea | A partir de R$ 63,16 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/brincando-com-bento-e-toto-2619#sessao-167143) |
+| A30 | Escola do Rock - CEFTEM | 21/11/2026 | 15:00 | EcoVilla Ri Happy | A partir de R$ 45,00 | Livre | [Fonte](https://ecovillarihappy.com.br/programacao/) |
+| A31 | O Brilho do Natal | 21/11/2026 | 16:00–17:00 | Teatros da Barra - Barra Point Shopping Center | A partir de R$ 25,00 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/o-brilho-do-natal-2929#sessao-167991) |
+| A32 | Os Três Porquinhos | 21/11/2026 | 16:00–17:00 | Teatro das Artes - Shopping da Gávea | A partir de R$ 49,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115#sessao-171494) |
+| A33 | O Natal Mágico do Mickey | 21/11/2026 | 17:00–18:00 | Teatro Miguel Falabella - Norte Shopping | A partir de R$ 39,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/o-natal-magico-do-mickey-2530#sessao-171514) |
+| A34 | Três Porquinhos Contra o Lobo Mau | 21/11/2026 | 17:30–18:30 | Teatro Henriqueta Brieba - Tijuca Tênis Club | A partir de R$ 30,00 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/tres-porquinhos-contra-o-lobo-mau-2496#sessao-171511) |
+| A35 | A Menina que não Falava | 22/11/2026 | 15:00–16:00 | Teatro Henriqueta Brieba - Tijuca Tênis Club | A partir de R$ 34,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/a-menina-que-nao-falava-4251#sessao-172724) |
+| A36 | Escola do Rock - CEFTEM | 22/11/2026 | 15:00 | EcoVilla Ri Happy | A partir de R$ 45,00 | Livre | [Fonte](https://ecovillarihappy.com.br/programacao/) |
+| A37 | Os Três Porquinhos | 22/11/2026 | 16:00–17:00 | Teatro das Artes - Shopping da Gávea | A partir de R$ 49,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115#sessao-171495) |
+| A38 | O Natal Mágico do Mickey | 22/11/2026 | 17:00–18:00 | Teatro Miguel Falabella - Norte Shopping | A partir de R$ 39,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/o-natal-magico-do-mickey-2530#sessao-171515) |
+| A39 | Cinderela | 28/11/2026 | 15:00–16:00 | Teatro dos Grandes Atores - Shopping Barra Square | A partir de R$ 44,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/cinderela-316#sessao-167632) |
+| A40 | Escola do Rock - CEFTEM | 28/11/2026 | 15:00 | EcoVilla Ri Happy | A partir de R$ 45,00 | Livre | [Fonte](https://ecovillarihappy.com.br/programacao/) |
+| A41 | Três Porquinhos Contra o Lobo Mau | 28/11/2026 | 17:30–18:30 | Teatro Henriqueta Brieba - Tijuca Tênis Club | A partir de R$ 30,00 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/tres-porquinhos-contra-o-lobo-mau-2496#sessao-171512) |
+| A42 | Bob Zoom e a Magia do Natal | 29/11/2026 | 15:00–16:00 | Teatro Clara Nunes - Shopping da Gávea | A partir de R$ 63,16 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/bob-zoom-e-a-magia-do-natal-2905#sessao-170133) |
+| A43 | Escola do Rock - CEFTEM | 29/11/2026 | 15:00 | EcoVilla Ri Happy | A partir de R$ 45,00 | Livre | [Fonte](https://ecovillarihappy.com.br/programacao/) |
+| A44 | Três Porquinhos Contra o Lobo Mau | 29/11/2026 | 17:30–18:30 | Teatro Henriqueta Brieba - Tijuca Tênis Club | A partir de R$ 30,00 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/tres-porquinhos-contra-o-lobo-mau-2496#sessao-171513) |
+| A45 | Dia Mundial do Solo (GRATUITO) | 05/12/2026 | 15:00–16:00 | EcoVilla Ri Happy | Gratuito | Livre | [Fonte](https://ecovillarihappy.com.br/programacao/) |
+
+## Pendentes de confirmação — não incluídos no lote aprovável
+
+A ausência de uma sessão na página não prova cancelamento. As 19 sessões abaixo continuam pendentes; nenhuma foi promovida com base apenas na agenda secundária. Nas páginas sem sessões extraíveis, o catálogo público foi acessado, mas o HTML/dado estruturado não permitiu comprovar a sessão exata.
+
+| ID | Evento | Data | Horário | Local | Preço anunciado | Idade | Link / impedimento |
+|---|---|---|---|---|---|---|---|
+| P01 | Os Brinquedos de Andy | 07/11/2026 | 17:00 | Teatro Brigitte Blair – Copacabana | Referência secundária: por R$ 49,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/os-brinquedos-de-andy-4119); Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis |
+| P02 | Spidey Amigos Aventureiros | 08/11/2026 | 15:00 | Teatro dos Grandes Atores – Shopping Barra Square – Barra da Tijuca | Referência secundária: a partir de R$ 44,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/spidey-amigos-aventureiros-4115); Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis |
+| P03 | Natal da Frozen | 08/11/2026 | 17:00 | Teatros da Barra – Barra Point Shopping Center – Barra da Tijuca | Referência secundária: por R$ 40 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/natal-da-frozen-4246); Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis |
+| P04 | Os Brinquedos de Andy | 08/11/2026 | 17:00 | Teatro Brigitte Blair – Copacabana | Referência secundária: por R$ 49,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/os-brinquedos-de-andy-4119); Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis |
+| P05 | O Natal Encantado – O Resgate da Magia | 14/11/2026 | 15:00 | Teatro dos Quatro – Shopping da Gávea – Gávea | Referência secundária: a partir de R$ 57,50 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/o-natal-encantado-o-resgate-da-magia-4244); Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis |
+| P06 | Chapeuzinho Vermelho e a Floresta Encantada | 14/11/2026 | 17:00 | Teatro dos Grandes Atores – Shopping Barra Square – Barra da Tijuca | Referência secundária: a partir de R$ 44,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/chapeuzinho-vermelho-e-a-floresta-encantada-3314); Sessão exata não confirmada na página oficial/plataforma |
+| P07 | Elsa e Anna – Uma Aventura Congelante | 14/11/2026 | 17:00 | Teatro Brigitte Blair – Copacabana | Referência secundária: por R$ 49,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/elsa-e-anna-uma-aventura-congelante-1253); Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis |
+| P08 | Patrulhinha de Natal | 15/11/2026 | 15:00 | Teatro dos Grandes Atores – Shopping Barra Square – Barra da Tijuca | Referência secundária: a partir de R$ 44,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/patrulhinha-de-natal-4248); Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis |
+| P09 | Elsa e Anna – Uma Aventura Congelante | 15/11/2026 | 17:00 | Teatro Brigitte Blair – Copacabana | Referência secundária: por R$ 49,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/elsa-e-anna-uma-aventura-congelante-1253); Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis |
+| P10 | Natal da Frozen | 15/11/2026 | 17:00 | Teatros da Barra – Barra Point Shopping Center – Barra da Tijuca | Referência secundária: por R$ 40 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/natal-da-frozen-4246); Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis |
+| P11 | João e Maria na Casa de Chocolate | 21/11/2026 | 17:00 | Teatro Brigitte Blair – Copacabana | Referência secundária: por R$ 49,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/joao-e-maria-na-casa-de-chocolate-1570); Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis |
+| P12 | Natal da Frozen | 22/11/2026 | 15:00 | Teatro dos Grandes Atores – Shopping Barra Square – Barra da Tijuca | Referência secundária: a partir de R$ 44,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/natal-da-frozen-4249); Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis |
+| P13 | João e Maria na Casa de Chocolate | 22/11/2026 | 17:00 | Teatro Brigitte Blair – Copacabana | Referência secundária: por R$ 49,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/joao-e-maria-na-casa-de-chocolate-1570); Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis |
+| P14 | Patrulhinha de Natal | 22/11/2026 | 17:00 | Teatros da Barra – Barra Point Shopping Center – Barra da Tijuca | Referência secundária: por R$ 40 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/patrulhinha-de-natal-3738); Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis |
+| P15 | Natal Mágico na Casa da Gabby | 28/11/2026 | Não confirmado | Teatro dos Grandes Atores – Shopping Barra Square – Barra da Tijuca | Referência secundária: a partir de R$ 44,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/natal-magico-na-casa-da-gabby-4250); Horário ausente na agenda secundária; página acessível sem sessões extraíveis |
+| P16 | Cinderela | 28/11/2026 | 17:00 | Teatro dos Grandes Atores – Shopping Barra Square – Barra da Tijuca | Referência secundária: a partir de R$ 44,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/cinderela-316); Sessão exata não confirmada na página oficial/plataforma |
+| P17 | João e Maria na Casa de Chocolate | 28/11/2026 | 17:00 | Teatro Brigitte Blair – Copacabana | Referência secundária: por R$ 49,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/joao-e-maria-na-casa-de-chocolate-1570); Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis |
+| P18 | Natal da Frozen | 29/11/2026 | 16:00 | Teatro dos Grandes Atores – Shopping Barra Square – Barra da Tijuca | Referência secundária: a partir de R$ 44,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/natal-da-frozen-4249); Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis |
+| P19 | João e Maria na Casa de Chocolate | 29/11/2026 | 17:00 | Teatro Brigitte Blair – Copacabana | Referência secundária: por R$ 49,90 | Não informada | [Fonte](https://clubinhodeofertas.com.br/rio-de-janeiro/joao-e-maria-na-casa-de-chocolate-1570); Sessão exata não confirmada na página oficial/plataforma; página acessível sem sessões extraíveis |
+
+## Correções e evidências
+
+- **Brinquedos em Ação, 20/11 às 16h:** os IDs antigos `0af2541ca12a` e `609acc74c449` foram consolidados em uma sessão. Ambos continuam no histórico.
+- **Escola do Rock, seis datas de novembro:** horário corrigido de 19h30 para **15h**, conforme plataforma e organizador; horários de dezembro não foram importados.
+- **EcoVilla 4 anos, 07/11:** turnos individuais **11h–13h** e **13h30–15h30**; a agenda oficial oferece link de inscrição. Gratuidade não garante vaga.
+- **Chapeuzinho e Cinderela:** 15h e 17h viraram sessões distintas. Somente as sessões das 15h foram confirmadas; 17h permanece pendente.
+- **Natal da Frozen:** mantidos os locais distintos. Na Barra Square, a referência de 22/11 às 15h não foi aplicada a 29/11, cuja referência é 16h. Ambas aguardam confirmação.
+- **Natal Mágico na Casa da Gabby:** o extrator anterior capturou texto de venda como horário. Agora o horário é nulo e o candidato permanece pendente.
+- Não foram inventadas classificações indicativas. Regras de meia-entrada ou gratuidade infantil não foram tratadas como faixa etária.
+
+**Repetibilidade:** duas rodadas de 28 páginas, todas com HTTP 200; conteúdo editorial igual nos dois resultados, sem IDs novos. Os hashes dos documentos podem mudar por elementos dinâmicos. Seis testes passaram: IDs diferentes para a mesma sessão, preservação de locais/horas distintos, hora específica por data, turnos e múltiplas sessões, ausência de horário e idempotência.
+
+**Reconciliação:** 62 registros anteriores + 3 sessões adicionais por desdobramento − 1 duplicata = 64 sessões únicas = 45 prontas + 19 pendentes. Os 16 expirados já estavam fora dos 62 e ficam no histórico de descartados.
+
+**Limite operacional:** repetição manual pelo executor foi comprovada; agendamento recorrente ainda não foi implantado ou validado. O código não escreve em eventos.json. Publicação continua condicionada à aprovação editorial explícita.
+
+Os arquivos lote-editorial.json, comparacao-etapa2.json e as duas pastas de rodada contêm dados, fontes, horários de consulta, hashes e extratos de evidência. Os candidatos pendentes têm IDs individuais e justificativa. Os descartados permanecem no JSON para auditoria.
