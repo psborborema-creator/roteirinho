@@ -1,0 +1,1 @@
+Validação da etapa 3: segunda coleta com o mesmo adaptador para comprovar restauração da fila persistida e ausência de duplicação. Nenhuma autorização de publicação.
