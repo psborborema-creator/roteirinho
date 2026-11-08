@@ -1,0 +1,656 @@
+{
+  "executado_em": "2026-11-08T17:58:52.074727+00:00",
+  "github_run_id": "42507620749",
+  "fontes": [
+    {
+      "fonte": "clubinho",
+      "url": "https://clubinhodeofertas.com.br/rio-de-janeiro",
+      "paginas": [
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro",
+          "http": 200,
+          "sha256": "c4b6b7794cd2d616eb1ad77a59bcdc7d608fb919bbb34b56d7e7d5d45df6a7c3",
+          "verificado_em": "2026-11-08T17:58:52.674114+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/top-10-da-galinha-pintadinha-2906",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/top-10-da-galinha-pintadinha-2906",
+          "http": 200,
+          "sha256": "96d693eb74cb2a528217ac4dd43e4c1c8ca473ee829d4262a8cba9914e6a50a5",
+          "verificado_em": "2026-11-08T17:58:54.316924+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115",
+          "http": 200,
+          "sha256": "7c1a541a1a691ab1f6532d8c38261cecd1b2b433658c861cbae40317b50026a8",
+          "verificado_em": "2026-11-08T17:58:55.543111+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-sonhos-de-tom-e-theo-4193",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-sonhos-de-tom-e-theo-4193",
+          "http": 200,
+          "sha256": "5f09d29e2b44adad78a03367d36eb41dbd3f8dfb5e906793955f85823566a3e4",
+          "verificado_em": "2026-11-08T17:58:56.786070+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/matilda-4009",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/matilda-4009",
+          "http": 200,
+          "sha256": "c600358b5d7e92f1ea03edf9cbdf6c2a749bae50dc712036d54678f78848a046",
+          "verificado_em": "2026-11-08T17:58:57.740273+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-brinquedos-de-andy-4119",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-brinquedos-de-andy-4119",
+          "http": 200,
+          "sha256": "97179165c01524afc4e96568d1bc1dc4149dc0da4115a5f90ea486fcdefa151a",
+          "verificado_em": "2026-11-08T17:58:59.331203+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/natal-da-frozen-4246",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/natal-da-frozen-4246",
+          "http": 200,
+          "sha256": "7a620eb92a1fa8edcc122301fb1f3030f6a9ebb15c5dba71eeb46c2f6ec26289",
+          "verificado_em": "2026-11-08T17:59:00.210682+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/sai-da-tela-micaela-4228",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/sai-da-tela-micaela-4228",
+          "http": 200,
+          "sha256": "bf17b0735c083a40b3eb0c17a039f4c990e1e9ad9d2f95206c918ff414722fc1",
+          "verificado_em": "2026-11-08T17:59:01.500105+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-saltimbancos-611",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-saltimbancos-611",
+          "http": 200,
+          "sha256": "953ee6e61b95fd918a41bb0897bbf0e70f8f8e1c5284a11cdc656c7c5b6391f9",
+          "verificado_em": "2026-11-08T17:59:02.347612+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-natal-encantado-o-resgate-da-magia-4244",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-natal-encantado-o-resgate-da-magia-4244",
+          "http": 200,
+          "sha256": "45ea21863a9f828ddcdb235cc84b8bc0b975b562af664407e1c1c458e360183d",
+          "verificado_em": "2026-11-08T17:59:03.626167+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/natal-magico-na-casa-da-gabby-4259",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/natal-magico-na-casa-da-gabby-4259",
+          "http": 200,
+          "sha256": "fc343add7e737b6c9a934efd715fedbd8f1bb267ba410dc047c382d5fdbe936b",
+          "verificado_em": "2026-11-08T17:59:04.014397+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/um-natal-congelante-o-musical-ao-vivo-3683",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/um-natal-congelante-o-musical-ao-vivo-3683",
+          "http": 200,
+          "sha256": "c5ee4e01412cd613c98932eed24e1eeb80ae785456bb26052b7cc98621d87ca8",
+          "verificado_em": "2026-11-08T17:59:04.434302+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/natal-dos-gatinhos-4257",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/natal-dos-gatinhos-4257",
+          "http": 200,
+          "sha256": "855eb38f42ebd628649f3b92b454d0a87695ffa1b7c67ef2e84308a31bd1cd1d",
+          "verificado_em": "2026-11-08T17:59:05.786527+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/brincando-com-bento-e-toto-2619",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/brincando-com-bento-e-toto-2619",
+          "http": 200,
+          "sha256": "db4c173892860c6783c973d6644d6f0e3c047eba75937f8125f052ec144a0a43",
+          "verificado_em": "2026-11-08T17:59:07.348929+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/auto-de-natal-para-crianca-o-musical-2507",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/auto-de-natal-para-crianca-o-musical-2507",
+          "http": 200,
+          "sha256": "eacaa9ef3b399c672c976e212272e86f04b3faab4b6dc80d49ac60be8f510ecd",
+          "verificado_em": "2026-11-08T17:59:08.918216+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/bob-zoom-e-a-magia-do-natal-2905",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/bob-zoom-e-a-magia-do-natal-2905",
+          "http": 200,
+          "sha256": "7a5efbcd46ba52a788f3766311ba5abed8a14cc1df5d04096d20c85d965f87b8",
+          "verificado_em": "2026-11-08T17:59:10.573836+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-grinch-uma-historia-de-natal-3010",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-grinch-uma-historia-de-natal-3010",
+          "http": 200,
+          "sha256": "2b77c1776e417c4613635d4d8c83c1388d131572e5d58cfcc7576e9fb896c3c5",
+          "verificado_em": "2026-11-08T17:59:10.987913+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-natal-magico-do-mickey-2530",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-natal-magico-do-mickey-2530",
+          "http": 200,
+          "sha256": "694207a2b4e63b5af4423412b4b8197cf47316fb93223455603a5aea16f7e67a",
+          "verificado_em": "2026-11-08T17:59:12.580829+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/as-aventuras-de-quitapena-3070",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/as-aventuras-de-quitapena-3070",
+          "http": 200,
+          "sha256": "82fcda7f0b88f48cc65cff0c2124bbee324eab5994380bde5105f10eda712fb3",
+          "verificado_em": "2026-11-08T17:59:12.900651+00:00"
+        }
+      ],
+      "tentativas": [
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro",
+          "http": 200,
+          "sha256": "c4b6b7794cd2d616eb1ad77a59bcdc7d608fb919bbb34b56d7e7d5d45df6a7c3",
+          "verificado_em": "2026-11-08T17:58:52.674114+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/top-10-da-galinha-pintadinha-2906",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/top-10-da-galinha-pintadinha-2906",
+          "http": 200,
+          "sha256": "96d693eb74cb2a528217ac4dd43e4c1c8ca473ee829d4262a8cba9914e6a50a5",
+          "verificado_em": "2026-11-08T17:58:54.316924+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115",
+          "http": 200,
+          "sha256": "7c1a541a1a691ab1f6532d8c38261cecd1b2b433658c861cbae40317b50026a8",
+          "verificado_em": "2026-11-08T17:58:55.543111+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-sonhos-de-tom-e-theo-4193",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-sonhos-de-tom-e-theo-4193",
+          "http": 200,
+          "sha256": "5f09d29e2b44adad78a03367d36eb41dbd3f8dfb5e906793955f85823566a3e4",
+          "verificado_em": "2026-11-08T17:58:56.786070+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/matilda-4009",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/matilda-4009",
+          "http": 200,
+          "sha256": "c600358b5d7e92f1ea03edf9cbdf6c2a749bae50dc712036d54678f78848a046",
+          "verificado_em": "2026-11-08T17:58:57.740273+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-brinquedos-de-andy-4119",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-brinquedos-de-andy-4119",
+          "http": 200,
+          "sha256": "97179165c01524afc4e96568d1bc1dc4149dc0da4115a5f90ea486fcdefa151a",
+          "verificado_em": "2026-11-08T17:58:59.331203+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/natal-da-frozen-4246",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/natal-da-frozen-4246",
+          "http": 200,
+          "sha256": "7a620eb92a1fa8edcc122301fb1f3030f6a9ebb15c5dba71eeb46c2f6ec26289",
+          "verificado_em": "2026-11-08T17:59:00.210682+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/sai-da-tela-micaela-4228",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/sai-da-tela-micaela-4228",
+          "http": 200,
+          "sha256": "bf17b0735c083a40b3eb0c17a039f4c990e1e9ad9d2f95206c918ff414722fc1",
+          "verificado_em": "2026-11-08T17:59:01.500105+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-saltimbancos-611",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-saltimbancos-611",
+          "http": 200,
+          "sha256": "953ee6e61b95fd918a41bb0897bbf0e70f8f8e1c5284a11cdc656c7c5b6391f9",
+          "verificado_em": "2026-11-08T17:59:02.347612+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-natal-encantado-o-resgate-da-magia-4244",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-natal-encantado-o-resgate-da-magia-4244",
+          "http": 200,
+          "sha256": "45ea21863a9f828ddcdb235cc84b8bc0b975b562af664407e1c1c458e360183d",
+          "verificado_em": "2026-11-08T17:59:03.626167+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/natal-magico-na-casa-da-gabby-4259",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/natal-magico-na-casa-da-gabby-4259",
+          "http": 200,
+          "sha256": "fc343add7e737b6c9a934efd715fedbd8f1bb267ba410dc047c382d5fdbe936b",
+          "verificado_em": "2026-11-08T17:59:04.014397+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/um-natal-congelante-o-musical-ao-vivo-3683",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/um-natal-congelante-o-musical-ao-vivo-3683",
+          "http": 200,
+          "sha256": "c5ee4e01412cd613c98932eed24e1eeb80ae785456bb26052b7cc98621d87ca8",
+          "verificado_em": "2026-11-08T17:59:04.434302+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/natal-dos-gatinhos-4257",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/natal-dos-gatinhos-4257",
+          "http": 200,
+          "sha256": "855eb38f42ebd628649f3b92b454d0a87695ffa1b7c67ef2e84308a31bd1cd1d",
+          "verificado_em": "2026-11-08T17:59:05.786527+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/brincando-com-bento-e-toto-2619",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/brincando-com-bento-e-toto-2619",
+          "http": 200,
+          "sha256": "db4c173892860c6783c973d6644d6f0e3c047eba75937f8125f052ec144a0a43",
+          "verificado_em": "2026-11-08T17:59:07.348929+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/auto-de-natal-para-crianca-o-musical-2507",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/auto-de-natal-para-crianca-o-musical-2507",
+          "http": 200,
+          "sha256": "eacaa9ef3b399c672c976e212272e86f04b3faab4b6dc80d49ac60be8f510ecd",
+          "verificado_em": "2026-11-08T17:59:08.918216+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/bob-zoom-e-a-magia-do-natal-2905",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/bob-zoom-e-a-magia-do-natal-2905",
+          "http": 200,
+          "sha256": "7a5efbcd46ba52a788f3766311ba5abed8a14cc1df5d04096d20c85d965f87b8",
+          "verificado_em": "2026-11-08T17:59:10.573836+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-grinch-uma-historia-de-natal-3010",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-grinch-uma-historia-de-natal-3010",
+          "http": 200,
+          "sha256": "2b77c1776e417c4613635d4d8c83c1388d131572e5d58cfcc7576e9fb896c3c5",
+          "verificado_em": "2026-11-08T17:59:10.987913+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-natal-magico-do-mickey-2530",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-natal-magico-do-mickey-2530",
+          "http": 200,
+          "sha256": "694207a2b4e63b5af4423412b4b8197cf47316fb93223455603a5aea16f7e67a",
+          "verificado_em": "2026-11-08T17:59:12.580829+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/as-aventuras-de-quitapena-3070",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/as-aventuras-de-quitapena-3070",
+          "http": 200,
+          "sha256": "82fcda7f0b88f48cc65cff0c2124bbee324eab5994380bde5105f10eda712fb3",
+          "verificado_em": "2026-11-08T17:59:12.900651+00:00"
+        }
+      ],
+      "erros": [],
+      "extraidos": 80,
+      "status": "ok"
+    },
+    {
+      "fonte": "pequenos",
+      "url": "https://pequenosnorio.com.br/",
+      "paginas": [
+        {
+          "url": "https://pequenosnorio.com.br/",
+          "url_final": "https://pequenosnorio.com.br/",
+          "http": 200,
+          "sha256": "03fb234c86b145542e6da69db42a299b0f533128d574c4ac74097cb070de60c6",
+          "verificado_em": "2026-11-08T17:58:53.924195+00:00"
+        },
+        {
+          "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
+          "url_final": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
+          "http": 200,
+          "sha256": "9fa45d6b16e35f3f45280295638d67824e3fa69c7315e95318a8acd7de538101",
+          "verificado_em": "2026-11-08T17:58:56.262565+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/aventura-congelante-o-legado-musical-4240",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/aventura-congelante-o-legado-musical-4240",
+          "http": 200,
+          "sha256": "7f28542c0dc4536ce7c71de9da79980a300513c140bb90a7d173ae50cbc41b63",
+          "verificado_em": "2026-11-08T17:58:56.467837+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115",
+          "http": 200,
+          "sha256": "478bbac146c08227f8081be9bed7b03b58e229f177579f46aa9616d415f6d984",
+          "verificado_em": "2026-11-08T17:58:57.709367+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/miska-muska-2225",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/miska-muska-2225",
+          "http": 200,
+          "sha256": "9d45d42d6be1ce717fcc3fd2a63b3ac6ba001da8010aa22d0fb8feae8de5bac0",
+          "verificado_em": "2026-11-08T17:58:57.958119+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/moana-um-mar-de-aventuras-3563",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/moana-um-mar-de-aventuras-3563",
+          "http": 200,
+          "sha256": "3382385287fe249627f272b6a9edc87d261591227be3cb8007670260fc1a0f40",
+          "verificado_em": "2026-11-08T17:58:58.186469+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/coraline-2393",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/coraline-2393",
+          "http": 200,
+          "sha256": "d58c85187587c074179cd611ca06c4c2d61ffebcee43b6f237a87c484922621c",
+          "verificado_em": "2026-11-08T17:58:58.405348+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/spidey-amigos-aventureiros-4021",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/spidey-amigos-aventureiros-4021",
+          "http": 200,
+          "sha256": "266dc4df40128b34979a7d15db4ad3525666d4ecb828b55e881f34896ddf0a02",
+          "verificado_em": "2026-11-08T17:58:58.644234+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/confissoes-de-adolescentes-o-musical-4211",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/confissoes-de-adolescentes-o-musical-4211",
+          "http": 200,
+          "sha256": "9b569bbf119f55a02e742db88bdfacc2134e6982eb85b950ba9e6b19ed3fd86a",
+          "verificado_em": "2026-11-08T17:59:00.364746+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/bem-depois-dos-contos-de-fada-3071",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/bem-depois-dos-contos-de-fada-3071",
+          "http": 200,
+          "sha256": "53fc51ce58f6ddde56f497153e4688b26ca9d7f0febc43d23a9eebbf66d60a04",
+          "verificado_em": "2026-11-08T17:59:00.569828+00:00"
+        },
+        {
+          "url": "https://pequenosnorio.com.br/programacao-infantil-no-rio-feriado-2-de-novembro-2026-feriado-de-finados/",
+          "url_final": "https://pequenosnorio.com.br/programacao-infantil-no-rio-feriado-2-de-novembro-2026-feriado-de-finados/",
+          "http": 200,
+          "sha256": "7be7d26280f6988e3701d9077520481bc9680aa4cc0281972a5ae703ba346c74",
+          "verificado_em": "2026-11-08T17:59:02.882295+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/thurminha-da-patrulhinha-3926",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/thurminha-da-patrulhinha-3926",
+          "http": 200,
+          "sha256": "80525cbec1e4660ee599f992a4a5ad58272e9808bb45fd6b0fdba421eca7f401",
+          "verificado_em": "2026-11-08T17:59:03.136309+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/contos-de-fadas-reino-da-magia-4234",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/contos-de-fadas-reino-da-magia-4234",
+          "http": 200,
+          "sha256": "d576964425445451473128cbc11eaea5affaaf1017546f828c1fec0055c47d61",
+          "verificado_em": "2026-11-08T17:59:03.354151+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/babilonia-circus-4227",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/babilonia-circus-4227",
+          "http": 200,
+          "sha256": "eadbfd65cc2b111884ddfc451d14a2c6c54b59c8ebc833ac2f19242a314bfba6",
+          "verificado_em": "2026-11-08T17:59:04.378152+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/big-brother-cirkus-apresenta-disney-magic-show-3144",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/big-brother-cirkus-apresenta-disney-magic-show-3144",
+          "http": 200,
+          "sha256": "a38a70012ee6f43ee44ff695e262a68c9818cec76f498adb54970db8fc8d7726",
+          "verificado_em": "2026-11-08T17:59:04.741202+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/terra-dos-dinos-3970",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/terra-dos-dinos-3970",
+          "http": 200,
+          "sha256": "004cc36c2134063fc1d7ececf1ff6bd1de2ce74bd855c98707dcb8c60de4535b",
+          "verificado_em": "2026-11-08T17:59:06.179528+00:00"
+        }
+      ],
+      "tentativas": [
+        {
+          "url": "https://pequenosnorio.com.br/",
+          "url_final": "https://pequenosnorio.com.br/",
+          "http": 200,
+          "sha256": "03fb234c86b145542e6da69db42a299b0f533128d574c4ac74097cb070de60c6",
+          "verificado_em": "2026-11-08T17:58:53.924195+00:00"
+        },
+        {
+          "url": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
+          "url_final": "https://pequenosnorio.com.br/programacao-infantil-de-novembro-de-2026-no-rio-de-janeiro/",
+          "http": 200,
+          "sha256": "9fa45d6b16e35f3f45280295638d67824e3fa69c7315e95318a8acd7de538101",
+          "verificado_em": "2026-11-08T17:58:56.262565+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/aventura-congelante-o-legado-musical-4240",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/aventura-congelante-o-legado-musical-4240",
+          "http": 200,
+          "sha256": "7f28542c0dc4536ce7c71de9da79980a300513c140bb90a7d173ae50cbc41b63",
+          "verificado_em": "2026-11-08T17:58:56.467837+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115",
+          "http": 200,
+          "sha256": "478bbac146c08227f8081be9bed7b03b58e229f177579f46aa9616d415f6d984",
+          "verificado_em": "2026-11-08T17:58:57.709367+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/miska-muska-2225",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/miska-muska-2225",
+          "http": 200,
+          "sha256": "9d45d42d6be1ce717fcc3fd2a63b3ac6ba001da8010aa22d0fb8feae8de5bac0",
+          "verificado_em": "2026-11-08T17:58:57.958119+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/moana-um-mar-de-aventuras-3563",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/moana-um-mar-de-aventuras-3563",
+          "http": 200,
+          "sha256": "3382385287fe249627f272b6a9edc87d261591227be3cb8007670260fc1a0f40",
+          "verificado_em": "2026-11-08T17:58:58.186469+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/coraline-2393",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/coraline-2393",
+          "http": 200,
+          "sha256": "d58c85187587c074179cd611ca06c4c2d61ffebcee43b6f237a87c484922621c",
+          "verificado_em": "2026-11-08T17:58:58.405348+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/spidey-amigos-aventureiros-4021",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/spidey-amigos-aventureiros-4021",
+          "http": 200,
+          "sha256": "266dc4df40128b34979a7d15db4ad3525666d4ecb828b55e881f34896ddf0a02",
+          "verificado_em": "2026-11-08T17:58:58.644234+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/confissoes-de-adolescentes-o-musical-4211",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/confissoes-de-adolescentes-o-musical-4211",
+          "http": 200,
+          "sha256": "9b569bbf119f55a02e742db88bdfacc2134e6982eb85b950ba9e6b19ed3fd86a",
+          "verificado_em": "2026-11-08T17:59:00.364746+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/bem-depois-dos-contos-de-fada-3071",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/bem-depois-dos-contos-de-fada-3071",
+          "http": 200,
+          "sha256": "53fc51ce58f6ddde56f497153e4688b26ca9d7f0febc43d23a9eebbf66d60a04",
+          "verificado_em": "2026-11-08T17:59:00.569828+00:00"
+        },
+        {
+          "url": "https://pequenosnorio.com.br/programacao-infantil-no-rio-feriado-2-de-novembro-2026-feriado-de-finados/",
+          "url_final": "https://pequenosnorio.com.br/programacao-infantil-no-rio-feriado-2-de-novembro-2026-feriado-de-finados/",
+          "http": 200,
+          "sha256": "7be7d26280f6988e3701d9077520481bc9680aa4cc0281972a5ae703ba346c74",
+          "verificado_em": "2026-11-08T17:59:02.882295+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/thurminha-da-patrulhinha-3926",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/thurminha-da-patrulhinha-3926",
+          "http": 200,
+          "sha256": "80525cbec1e4660ee599f992a4a5ad58272e9808bb45fd6b0fdba421eca7f401",
+          "verificado_em": "2026-11-08T17:59:03.136309+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/contos-de-fadas-reino-da-magia-4234",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/contos-de-fadas-reino-da-magia-4234",
+          "http": 200,
+          "sha256": "d576964425445451473128cbc11eaea5affaaf1017546f828c1fec0055c47d61",
+          "verificado_em": "2026-11-08T17:59:03.354151+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/babilonia-circus-4227",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/babilonia-circus-4227",
+          "http": 200,
+          "sha256": "eadbfd65cc2b111884ddfc451d14a2c6c54b59c8ebc833ac2f19242a314bfba6",
+          "verificado_em": "2026-11-08T17:59:04.378152+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/big-brother-cirkus-apresenta-disney-magic-show-3144",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/big-brother-cirkus-apresenta-disney-magic-show-3144",
+          "http": 200,
+          "sha256": "a38a70012ee6f43ee44ff695e262a68c9818cec76f498adb54970db8fc8d7726",
+          "verificado_em": "2026-11-08T17:59:04.741202+00:00"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/terra-dos-dinos-3970",
+          "url_final": "https://clubinhodeofertas.com.br/rio-de-janeiro/terra-dos-dinos-3970",
+          "http": 200,
+          "sha256": "004cc36c2134063fc1d7ececf1ff6bd1de2ce74bd855c98707dcb8c60de4535b",
+          "verificado_em": "2026-11-08T17:59:06.179528+00:00"
+        }
+      ],
+      "erros": [
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/kinoplex-brasil-3694",
+          "erro": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/uci-cinemas-brasil-3692",
+          "erro": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/cinemark-brasil-3695",
+          "erro": "HTTP Error 404: Not Found"
+        }
+      ],
+      "extraidos": 5,
+      "status": "parcial"
+    },
+    {
+      "fonte": "eco",
+      "url": "https://ecovillarihappy.com.br/programacao/",
+      "paginas": [
+        {
+          "url": "https://ecovillarihappy.com.br/programacao/",
+          "url_final": "https://ecovillarihappy.com.br/programacao/",
+          "http": 200,
+          "sha256": "7cc8bff6dae027d89d917141d509f1d88d2f70e245917d2ce991f652aeef98b5",
+          "verificado_em": "2026-11-08T17:58:53.108238+00:00"
+        }
+      ],
+      "tentativas": [
+        {
+          "url": "https://ecovillarihappy.com.br/programacao/",
+          "url_final": "https://ecovillarihappy.com.br/programacao/",
+          "http": 200,
+          "sha256": "7cc8bff6dae027d89d917141d509f1d88d2f70e245917d2ce991f652aeef98b5",
+          "verificado_em": "2026-11-08T17:58:53.108238+00:00"
+        }
+      ],
+      "erros": [],
+      "extraidos": 4,
+      "status": "ok"
+    },
+    {
+      "fonte": "ccbb",
+      "url": "https://ccbb.com.br/rio-de-janeiro/ccbb-educativo/",
+      "paginas": [
+        {
+          "url": "https://ccbb.com.br/rio-de-janeiro/ccbb-educativo/",
+          "url_final": "https://ccbb.com.br/rio-de-janeiro/ccbb-educativo/",
+          "http": 200,
+          "sha256": "828afb6da7cacc8b6b41e21a08cf8427c2078b05ae44e41260d8f7be2d54a3e8",
+          "verificado_em": "2026-11-08T17:58:56.270056+00:00"
+        },
+        {
+          "url": "https://ccbb.com.br/rio-de-janeiro/programacao/",
+          "url_final": "https://ccbb.com.br/rio-de-janeiro/programacao/",
+          "http": 200,
+          "sha256": "437a94a031f8f054a95c6d0fd5cced1c4c85d7a4433fcbbe36d60d5fb024fed4",
+          "verificado_em": "2026-11-08T17:58:59.386182+00:00"
+        }
+      ],
+      "tentativas": [
+        {
+          "url": "https://ccbb.com.br/rio-de-janeiro/ccbb-educativo/",
+          "url_final": "https://ccbb.com.br/rio-de-janeiro/ccbb-educativo/",
+          "http": 200,
+          "sha256": "828afb6da7cacc8b6b41e21a08cf8427c2078b05ae44e41260d8f7be2d54a3e8",
+          "verificado_em": "2026-11-08T17:58:56.270056+00:00"
+        },
+        {
+          "url": "https://ccbb.com.br/rio-de-janeiro/programacao/",
+          "url_final": "https://ccbb.com.br/rio-de-janeiro/programacao/",
+          "http": 200,
+          "sha256": "437a94a031f8f054a95c6d0fd5cced1c4c85d7a4433fcbbe36d60d5fb024fed4",
+          "verificado_em": "2026-11-08T17:58:59.386182+00:00"
+        }
+      ],
+      "erros": [],
+      "extraidos": 4,
+      "status": "ok"
+    },
+    {
+      "fonte": "amanha",
+      "url": "https://museudoamanha.org.br/pt/programacao",
+      "paginas": [],
+      "tentativas": [
+        {
+          "url": "https://museudoamanha.org.br/pt/programacao",
+          "url_final": "https://museudoamanha.org.br/pt/programacao",
+          "http": 200,
+          "sha256": "0d0745b0004d4c991b74222cb1d433849f67a1c542b403e84453c3277572ba39",
+          "verificado_em": "2026-11-08T17:59:00.146794+00:00"
+        }
+      ],
+      "erros": [
+        {
+          "url": "https://museudoamanha.org.br/pt/programacao",
+          "erro": "Tela de verificação ou HTML sem agenda legível (mesmo que HTTP 200)"
+        }
+      ],
+      "extraidos": 0,
+      "status": "falha",
+      "alerta": "ZERO CANDIDATOS: revisar acesso, adequação infantil ou adaptador"
+    },
+    {
+      "fonte": "firjan",
+      "url": "https://casafirjan.com.br/agenda",
+      "paginas": [
+        {
+          "url": "https://casafirjan.com.br/agenda",
+          "url_final": "https://casafirjan.com.br/agenda",
+          "http": 200,
+          "sha256": "c3f30b7b7d8afd264dc053e2b2b125e689fd32b24eb8fd467397cb665dc7942b",
+          "verificado_em": "2026-11-08T17:59:01.372979+00:00"
+        }
+      ],
+      "tentativas": [
+        {
+          "url": "https://casafirjan.com.br/agenda",
+          "url_final": "https://casafirjan.com.br/agenda",
+          "http": 200,
+          "sha256": "c3f30b7b7d8afd264dc053e2b2b125e689fd32b24eb8fd467397cb665dc7942b",
+          "verificado_em": "2026-11-08T17:59:01.372979+00:00"
+        }
+      ],
+      "erros": [],
+      "extraidos": 0,
+      "status": "ok",
+      "alerta": "ZERO CANDIDATOS: revisar acesso, adequação infantil ou adaptador"
+    }
+  ],
+  "metricas": {
+    "novos": 26,
+    "reencontrados": 62,
+    "duplicatas_na_coleta": 5,
+    "expirados_novos": 38,
+    "total": 229,
+    "preservados": 203,
+    "pendentes_aprovacao": 136,
+    "expirados_total": 93
+  },
+  "publicacao": false,
+  "lote_R2_alterado": false
+}
