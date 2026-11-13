@@ -1,8 +1,8 @@
-# Coleta recorrente — 2026-11-12T20:08:14.311192+00:00
+# Coleta recorrente — 2026-11-13T19:52:33.935588+00:00
 
 Nenhum evento publicado. Lote R2 preservado.
 
-{'novos': 20, 'reencontrados': 82, 'duplicatas_na_coleta': 4, 'expirados_novos': 11, 'total': 309, 'preservados': 289, 'pendentes_aprovacao': 139, 'expirados_total': 170}
+{'novos': 18, 'reencontrados': 84, 'duplicatas_na_coleta': 4, 'expirados_novos': 17, 'total': 327, 'preservados': 309, 'pendentes_aprovacao': 140, 'expirados_total': 187}
 
 | Fonte | Páginas legíveis | Extraídos | Falhas | Estado |
 |---|---:|---:|---:|---|
