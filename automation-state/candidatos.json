@@ -16498,7 +16498,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-077c68492808ba14",
@@ -16544,7 +16544,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-0c2d3b7a5d15e8a3",
@@ -16590,7 +16590,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-1070a9acfb6b0c8d",
@@ -16636,7 +16636,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-163a31fb29a72026",
@@ -16656,7 +16656,7 @@
       "status_editorial": "aguardando_aprovacao",
       "validacao_R2": "prontos_para_aprovacao",
       "primeira_deteccao": "2026-11-03T18:07:14.282631+00:00",
-      "expirado": false,
+      "expirado": true,
       "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
       "observacao_atual": {
         "nome": "O Natal Mágico do Mickey",
@@ -16722,7 +16722,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-1a91cb4be2ec44b9",
@@ -16768,7 +16768,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-1f2d2511905217b1",
@@ -16788,7 +16788,7 @@
       "status_editorial": "aguardando_aprovacao",
       "validacao_R2": "pendentes_de_confirmacao",
       "primeira_deteccao": "2026-11-03",
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-276684348724f0f4",
@@ -16834,7 +16834,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-3658f2d4dc8e6637",
@@ -16854,7 +16854,7 @@
       "status_editorial": "aguardando_aprovacao",
       "validacao_R2": "prontos_para_aprovacao",
       "primeira_deteccao": "2026-11-03T18:06:53.398039+00:00",
-      "expirado": false,
+      "expirado": true,
       "ultima_deteccao": "2026-11-06T19:33:33.708202+00:00",
       "observacao_atual": {
         "nome": "Brincando com Bento e Totó",
@@ -16920,7 +16920,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-41de1b5427021700",
@@ -16966,7 +16966,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-4594cb362996265d",
@@ -17012,7 +17012,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-45989dad083cc284",
@@ -17058,7 +17058,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-4a92bd765950cf26",
@@ -17078,7 +17078,7 @@
       "status_editorial": "aguardando_aprovacao",
       "validacao_R2": "prontos_para_aprovacao",
       "primeira_deteccao": "2026-11-03T18:07:19.410555+00:00",
-      "expirado": false,
+      "expirado": true,
       "ultima_deteccao": "2026-11-20T20:32:46.916526+00:00",
       "observacao_atual": {
         "nome": "Os Três Porquinhos",
@@ -17144,7 +17144,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-5211c4602d12d6c6",
@@ -17164,7 +17164,7 @@
       "status_editorial": "aguardando_aprovacao",
       "validacao_R2": "prontos_para_aprovacao",
       "primeira_deteccao": "2026-11-03T18:07:24.885089+00:00",
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-53f2e1b493db68c5",
@@ -17210,7 +17210,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-55b08cff8a59114a",
@@ -17256,7 +17256,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-60851fb30e58f3fd",
@@ -17302,7 +17302,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-632bc759c66547a4",
@@ -17348,7 +17348,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-633b39839ac8d184",
@@ -17368,7 +17368,7 @@
       "status_editorial": "aguardando_aprovacao",
       "validacao_R2": "prontos_para_aprovacao",
       "primeira_deteccao": "2026-11-03T18:07:25.230437+00:00",
-      "expirado": false,
+      "expirado": true,
       "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
       "observacao_atual": {
         "nome": "Sábado Musical, com Batuca Jardim - Ritmos da Ancestralidade”",
@@ -17430,7 +17430,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-65cf858ac8f7844f",
@@ -17476,7 +17476,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-6907ab378892aa18",
@@ -17522,7 +17522,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-7b83d0caf769cdae",
@@ -17568,7 +17568,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-81b5da9dabc6d576",
@@ -17614,7 +17614,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-8b143ff865b5e3c2",
@@ -17660,7 +17660,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-936e96cea68c5f5d",
@@ -17698,7 +17698,7 @@
         },
         "fonte": "eco"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-99cd1b422ef53f4f",
@@ -17744,7 +17744,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-9b1f8588b2c3c831",
@@ -17790,7 +17790,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-a108775e8d55ba14",
@@ -17836,7 +17836,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-a2c0dc640ddc379b",
@@ -17882,7 +17882,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-a50de48c997c4bf4",
@@ -17928,7 +17928,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-a5988cc6ed9cfc4d",
@@ -17948,7 +17948,7 @@
       "status_editorial": "aguardando_aprovacao",
       "validacao_R2": "prontos_para_aprovacao",
       "primeira_deteccao": "2026-11-03T18:07:09.160661+00:00",
-      "expirado": false,
+      "expirado": true,
       "ultima_deteccao": "2026-11-20T20:32:46.916526+00:00",
       "observacao_atual": {
         "nome": "O Brilho do Natal",
@@ -18014,7 +18014,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-b17b49d8ffdfc528",
@@ -18060,7 +18060,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-bd3f75faf7b55b89",
@@ -18106,7 +18106,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-bdc1bf4618a9374b",
@@ -18126,7 +18126,7 @@
       "status_editorial": "aguardando_aprovacao",
       "validacao_R2": "prontos_para_aprovacao",
       "primeira_deteccao": "2026-11-03T18:07:25.230437+00:00",
-      "expirado": false,
+      "expirado": true,
       "ultima_deteccao": "2026-11-20T20:32:46.916526+00:00",
       "observacao_atual": {
         "nome": "Escola do Rock",
@@ -18192,7 +18192,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-caad89b8ba3f3895",
@@ -18238,7 +18238,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-cdd145f9e3e99ce0",
@@ -18284,7 +18284,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-d2c0ba4f827e9596",
@@ -18330,7 +18330,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-e05fe019c9cfd6d2",
@@ -18376,7 +18376,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-e41c0eb8f9e8726e",
@@ -18396,7 +18396,7 @@
       "status_editorial": "aguardando_aprovacao",
       "validacao_R2": "prontos_para_aprovacao",
       "primeira_deteccao": "2026-11-03T18:06:53.394317+00:00",
-      "expirado": false,
+      "expirado": true,
       "ultima_deteccao": "2026-11-20T20:32:46.916526+00:00",
       "observacao_atual": {
         "nome": "A Menina que não Falava",
@@ -18462,7 +18462,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-ed73034fd61508ed",
@@ -18508,7 +18508,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-f1ae22bb2477b0f3",
@@ -18554,7 +18554,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-fa031945b56d1f1c",
@@ -18600,7 +18600,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-faf22d27533b8697",
@@ -18646,7 +18646,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-fe657a87f44cc379",
@@ -18687,6 +18687,52 @@
           "fim": "",
           "local": "Estádio do Maracanã",
           "preco": "40.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": true
+    },
+    {
+      "id": "Q-01614c90c8e53c7e",
+      "dados": {
+        "nome": "Day Use Le Canton",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Le Canton",
+        "preco": "122.89",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/day-use-le-canton-3906",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Le Canton",
+          "preco": "122.89"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Day Use Le Canton",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Le Canton",
+        "preco": "122.89",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/day-use-le-canton-3906",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Le Canton",
+          "preco": "122.89"
         },
         "periodo": "",
         "cancelado": false,
@@ -18733,6 +18779,282 @@
           "fim": "",
           "local": "Le Canton",
           "preco": "750.50"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-107d83984709defc",
+      "dados": {
+        "nome": "Parque Shanghai",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Parque Shanghai",
+        "preco": "40.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/parque-shanghai-2432",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Parque Shanghai",
+          "preco": "40.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Parque Shanghai",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Parque Shanghai",
+        "preco": "40.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/parque-shanghai-2432",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Parque Shanghai",
+          "preco": "40.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-1438c831454bdcaf",
+      "dados": {
+        "nome": "O Natal Mágico do Mickey",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Teatro Miguel Falabella - Norte Shopping",
+        "preco": "39.90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-natal-magico-do-mickey-2530",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Teatro Miguel Falabella - Norte Shopping",
+          "preco": "39.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "O Natal Mágico do Mickey",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Teatro Miguel Falabella - Norte Shopping",
+        "preco": "39.90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/o-natal-magico-do-mickey-2530",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Teatro Miguel Falabella - Norte Shopping",
+          "preco": "39.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-1a4f2bccaca2bc9c",
+      "dados": {
+        "nome": "Yup Star Roda Gigante do Rio",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Yup Star Roda Gigante do Rio",
+        "preco": "39.90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/yup-star-roda-gigante-do-rio-2490",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Yup Star Roda Gigante do Rio",
+          "preco": "39.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Yup Star Roda Gigante do Rio",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Yup Star Roda Gigante do Rio",
+        "preco": "39.90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/yup-star-roda-gigante-do-rio-2490",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Yup Star Roda Gigante do Rio",
+          "preco": "39.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-1d041c47b035b2a2",
+      "dados": {
+        "nome": "Tour do Maracanã",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Estádio do Maracanã",
+        "preco": "40.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/tour-do-maracana-1700",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Estádio do Maracanã",
+          "preco": "40.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Tour do Maracanã",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Estádio do Maracanã",
+        "preco": "40.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/tour-do-maracana-1700",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Estádio do Maracanã",
+          "preco": "40.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-22c242b6fe3e93da",
+      "dados": {
+        "nome": "Museu Flamengo + Tour na Gávea",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Museu Flamengo",
+        "preco": "35.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/museu-flamengo-tour-na-gavea-2471",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Museu Flamengo",
+          "preco": "35.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Museu Flamengo + Tour na Gávea",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Museu Flamengo",
+        "preco": "35.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/museu-flamengo-tour-na-gavea-2471",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Museu Flamengo",
+          "preco": "35.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-2a8bf1e3fdb469f0",
+      "dados": {
+        "nome": "Big Brother Cirkus Apresenta Disney Magic Show",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Circo Brother Cirkus - Santa Cruz",
+        "preco": "10.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/big-brother-cirkus-apresenta-disney-magic-show-3144",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Circo Brother Cirkus - Santa Cruz",
+          "preco": "10.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Big Brother Cirkus Apresenta Disney Magic Show",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Circo Brother Cirkus - Santa Cruz",
+        "preco": "10.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/big-brother-cirkus-apresenta-disney-magic-show-3144",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Circo Brother Cirkus - Santa Cruz",
+          "preco": "10.00"
         },
         "periodo": "",
         "cancelado": false,
@@ -18824,7 +19146,7 @@
       "primeira_deteccao": "2026-11-03T18:29:02.563831+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Matilda",
         "data": "2026-11-22",
@@ -18839,6 +19161,98 @@
           "fim": "2026-11-22T18:00:00-03:00",
           "local": "Teatro dos Grandes Atores - Shopping Barra Square",
           "preco": "44.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-4450e8072a7bf71d",
+      "dados": {
+        "nome": "Big Jump USA - Shopping Aerotown",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Big Jump USA - Aerotown",
+        "preco": "59.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/big-jump-usa-shopping-aerotown-2088",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Big Jump USA - Aerotown",
+          "preco": "59.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Big Jump USA - Shopping Aerotown",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Big Jump USA - Aerotown",
+        "preco": "59.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/big-jump-usa-shopping-aerotown-2088",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Big Jump USA - Aerotown",
+          "preco": "59.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-51507736517f9067",
+      "dados": {
+        "nome": "Saveiros Tour - Baía de Guanabara",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Marina da Glória",
+        "preco": "47.50",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/saveiros-tour-baia-de-guanabara-2923",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Marina da Glória",
+          "preco": "47.50"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Saveiros Tour - Baía de Guanabara",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Marina da Glória",
+        "preco": "47.50",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/saveiros-tour-baia-de-guanabara-2923",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Marina da Glória",
+          "preco": "47.50"
         },
         "periodo": "",
         "cancelado": false,
@@ -18979,6 +19393,98 @@
       }
     },
     {
+      "id": "Q-705d05f5e203ee9a",
+      "dados": {
+        "nome": "Os Sonhos de Tom e Théo",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Teatro Miguel Falabella - Norte Shopping",
+        "preco": "39.90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-sonhos-de-tom-e-theo-4265",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Teatro Miguel Falabella - Norte Shopping",
+          "preco": "39.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Os Sonhos de Tom e Théo",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Teatro Miguel Falabella - Norte Shopping",
+        "preco": "39.90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-sonhos-de-tom-e-theo-4265",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Teatro Miguel Falabella - Norte Shopping",
+          "preco": "39.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-828651a7d965de70",
+      "dados": {
+        "nome": "João e Maria na Casa de Chocolate",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Teatro Brigitte Blair",
+        "preco": "49.90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/joao-e-maria-na-casa-de-chocolate-1570",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Teatro Brigitte Blair",
+          "preco": "49.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "João e Maria na Casa de Chocolate",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Teatro Brigitte Blair",
+        "preco": "49.90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/joao-e-maria-na-casa-de-chocolate-1570",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Teatro Brigitte Blair",
+          "preco": "49.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
       "id": "Q-8fc5e0cf143b5daa",
       "dados": {
         "nome": "Natal da Frozen",
@@ -19002,7 +19508,7 @@
       "primeira_deteccao": "2026-11-16T22:20:12.408209+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Natal da Frozen",
         "data": "2026-11-22",
@@ -19017,6 +19523,52 @@
           "fim": "",
           "local": "Teatro dos Grandes Atores - Shopping Barra Square",
           "preco": "44.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-904449db46853eae",
+      "dados": {
+        "nome": "Guapi Parque das Águas",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Guapi Parque das Águas",
+        "preco": "32.90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/guapi-parque-das-aguas-2783",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Guapi Parque das Águas",
+          "preco": "32.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Guapi Parque das Águas",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Guapi Parque das Águas",
+        "preco": "32.90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/guapi-parque-das-aguas-2783",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Guapi Parque das Águas",
+          "preco": "32.90"
         },
         "periodo": "",
         "cancelado": false,
@@ -19091,6 +19643,98 @@
       "expirado": false
     },
     {
+      "id": "Q-9ec9eb602db4469b",
+      "dados": {
+        "nome": "Big Jump USA - Shopping Via Brasil",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Big Jump USA - Shopping Via Brasil",
+        "preco": "50.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/big-jump-usa-shopping-via-brasil-2095",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Big Jump USA - Shopping Via Brasil",
+          "preco": "50.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Big Jump USA - Shopping Via Brasil",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Big Jump USA - Shopping Via Brasil",
+        "preco": "50.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/big-jump-usa-shopping-via-brasil-2095",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Big Jump USA - Shopping Via Brasil",
+          "preco": "50.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-a421ecd0e20e3804",
+      "dados": {
+        "nome": "Babilônia Circus",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Shopping Via Parque",
+        "preco": "30.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/babilonia-circus-4227",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Shopping Via Parque",
+          "preco": "30.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Babilônia Circus",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Shopping Via Parque",
+        "preco": "30.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/babilonia-circus-4227",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Shopping Via Parque",
+          "preco": "30.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
       "id": "Q-a73d192197665a4a",
       "dados": {
         "nome": "Clube Akorin",
@@ -19110,7 +19754,7 @@
       "primeira_deteccao": "2026-11-12T20:08:14.311192+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Clube Akorin",
         "data": "2026-11-22",
@@ -19147,7 +19791,7 @@
       "validacao_R2": "prontos_para_aprovacao",
       "primeira_deteccao": "2026-11-03T18:07:14.282631+00:00",
       "expirado": false,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "O Natal Mágico do Mickey",
         "data": "2026-11-22",
@@ -19167,6 +19811,52 @@
         "cancelado": false,
         "fonte": "clubinho"
       }
+    },
+    {
+      "id": "Q-ae29ed576436095c",
+      "dados": {
+        "nome": "AquaRio",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "AquaRio",
+        "preco": "73.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/aquario-2466",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "AquaRio",
+          "preco": "73.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "AquaRio",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "AquaRio",
+        "preco": "73.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/aquario-2466",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "AquaRio",
+          "preco": "73.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
     },
     {
       "id": "Q-b4c4299eb41b80b0",
@@ -19192,7 +19882,7 @@
       "primeira_deteccao": "2026-11-16T22:20:12.408209+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Clube Akorin - Musicalizar Brincando",
         "data": "2026-11-22",
@@ -19207,6 +19897,52 @@
           "fim": "",
           "local": "EcoVilla Ri Happy",
           "preco": "45.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-b8ea41cb137dc562",
+      "dados": {
+        "nome": "Kolmeia Kids",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Norte Shopping",
+        "preco": "24.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/kolmeia-kids-4174",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Norte Shopping",
+          "preco": "24.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Kolmeia Kids",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Norte Shopping",
+        "preco": "24.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/kolmeia-kids-4174",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Norte Shopping",
+          "preco": "24.00"
         },
         "periodo": "",
         "cancelado": false,
@@ -19235,6 +19971,190 @@
       "expirado": false
     },
     {
+      "id": "Q-bf8cc2360a7903c8",
+      "dados": {
+        "nome": "Os Três Porquinhos",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Teatro das Artes - Shopping da Gávea",
+        "preco": "49.90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Teatro das Artes - Shopping da Gávea",
+          "preco": "49.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Os Três Porquinhos",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Teatro das Artes - Shopping da Gávea",
+        "preco": "49.90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-tres-porquinhos-115",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Teatro das Artes - Shopping da Gávea",
+          "preco": "49.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-c4a23367e67e4edf",
+      "dados": {
+        "nome": "Patati Patatá Circo Show",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Park Shopping Campo Grande",
+        "preco": "35.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/patati-patata-circo-show-196",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Park Shopping Campo Grande",
+          "preco": "35.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Patati Patatá Circo Show",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Park Shopping Campo Grande",
+        "preco": "35.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/patati-patata-circo-show-196",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Park Shopping Campo Grande",
+          "preco": "35.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-ca4807a972be27b5",
+      "dados": {
+        "nome": "BioParque do Rio",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "BioParque do Rio",
+        "preco": "30.50",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/bioparque-do-rio-3031",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "BioParque do Rio",
+          "preco": "30.50"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "BioParque do Rio",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "BioParque do Rio",
+        "preco": "30.50",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/bioparque-do-rio-3031",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "BioParque do Rio",
+          "preco": "30.50"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-ce28c33544ee66bc",
+      "dados": {
+        "nome": "Escola do Rock",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "EcoVilla Ri Happy",
+        "preco": "45.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/escola-do-rock-4245",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "EcoVilla Ri Happy",
+          "preco": "45.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Escola do Rock",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "EcoVilla Ri Happy",
+        "preco": "45.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/escola-do-rock-4245",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "EcoVilla Ri Happy",
+          "preco": "45.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
       "id": "Q-de21b464775d68e5",
       "dados": {
         "nome": "A Fantástica Fábrica de Chocolate",
@@ -19258,7 +20178,7 @@
       "primeira_deteccao": "2026-11-12T20:08:14.311192+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "A Fantástica Fábrica de Chocolate",
         "data": "2026-11-22",
@@ -19304,7 +20224,7 @@
       "primeira_deteccao": "2026-11-07T17:47:25.372556+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Brincando com Bento e Totó",
         "data": "2026-11-22",
@@ -19413,6 +20333,236 @@
       "expirado": false
     },
     {
+      "id": "Q-f20c95cd6b8c692e",
+      "dados": {
+        "nome": "A Menina que não Falava",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+        "preco": "34.90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/a-menina-que-nao-falava-4251",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+          "preco": "34.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "A Menina que não Falava",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+        "preco": "34.90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/a-menina-que-nao-falava-4251",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+          "preco": "34.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-f64cb819130bcf29",
+      "dados": {
+        "nome": "Museu Flamengo",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Museu Flamengo",
+        "preco": "25.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/museu-flamengo-2470",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Museu Flamengo",
+          "preco": "25.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Museu Flamengo",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Museu Flamengo",
+        "preco": "25.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/museu-flamengo-2470",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Museu Flamengo",
+          "preco": "25.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-f90a48ad2b7b9d32",
+      "dados": {
+        "nome": "Matilda",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Teatro dos Grandes Atores - Shopping Barra Square",
+        "preco": "44.90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/matilda-4009",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Teatro dos Grandes Atores - Shopping Barra Square",
+          "preco": "44.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Matilda",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Teatro dos Grandes Atores - Shopping Barra Square",
+        "preco": "44.90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/matilda-4009",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Teatro dos Grandes Atores - Shopping Barra Square",
+          "preco": "44.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-f9e029bf81633cb2",
+      "dados": {
+        "nome": "Lia e a Árvore da Montanha",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Teatro Glaucio Gill",
+        "preco": "29.90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/lia-e-a-arvore-da-montanha-4152",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Teatro Glaucio Gill",
+          "preco": "29.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Lia e a Árvore da Montanha",
+        "data": "2026-11-22",
+        "hora": null,
+        "local": "Teatro Glaucio Gill",
+        "preco": "29.90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/lia-e-a-arvore-da-montanha-4152",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-22",
+          "fim": "",
+          "local": "Teatro Glaucio Gill",
+          "preco": "29.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-1ae01867965abfdc",
+      "dados": {
+        "nome": "Terra dos Dinos",
+        "data": "2026-11-23",
+        "hora": null,
+        "local": "Terra dos Dinos",
+        "preco": "27.55",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/terra-dos-dinos-3970",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-23",
+          "fim": "",
+          "local": "Terra dos Dinos",
+          "preco": "27.55"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Terra dos Dinos",
+        "data": "2026-11-23",
+        "hora": null,
+        "local": "Terra dos Dinos",
+        "preco": "27.55",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/terra-dos-dinos-3970",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-23",
+          "fim": "",
+          "local": "Terra dos Dinos",
+          "preco": "27.55"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
       "id": "Q-bb0af7b8147762aa",
       "dados": {
         "nome": "Espaço Voltz Parkour & Trampolim Park - Barra",
@@ -19436,7 +20586,7 @@
       "primeira_deteccao": "2026-11-20T20:32:46.916526+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Espaço Voltz Parkour & Trampolim Park - Barra",
         "data": "2026-11-23",
@@ -19451,6 +20601,98 @@
           "fim": "",
           "local": "Espaço Voltz Parkour & Trampolim Park - Via Parque Shopping - Barra da Tijuca",
           "preco": "57.40"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-a140d87fee22eeca",
+      "dados": {
+        "nome": "Starlight Concert - Concertos de Natal",
+        "data": "2026-11-25",
+        "hora": null,
+        "local": "Teatro Bangu Shopping",
+        "preco": "60.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/starlight-concert-concertos-de-natal-4277",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-25",
+          "fim": "",
+          "local": "Teatro Bangu Shopping",
+          "preco": "60.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Starlight Concert - Concertos de Natal",
+        "data": "2026-11-25",
+        "hora": null,
+        "local": "Teatro Bangu Shopping",
+        "preco": "60.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/starlight-concert-concertos-de-natal-4277",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-25",
+          "fim": "",
+          "local": "Teatro Bangu Shopping",
+          "preco": "60.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-d6b1eb8d3c1c8b93",
+      "dados": {
+        "nome": "Serginho Lacerda - Qual o seu Talento?",
+        "data": "2026-11-26",
+        "hora": null,
+        "local": "Teatro Bangu Shopping",
+        "preco": "60.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/serginho-lacerda-qual-o-seu-talento-4276",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-26",
+          "fim": "",
+          "local": "Teatro Bangu Shopping",
+          "preco": "60.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Serginho Lacerda - Qual o seu Talento?",
+        "data": "2026-11-26",
+        "hora": null,
+        "local": "Teatro Bangu Shopping",
+        "preco": "60.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/serginho-lacerda-qual-o-seu-talento-4276",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-26",
+          "fim": "",
+          "local": "Teatro Bangu Shopping",
+          "preco": "60.00"
         },
         "periodo": "",
         "cancelado": false,
@@ -19476,6 +20718,52 @@
       "status_editorial": "aguardando_aprovacao",
       "validacao_R2": "prontos_para_aprovacao",
       "primeira_deteccao": "2026-11-03T18:06:59.540432+00:00",
+      "expirado": false
+    },
+    {
+      "id": "Q-430f4d41d513782c",
+      "dados": {
+        "nome": "Três Porquinhos Contra o Lobo Mau",
+        "data": "2026-11-28",
+        "hora": null,
+        "local": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+        "preco": "30.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/tres-porquinhos-contra-o-lobo-mau-2496",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-28",
+          "fim": "",
+          "local": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+          "preco": "30.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Três Porquinhos Contra o Lobo Mau",
+        "data": "2026-11-28",
+        "hora": null,
+        "local": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+        "preco": "30.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/tres-porquinhos-contra-o-lobo-mau-2496",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-28",
+          "fim": "",
+          "local": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+          "preco": "30.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
       "expirado": false
     },
     {
@@ -19516,6 +20804,72 @@
       "status_editorial": "aguardando_aprovacao",
       "validacao_R2": "prontos_para_aprovacao",
       "primeira_deteccao": "2026-11-03T18:07:24.885089+00:00",
+      "expirado": false,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Três Porquinhos Contra o Lobo Mau",
+        "data": "2026-11-28",
+        "hora": "17:30",
+        "local": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+        "preco": "30.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/tres-porquinhos-contra-o-lobo-mau-2496#sessao-171512",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-28T17:30:00-03:00",
+          "fim": "2026-11-28T18:30:00-03:00",
+          "local": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+          "preco": "30.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      }
+    },
+    {
+      "id": "Q-9a4a22e8a79543ce",
+      "dados": {
+        "nome": "Cinderela",
+        "data": "2026-11-28",
+        "hora": null,
+        "local": "Teatro dos Grandes Atores - Shopping Barra Square",
+        "preco": "44.90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/cinderela-316",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-28",
+          "fim": "",
+          "local": "Teatro dos Grandes Atores - Shopping Barra Square",
+          "preco": "44.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Cinderela",
+        "data": "2026-11-28",
+        "hora": null,
+        "local": "Teatro dos Grandes Atores - Shopping Barra Square",
+        "preco": "44.90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/cinderela-316",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-28",
+          "fim": "",
+          "local": "Teatro dos Grandes Atores - Shopping Barra Square",
+          "preco": "44.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
       "expirado": false
     },
     {
@@ -19537,7 +20891,7 @@
       "validacao_R2": "prontos_para_aprovacao",
       "primeira_deteccao": "2026-11-03T18:07:25.230437+00:00",
       "expirado": false,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Escola do Rock",
         "data": "2026-11-28",
@@ -19557,6 +20911,52 @@
         "cancelado": false,
         "fonte": "clubinho"
       }
+    },
+    {
+      "id": "Q-c5254c1b8a817d78",
+      "dados": {
+        "nome": "Brincando com Bento e Totó",
+        "data": "2026-11-28",
+        "hora": null,
+        "local": "Teatro Bangu Shopping",
+        "preco": "50.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/brincando-com-bento-e-toto-3253",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-28",
+          "fim": "",
+          "local": "Teatro Bangu Shopping",
+          "preco": "50.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Brincando com Bento e Totó",
+        "data": "2026-11-28",
+        "hora": null,
+        "local": "Teatro Bangu Shopping",
+        "preco": "50.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/brincando-com-bento-e-toto-3253",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-28",
+          "fim": "",
+          "local": "Teatro Bangu Shopping",
+          "preco": "50.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
     },
     {
       "id": "Q-dca18a69b436983a",
@@ -19582,7 +20982,7 @@
       "primeira_deteccao": "2026-11-03T18:29:02.563831+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Matilda",
         "data": "2026-11-28",
@@ -19623,7 +21023,7 @@
       "validacao_R2": "pendentes_de_confirmacao",
       "primeira_deteccao": "2026-11-03",
       "expirado": false,
-      "ultima_deteccao": "2026-11-18T20:43:25.068825+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Natal Mágico na Casa da Gabby",
         "data": "2026-11-28",
@@ -19683,7 +21083,7 @@
       "validacao_R2": "prontos_para_aprovacao",
       "primeira_deteccao": "2026-11-03T18:07:25.230437+00:00",
       "expirado": false,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Escola do Rock",
         "data": "2026-11-29",
@@ -19728,7 +21128,7 @@
       "primeira_deteccao": "2026-11-20T20:32:46.916526+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Domingo no Parc Magique Le Canton",
         "data": "2026-11-29",
@@ -19774,7 +21174,7 @@
       "primeira_deteccao": "2026-11-03T18:29:02.563831+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Matilda",
         "data": "2026-11-29",
@@ -19815,7 +21215,7 @@
       "validacao_R2": "prontos_para_aprovacao",
       "primeira_deteccao": "2026-11-03T18:06:53.396620+00:00",
       "expirado": false,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Bob Zoom e a Magia do Natal",
         "data": "2026-11-29",
@@ -19860,7 +21260,7 @@
       "primeira_deteccao": "2026-11-03T18:29:02.563831+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Bob Zoom e a Magia do Natal",
         "data": "2026-11-29",
@@ -19920,7 +21320,27 @@
       "status_editorial": "aguardando_aprovacao",
       "validacao_R2": "prontos_para_aprovacao",
       "primeira_deteccao": "2026-11-03T18:07:24.885089+00:00",
-      "expirado": false
+      "expirado": false,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Três Porquinhos Contra o Lobo Mau",
+        "data": "2026-11-29",
+        "hora": "17:30",
+        "local": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+        "preco": "30.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/tres-porquinhos-contra-o-lobo-mau-2496#sessao-171513",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-29T17:30:00-03:00",
+          "fim": "2026-11-29T18:30:00-03:00",
+          "local": "Teatro Henriqueta Brieba - Tijuca Tênis Club",
+          "preco": "30.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      }
     },
     {
       "id": "Q-ec48e4ef1fa04735",
@@ -19966,7 +21386,7 @@
       "primeira_deteccao": "2026-11-11T19:43:38.288540+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Quinta no Parc Magique Le Canton",
         "data": "2026-12-03",
@@ -20012,7 +21432,7 @@
       "primeira_deteccao": "2026-11-09T22:31:50.233866+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Escola do Rock",
         "data": "2026-12-04",
@@ -20104,7 +21524,7 @@
       "primeira_deteccao": "2026-11-09T22:31:50.233866+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Escola do Rock",
         "data": "2026-12-05",
@@ -20146,7 +21566,7 @@
       "primeira_deteccao": "2026-11-11T19:43:38.288540+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Sábado Musical com Jubarte, uma Viagem pelo Brasil",
         "data": "2026-12-05",
@@ -20161,6 +21581,52 @@
           "data_texto": "05 de dezembro | Sábado às 9h30"
         },
         "fonte": "eco"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-4ae38cada54c0ebe",
+      "dados": {
+        "nome": "Um Natal Congelante, O Musical ao Vivo",
+        "data": "2026-12-05",
+        "hora": null,
+        "local": "Teatro Vannucci - Shopping da Gávea",
+        "preco": "49.90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/um-natal-congelante-o-musical-ao-vivo-3683",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-12-05",
+          "fim": "",
+          "local": "Teatro Vannucci - Shopping da Gávea",
+          "preco": "49.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Um Natal Congelante, O Musical ao Vivo",
+        "data": "2026-12-05",
+        "hora": null,
+        "local": "Teatro Vannucci - Shopping da Gávea",
+        "preco": "49.90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/um-natal-congelante-o-musical-ao-vivo-3683",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-12-05",
+          "fim": "",
+          "local": "Teatro Vannucci - Shopping da Gávea",
+          "preco": "49.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
       },
       "expirado": false
     },
@@ -20184,7 +21650,7 @@
       "primeira_deteccao": "2026-11-13T19:52:33.935588+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Dia Mundial do Solo (GRATUITO)",
         "data": "2026-12-05",
@@ -20226,7 +21692,7 @@
       "primeira_deteccao": "2026-11-21T19:29:42.738622+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Sábado Musical com Jubarte, Uma Viagem pelo Brasil",
         "data": "2026-12-05",
@@ -20272,7 +21738,7 @@
       "primeira_deteccao": "2026-11-21T19:29:42.738622+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Frozen e o Natal Mágico de Olaf",
         "data": "2026-12-05",
@@ -20318,7 +21784,7 @@
       "primeira_deteccao": "2026-11-05T20:06:58.250869+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Um Natal Congelante, O Musical ao Vivo",
         "data": "2026-12-05",
@@ -20446,7 +21912,7 @@
       "primeira_deteccao": "2026-11-09T22:31:50.233866+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Escola do Rock",
         "data": "2026-12-06",
@@ -20492,7 +21958,7 @@
       "primeira_deteccao": "2026-11-05T20:06:58.250869+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Um Natal Congelante, O Musical ao Vivo",
         "data": "2026-12-06",
@@ -20538,7 +22004,7 @@
       "primeira_deteccao": "2026-11-09T22:31:50.233866+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Escola do Rock",
         "data": "2026-12-11",
@@ -20584,7 +22050,7 @@
       "primeira_deteccao": "2026-11-16T22:20:12.408209+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Patrulhinha de Natal",
         "data": "2026-12-12",
@@ -20630,7 +22096,7 @@
       "primeira_deteccao": "2026-11-21T19:29:42.738622+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Os Três Porquinhos em Busca do Papai Noel",
         "data": "2026-12-12",
@@ -20676,7 +22142,7 @@
       "primeira_deteccao": "2026-11-14T18:18:17.584452+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Um Natal Congelante, O Musical ao Vivo",
         "data": "2026-12-12",
@@ -20722,7 +22188,7 @@
       "primeira_deteccao": "2026-11-09T22:31:50.233866+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Escola do Rock",
         "data": "2026-12-12",
@@ -20768,7 +22234,7 @@
       "primeira_deteccao": "2026-11-09T22:31:50.233866+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Escola do Rock",
         "data": "2026-12-13",
@@ -20814,7 +22280,7 @@
       "primeira_deteccao": "2026-11-21T19:29:42.738622+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Natal do Bita",
         "data": "2026-12-20",
@@ -20829,6 +22295,52 @@
           "fim": "",
           "local": "Vivo Rio",
           "preco": "90.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-27633a0a6600a9ec",
+      "dados": {
+        "nome": "Os Saltimbancos no Ritmo do Natal",
+        "data": "2026-12-26",
+        "hora": "17:00",
+        "local": "Teatro Brigitte Blair",
+        "preco": "50.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-saltimbancos-no-ritmo-do-natal-4263#sessao-173230",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-12-26T17:00:00-03:00",
+          "fim": "2026-12-26T18:00:00-03:00",
+          "local": "Teatro Brigitte Blair",
+          "preco": "50.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Os Saltimbancos no Ritmo do Natal",
+        "data": "2026-12-26",
+        "hora": "17:00",
+        "local": "Teatro Brigitte Blair",
+        "preco": "50.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-saltimbancos-no-ritmo-do-natal-4263#sessao-173230",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-12-26T17:00:00-03:00",
+          "fim": "2026-12-26T18:00:00-03:00",
+          "local": "Teatro Brigitte Blair",
+          "preco": "50.00"
         },
         "periodo": "",
         "cancelado": false,
@@ -20860,7 +22372,7 @@
       "primeira_deteccao": "2026-11-18T20:43:25.068825+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Os Saltimbancos no Ritmo do Natal",
         "data": "2026-12-26",
@@ -20906,7 +22418,7 @@
       "primeira_deteccao": "2026-11-05T20:06:58.250869+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "O Grinch: Uma História de Natal",
         "data": "2026-12-26",
@@ -20921,6 +22433,52 @@
           "fim": "",
           "local": "Teatro Vannucci - Shopping da Gávea",
           "preco": "49.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-2f0c004f81f14c84",
+      "dados": {
+        "nome": "Os Saltimbancos no Ritmo do Natal",
+        "data": "2026-12-27",
+        "hora": "17:00",
+        "local": "Teatro Brigitte Blair",
+        "preco": "50.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-saltimbancos-no-ritmo-do-natal-4263#sessao-173231",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-12-27T17:00:00-03:00",
+          "fim": "2026-12-27T18:00:00-03:00",
+          "local": "Teatro Brigitte Blair",
+          "preco": "50.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
+      "observacao_atual": {
+        "nome": "Os Saltimbancos no Ritmo do Natal",
+        "data": "2026-12-27",
+        "hora": "17:00",
+        "local": "Teatro Brigitte Blair",
+        "preco": "50.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/os-saltimbancos-no-ritmo-do-natal-4263#sessao-173231",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-12-27T17:00:00-03:00",
+          "fim": "2026-12-27T18:00:00-03:00",
+          "local": "Teatro Brigitte Blair",
+          "preco": "50.00"
         },
         "periodo": "",
         "cancelado": false,
@@ -20989,7 +22547,7 @@
       "primeira_deteccao": "2026-11-03T18:27:31.851599+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "Ateliê Aberto — CCBB Educativo",
         "data": null,
@@ -21029,7 +22587,7 @@
       "primeira_deteccao": "2026-11-03T18:27:31.851599+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "PEQUENOS EXPLORADORES — CCBB Educativo",
         "data": null,
@@ -21069,7 +22627,7 @@
       "primeira_deteccao": "2026-11-03T18:27:31.851599+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-21T19:29:42.738622+00:00",
+      "ultima_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "observacao_atual": {
         "nome": "LABORATÓRIO DE MÚSICA — CCBB Educativo",
         "data": null,
@@ -21089,5 +22647,5 @@
       "expirado": false
     }
   ],
-  "atualizado_em": "2026-11-21T19:29:42.738622+00:00"
+  "atualizado_em": "2026-11-22T19:50:52.076800+00:00"
 }
