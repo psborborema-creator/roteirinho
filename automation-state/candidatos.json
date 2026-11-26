@@ -21618,7 +21618,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-1f982ee5653315b4",
@@ -21664,7 +21664,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-266de7aa904e8e0b",
@@ -21710,7 +21710,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-3b5a115f25972051",
@@ -21756,7 +21756,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-4b0aa11257548d4f",
@@ -21802,7 +21802,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-6b9fa23c9a9b0ab3",
@@ -21848,7 +21848,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-7ced5175300a95e1",
@@ -21894,7 +21894,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-8ac8fcf785d93b86",
@@ -21940,7 +21940,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-93866283c3209902",
@@ -21986,7 +21986,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-a140d87fee22eeca",
@@ -22032,7 +22032,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-b7f2337f0dc7f9c9",
@@ -22078,7 +22078,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-d40c0c8c9ce0d417",
@@ -22124,7 +22124,7 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
-      "expirado": false
+      "expirado": true
     },
     {
       "id": "Q-d4fd88f9417c40f8",
@@ -22170,6 +22170,52 @@
         "cancelado": false,
         "fonte": "clubinho"
       },
+      "expirado": true
+    },
+    {
+      "id": "Q-0c186a714990ba0f",
+      "dados": {
+        "nome": "Saveiros Tour - Baía de Guanabara",
+        "data": "2026-11-26",
+        "hora": null,
+        "local": "Marina da Glória",
+        "preco": "47.50",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/saveiros-tour-baia-de-guanabara-2923",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-26",
+          "fim": "",
+          "local": "Marina da Glória",
+          "preco": "47.50"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-26T21:44:11.131025+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
+      "observacao_atual": {
+        "nome": "Saveiros Tour - Baía de Guanabara",
+        "data": "2026-11-26",
+        "hora": null,
+        "local": "Marina da Glória",
+        "preco": "47.50",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/saveiros-tour-baia-de-guanabara-2923",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-26",
+          "fim": "",
+          "local": "Marina da Glória",
+          "preco": "47.50"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
       "expirado": false
     },
     {
@@ -22196,7 +22242,7 @@
       "primeira_deteccao": "2026-11-25T21:50:43.799285+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Parc Magique no Le Canton",
         "data": "2026-11-26",
@@ -22242,7 +22288,7 @@
       "primeira_deteccao": "2026-11-24T00:04:19.593567+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Parque Shanghai",
         "data": "2026-11-26",
@@ -22257,6 +22303,328 @@
           "fim": "",
           "local": "Parque Shanghai",
           "preco": "40.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-4cc9b9c284b85db7",
+      "dados": {
+        "nome": "Tour do Maracanã",
+        "data": "2026-11-26",
+        "hora": null,
+        "local": "Estádio do Maracanã",
+        "preco": "40.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/tour-do-maracana-1700",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-26",
+          "fim": "",
+          "local": "Estádio do Maracanã",
+          "preco": "40.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-26T21:44:11.131025+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
+      "observacao_atual": {
+        "nome": "Tour do Maracanã",
+        "data": "2026-11-26",
+        "hora": null,
+        "local": "Estádio do Maracanã",
+        "preco": "40.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/tour-do-maracana-1700",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-26",
+          "fim": "",
+          "local": "Estádio do Maracanã",
+          "preco": "40.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-565d0a1bef6ba3bf",
+      "dados": {
+        "nome": "Espaço Voltz Parkour & Trampolim Park - Barra",
+        "data": "2026-11-26",
+        "hora": null,
+        "local": "Espaço Voltz Parkour & Trampolim Park - Via Parque Shopping - Barra da Tijuca",
+        "preco": "57.40",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/voltz-parkour-barra-1562",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-26",
+          "fim": "",
+          "local": "Espaço Voltz Parkour & Trampolim Park - Via Parque Shopping - Barra da Tijuca",
+          "preco": "57.40"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-26T21:44:11.131025+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
+      "observacao_atual": {
+        "nome": "Espaço Voltz Parkour & Trampolim Park - Barra",
+        "data": "2026-11-26",
+        "hora": null,
+        "local": "Espaço Voltz Parkour & Trampolim Park - Via Parque Shopping - Barra da Tijuca",
+        "preco": "57.40",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/voltz-parkour-barra-1562",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-26",
+          "fim": "",
+          "local": "Espaço Voltz Parkour & Trampolim Park - Via Parque Shopping - Barra da Tijuca",
+          "preco": "57.40"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-5c9bb6761f71b056",
+      "dados": {
+        "nome": "AquaRio",
+        "data": "2026-11-26",
+        "hora": null,
+        "local": "AquaRio",
+        "preco": "73.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/aquario-2466",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-26",
+          "fim": "",
+          "local": "AquaRio",
+          "preco": "73.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-26T21:44:11.131025+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
+      "observacao_atual": {
+        "nome": "AquaRio",
+        "data": "2026-11-26",
+        "hora": null,
+        "local": "AquaRio",
+        "preco": "73.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/aquario-2466",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-26",
+          "fim": "",
+          "local": "AquaRio",
+          "preco": "73.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-5cf83e41a1e8426d",
+      "dados": {
+        "nome": "BioParque do Rio",
+        "data": "2026-11-26",
+        "hora": null,
+        "local": "BioParque do Rio",
+        "preco": "30.50",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/bioparque-do-rio-3031",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-26",
+          "fim": "",
+          "local": "BioParque do Rio",
+          "preco": "30.50"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-26T21:44:11.131025+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
+      "observacao_atual": {
+        "nome": "BioParque do Rio",
+        "data": "2026-11-26",
+        "hora": null,
+        "local": "BioParque do Rio",
+        "preco": "30.50",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/bioparque-do-rio-3031",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-26",
+          "fim": "",
+          "local": "BioParque do Rio",
+          "preco": "30.50"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-82d2edaea66f2d24",
+      "dados": {
+        "nome": "Kolmeia Kids",
+        "data": "2026-11-26",
+        "hora": null,
+        "local": "Norte Shopping",
+        "preco": "24.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/kolmeia-kids-4174",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-26",
+          "fim": "",
+          "local": "Norte Shopping",
+          "preco": "24.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-26T21:44:11.131025+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
+      "observacao_atual": {
+        "nome": "Kolmeia Kids",
+        "data": "2026-11-26",
+        "hora": null,
+        "local": "Norte Shopping",
+        "preco": "24.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/kolmeia-kids-4174",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-26",
+          "fim": "",
+          "local": "Norte Shopping",
+          "preco": "24.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-8a50d18227afd900",
+      "dados": {
+        "nome": "Big Jump USA - Shopping Aerotown",
+        "data": "2026-11-26",
+        "hora": null,
+        "local": "Big Jump USA - Aerotown",
+        "preco": "59.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/big-jump-usa-shopping-aerotown-2088",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-26",
+          "fim": "",
+          "local": "Big Jump USA - Aerotown",
+          "preco": "59.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-26T21:44:11.131025+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
+      "observacao_atual": {
+        "nome": "Big Jump USA - Shopping Aerotown",
+        "data": "2026-11-26",
+        "hora": null,
+        "local": "Big Jump USA - Aerotown",
+        "preco": "59.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/big-jump-usa-shopping-aerotown-2088",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-26",
+          "fim": "",
+          "local": "Big Jump USA - Aerotown",
+          "preco": "59.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-8db49d95a602499a",
+      "dados": {
+        "nome": "Yup Star Roda Gigante do Rio",
+        "data": "2026-11-26",
+        "hora": null,
+        "local": "Yup Star Roda Gigante do Rio",
+        "preco": "39.90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/yup-star-roda-gigante-do-rio-2490",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-26",
+          "fim": "",
+          "local": "Yup Star Roda Gigante do Rio",
+          "preco": "39.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-26T21:44:11.131025+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
+      "observacao_atual": {
+        "nome": "Yup Star Roda Gigante do Rio",
+        "data": "2026-11-26",
+        "hora": null,
+        "local": "Yup Star Roda Gigante do Rio",
+        "preco": "39.90",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/yup-star-roda-gigante-do-rio-2490",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-26",
+          "fim": "",
+          "local": "Yup Star Roda Gigante do Rio",
+          "preco": "39.90"
         },
         "periodo": "",
         "cancelado": false,
@@ -22288,7 +22656,7 @@
       "primeira_deteccao": "2026-11-24T00:04:19.593567+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Babilônia Circus",
         "data": "2026-11-26",
@@ -22380,7 +22748,7 @@
       "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Serginho Lacerda - Qual o seu Talento?",
         "data": "2026-11-26",
@@ -22395,6 +22763,144 @@
           "fim": "",
           "local": "Teatro Bangu Shopping",
           "preco": "60.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-ecdf260a7d1ef877",
+      "dados": {
+        "nome": "Big Jump USA - Shopping Via Brasil",
+        "data": "2026-11-26",
+        "hora": null,
+        "local": "Big Jump USA - Shopping Via Brasil",
+        "preco": "50.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/big-jump-usa-shopping-via-brasil-2095",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-26",
+          "fim": "",
+          "local": "Big Jump USA - Shopping Via Brasil",
+          "preco": "50.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-26T21:44:11.131025+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
+      "observacao_atual": {
+        "nome": "Big Jump USA - Shopping Via Brasil",
+        "data": "2026-11-26",
+        "hora": null,
+        "local": "Big Jump USA - Shopping Via Brasil",
+        "preco": "50.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/big-jump-usa-shopping-via-brasil-2095",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-26",
+          "fim": "",
+          "local": "Big Jump USA - Shopping Via Brasil",
+          "preco": "50.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-f1b63b523d786843",
+      "dados": {
+        "nome": "Museu Flamengo",
+        "data": "2026-11-26",
+        "hora": null,
+        "local": "Museu Flamengo",
+        "preco": "25.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/museu-flamengo-2470",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-26",
+          "fim": "",
+          "local": "Museu Flamengo",
+          "preco": "25.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-26T21:44:11.131025+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
+      "observacao_atual": {
+        "nome": "Museu Flamengo",
+        "data": "2026-11-26",
+        "hora": null,
+        "local": "Museu Flamengo",
+        "preco": "25.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/museu-flamengo-2470",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-26",
+          "fim": "",
+          "local": "Museu Flamengo",
+          "preco": "25.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-f9b3fd71940e937a",
+      "dados": {
+        "nome": "Museu Flamengo + Tour na Gávea",
+        "data": "2026-11-26",
+        "hora": null,
+        "local": "Museu Flamengo",
+        "preco": "35.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/museu-flamengo-tour-na-gavea-2471",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-26",
+          "fim": "",
+          "local": "Museu Flamengo",
+          "preco": "35.00"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-26T21:44:11.131025+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
+      "observacao_atual": {
+        "nome": "Museu Flamengo + Tour na Gávea",
+        "data": "2026-11-26",
+        "hora": null,
+        "local": "Museu Flamengo",
+        "preco": "35.00",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/museu-flamengo-tour-na-gavea-2471",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-26",
+          "fim": "",
+          "local": "Museu Flamengo",
+          "preco": "35.00"
         },
         "periodo": "",
         "cancelado": false,
@@ -22426,7 +22932,7 @@
       "primeira_deteccao": "2026-11-24T00:04:19.593567+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Day Use Le Canton",
         "data": "2026-11-27",
@@ -22472,7 +22978,7 @@
       "primeira_deteccao": "2026-11-24T00:04:19.593567+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Guapi Parque das Águas",
         "data": "2026-11-27",
@@ -22487,6 +22993,52 @@
           "fim": "",
           "local": "Guapi Parque das Águas",
           "preco": "29.90"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "expirado": false
+    },
+    {
+      "id": "Q-e9045d8bb02bb67d",
+      "dados": {
+        "nome": "Terra dos Dinos",
+        "data": "2026-11-27",
+        "hora": null,
+        "local": "Terra dos Dinos",
+        "preco": "27.55",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/terra-dos-dinos-3970",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-27",
+          "fim": "",
+          "local": "Terra dos Dinos",
+          "preco": "27.55"
+        },
+        "periodo": "",
+        "cancelado": false,
+        "fonte": "clubinho"
+      },
+      "primeira_deteccao": "2026-11-26T21:44:11.131025+00:00",
+      "status_editorial": "aguardando_aprovacao",
+      "lote_origem": null,
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
+      "observacao_atual": {
+        "nome": "Terra dos Dinos",
+        "data": "2026-11-27",
+        "hora": null,
+        "local": "Terra dos Dinos",
+        "preco": "27.55",
+        "idade": null,
+        "url": "https://clubinhodeofertas.com.br/rio-de-janeiro/terra-dos-dinos-3970",
+        "validacao": "sessao_plataforma",
+        "evidencia": {
+          "inicio": "2026-11-27",
+          "fim": "",
+          "local": "Terra dos Dinos",
+          "preco": "27.55"
         },
         "periodo": "",
         "cancelado": false,
@@ -22513,7 +23065,7 @@
       "validacao_R2": "prontos_para_aprovacao",
       "primeira_deteccao": "2026-11-03T18:06:59.540432+00:00",
       "expirado": false,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Cinderela",
         "data": "2026-11-28",
@@ -22558,7 +23110,7 @@
       "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Três Porquinhos Contra o Lobo Mau",
         "data": "2026-11-28",
@@ -22624,7 +23176,7 @@
       "primeira_deteccao": "2026-11-24T00:04:19.593567+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Matilda",
         "data": "2026-11-28",
@@ -22670,7 +23222,7 @@
       "primeira_deteccao": "2026-11-24T00:04:19.593567+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Brincando com Bento e Totó",
         "data": "2026-11-28",
@@ -22716,7 +23268,7 @@
       "primeira_deteccao": "2026-11-24T00:04:19.593567+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "João e Maria na Casa de Chocolate",
         "data": "2026-11-28",
@@ -22762,7 +23314,7 @@
       "primeira_deteccao": "2026-11-24T00:04:19.593567+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Lia e a Árvore da Montanha",
         "data": "2026-11-28",
@@ -22803,7 +23355,7 @@
       "validacao_R2": "prontos_para_aprovacao",
       "primeira_deteccao": "2026-11-03T18:07:24.885089+00:00",
       "expirado": false,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Três Porquinhos Contra o Lobo Mau",
         "data": "2026-11-28",
@@ -22848,7 +23400,7 @@
       "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Cinderela",
         "data": "2026-11-28",
@@ -22894,7 +23446,7 @@
       "primeira_deteccao": "2026-11-24T00:04:19.593567+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "A Fantástica Fábrica de Chocolate",
         "data": "2026-11-28",
@@ -22940,7 +23492,7 @@
       "primeira_deteccao": "2026-11-24T00:04:19.593567+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Escola do Rock",
         "data": "2026-11-28",
@@ -22981,7 +23533,7 @@
       "validacao_R2": "prontos_para_aprovacao",
       "primeira_deteccao": "2026-11-03T18:07:25.230437+00:00",
       "expirado": false,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Escola do Rock",
         "data": "2026-11-28",
@@ -23026,7 +23578,7 @@
       "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Brincando com Bento e Totó",
         "data": "2026-11-28",
@@ -23072,7 +23624,7 @@
       "primeira_deteccao": "2026-11-03T18:29:02.563831+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Matilda",
         "data": "2026-11-28",
@@ -23113,7 +23665,7 @@
       "validacao_R2": "pendentes_de_confirmacao",
       "primeira_deteccao": "2026-11-03",
       "expirado": false,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Natal Mágico na Casa da Gabby",
         "data": "2026-11-28",
@@ -23173,7 +23725,7 @@
       "validacao_R2": "prontos_para_aprovacao",
       "primeira_deteccao": "2026-11-03T18:07:25.230437+00:00",
       "expirado": false,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Escola do Rock",
         "data": "2026-11-29",
@@ -23218,7 +23770,7 @@
       "primeira_deteccao": "2026-11-20T20:32:46.916526+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Domingo no Parc Magique Le Canton",
         "data": "2026-11-29",
@@ -23264,7 +23816,7 @@
       "primeira_deteccao": "2026-11-03T18:29:02.563831+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Matilda",
         "data": "2026-11-29",
@@ -23305,7 +23857,7 @@
       "validacao_R2": "prontos_para_aprovacao",
       "primeira_deteccao": "2026-11-03T18:06:53.396620+00:00",
       "expirado": false,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Bob Zoom e a Magia do Natal",
         "data": "2026-11-29",
@@ -23350,7 +23902,7 @@
       "primeira_deteccao": "2026-11-03T18:29:02.563831+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Bob Zoom e a Magia do Natal",
         "data": "2026-11-29",
@@ -23411,7 +23963,7 @@
       "validacao_R2": "prontos_para_aprovacao",
       "primeira_deteccao": "2026-11-03T18:07:24.885089+00:00",
       "expirado": false,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Três Porquinhos Contra o Lobo Mau",
         "data": "2026-11-29",
@@ -23456,7 +24008,7 @@
       "primeira_deteccao": "2026-11-24T00:04:19.593567+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Natal da Frozen",
         "data": "2026-11-29",
@@ -23522,7 +24074,7 @@
       "primeira_deteccao": "2026-11-11T19:43:38.288540+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Quinta no Parc Magique Le Canton",
         "data": "2026-12-03",
@@ -23568,7 +24120,7 @@
       "primeira_deteccao": "2026-11-09T22:31:50.233866+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Escola do Rock",
         "data": "2026-12-04",
@@ -23660,7 +24212,7 @@
       "primeira_deteccao": "2026-11-09T22:31:50.233866+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Escola do Rock",
         "data": "2026-12-05",
@@ -23702,7 +24254,7 @@
       "primeira_deteccao": "2026-11-11T19:43:38.288540+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Sábado Musical com Jubarte, uma Viagem pelo Brasil",
         "data": "2026-12-05",
@@ -23744,7 +24296,7 @@
       "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Um Natal Congelante, O Musical ao Vivo",
         "data": "2026-12-05",
@@ -23790,7 +24342,7 @@
       "primeira_deteccao": "2026-11-24T22:37:04.514863+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Encontro da Nação - Museu Flamengo",
         "data": "2026-12-05",
@@ -23832,7 +24384,7 @@
       "primeira_deteccao": "2026-11-13T19:52:33.935588+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Dia Mundial do Solo (GRATUITO)",
         "data": "2026-12-05",
@@ -23874,7 +24426,7 @@
       "primeira_deteccao": "2026-11-21T19:29:42.738622+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Sábado Musical com Jubarte, Uma Viagem pelo Brasil",
         "data": "2026-12-05",
@@ -23920,7 +24472,7 @@
       "primeira_deteccao": "2026-11-21T19:29:42.738622+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Frozen e o Natal Mágico de Olaf",
         "data": "2026-12-05",
@@ -23966,7 +24518,7 @@
       "primeira_deteccao": "2026-11-05T20:06:58.250869+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Um Natal Congelante, O Musical ao Vivo",
         "data": "2026-12-05",
@@ -24044,7 +24596,7 @@
       "primeira_deteccao": "2026-11-24T22:37:04.514863+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Tangolomango – cantigas, histórias e brincadeiras",
         "data": "2026-12-06",
@@ -24132,7 +24684,7 @@
       "primeira_deteccao": "2026-11-09T22:31:50.233866+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Escola do Rock",
         "data": "2026-12-06",
@@ -24178,7 +24730,7 @@
       "primeira_deteccao": "2026-11-05T20:06:58.250869+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Um Natal Congelante, O Musical ao Vivo",
         "data": "2026-12-06",
@@ -24224,7 +24776,7 @@
       "primeira_deteccao": "2026-11-24T00:04:19.593567+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Patati Patatá Circo Show",
         "data": "2026-12-11",
@@ -24270,7 +24822,7 @@
       "primeira_deteccao": "2026-11-09T22:31:50.233866+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Escola do Rock",
         "data": "2026-12-11",
@@ -24316,7 +24868,7 @@
       "primeira_deteccao": "2026-11-16T22:20:12.408209+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Patrulhinha de Natal",
         "data": "2026-12-12",
@@ -24362,7 +24914,7 @@
       "primeira_deteccao": "2026-11-21T19:29:42.738622+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Os Três Porquinhos em Busca do Papai Noel",
         "data": "2026-12-12",
@@ -24408,7 +24960,7 @@
       "primeira_deteccao": "2026-11-14T18:18:17.584452+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Um Natal Congelante, O Musical ao Vivo",
         "data": "2026-12-12",
@@ -24454,7 +25006,7 @@
       "primeira_deteccao": "2026-11-09T22:31:50.233866+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Escola do Rock",
         "data": "2026-12-12",
@@ -24500,7 +25052,7 @@
       "primeira_deteccao": "2026-11-24T00:04:19.593567+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Bita em Festa dos Bichos",
         "data": "2026-12-13",
@@ -24546,7 +25098,7 @@
       "primeira_deteccao": "2026-11-09T22:31:50.233866+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Escola do Rock",
         "data": "2026-12-13",
@@ -24592,7 +25144,7 @@
       "primeira_deteccao": "2026-11-21T19:29:42.738622+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Natal do Bita",
         "data": "2026-12-20",
@@ -24638,7 +25190,7 @@
       "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Os Saltimbancos no Ritmo do Natal",
         "data": "2026-12-26",
@@ -24684,7 +25236,7 @@
       "primeira_deteccao": "2026-11-18T20:43:25.068825+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Os Saltimbancos no Ritmo do Natal",
         "data": "2026-12-26",
@@ -24730,7 +25282,7 @@
       "primeira_deteccao": "2026-11-05T20:06:58.250869+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "O Grinch: Uma História de Natal",
         "data": "2026-12-26",
@@ -24776,7 +25328,7 @@
       "primeira_deteccao": "2026-11-22T19:50:52.076800+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Os Saltimbancos no Ritmo do Natal",
         "data": "2026-12-27",
@@ -24822,7 +25374,7 @@
       "primeira_deteccao": "2026-11-24T00:04:19.593567+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Natal Mágico na Casa da Gabby",
         "data": "2026-12-27",
@@ -24868,7 +25420,7 @@
       "primeira_deteccao": "2026-11-24T00:04:19.593567+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Natal Mágico na Casa da Gabby",
         "data": "2026-12-27",
@@ -24914,7 +25466,7 @@
       "primeira_deteccao": "2026-11-24T00:04:19.593567+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Trilhas Épicas De Game Of Thrones E Senhor Dos Anéis",
         "data": "2027-01-23",
@@ -24960,7 +25512,7 @@
       "primeira_deteccao": "2026-11-24T00:04:19.593567+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-25T21:50:43.799285+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Evy, Baddie, Vai! Tour",
         "data": "2027-01-30",
@@ -25089,7 +25641,7 @@
       "primeira_deteccao": "2026-11-03T18:27:31.851599+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-24T22:37:04.514863+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "Ateliê Aberto — CCBB Educativo",
         "data": null,
@@ -25129,7 +25681,7 @@
       "primeira_deteccao": "2026-11-03T18:27:31.851599+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-24T22:37:04.514863+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "PEQUENOS EXPLORADORES — CCBB Educativo",
         "data": null,
@@ -25169,7 +25721,7 @@
       "primeira_deteccao": "2026-11-03T18:27:31.851599+00:00",
       "status_editorial": "aguardando_aprovacao",
       "lote_origem": null,
-      "ultima_deteccao": "2026-11-24T22:37:04.514863+00:00",
+      "ultima_deteccao": "2026-11-26T21:44:11.131025+00:00",
       "observacao_atual": {
         "nome": "LABORATÓRIO DE MÚSICA — CCBB Educativo",
         "data": null,
@@ -25189,5 +25741,5 @@
       "expirado": false
     }
   ],
-  "atualizado_em": "2026-11-25T21:50:43.799285+00:00"
+  "atualizado_em": "2026-11-26T21:44:11.131025+00:00"
 }
